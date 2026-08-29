@@ -1,0 +1,109 @@
+{
+  "updatedAt": "2026-08-29T03:08:39.791Z",
+  "scriptures": {
+    "file": "scriptures.json",
+    "rows": 19906,
+    "sizeBytes": 7519659
+  },
+  "bibles": [
+    {
+      "id": "web",
+      "file": "bibles/bible_web.json",
+      "name": "World English Bible",
+      "language": "English",
+      "languageCode": "en",
+      "license": "Public Domain",
+      "source": "https://ebible.org/WEB/",
+      "verseCount": 31095,
+      "sizeBytes": 4137469
+    },
+    {
+      "id": "kjv",
+      "file": "bibles/bible_kjv.json",
+      "name": "King James Version",
+      "language": "English",
+      "languageCode": "en",
+      "license": "Public Domain",
+      "source": "https://ebible.org/KJV/",
+      "verseCount": 31102,
+      "sizeBytes": 4213122
+    },
+    {
+      "id": "asv",
+      "file": "bibles/bible_asv.json",
+      "name": "American Standard Version",
+      "language": "English",
+      "languageCode": "en",
+      "license": "Public Domain",
+      "source": "https://ebible.org/ASV/",
+      "verseCount": 31086,
+      "sizeBytes": 4245117
+    },
+    {
+      "id": "bbe",
+      "file": "bibles/bible_bbe.json",
+      "name": "Bible in Basic English",
+      "language": "English",
+      "languageCode": "en",
+      "license": "Public Domain",
+      "source": "https://ebible.org/BBE/",
+      "verseCount": 31086,
+      "sizeBytes": 4237240
+    },
+    {
+      "id": "taobvsi",
+      "file": "bibles/bible_taobvsi.json",
+      "name": "Tamil Old Version (பரிசுத்த வேதாகமம்)",
+      "language": "Tamil",
+      "languageCode": "tam",
+      "license": "Public Domain (India)",
+      "source": "https://github.com/berinaniesh/bible-tamil",
+      "verseCount": 31102,
+      "sizeBytes": 12516645
+    },
+    {
+      "id": "mal_irv",
+      "file": "bibles/bible_mal_irv.json",
+      "name": "Malayalam IRV",
+      "language": "Malayalam",
+      "languageCode": "mal",
+      "license": "CC BY-SA 4.0 (2017, Bridge Connectivity Solutions)",
+      "source": "https://ebible.org/mal/",
+      "verseCount": 27248,
+      "sizeBytes": 10305930
+    },
+    {
+      "id": "kan_irv",
+      "file": "bibles/bible_kan_irv.json",
+      "name": "Kannada IRV",
+      "language": "Kannada",
+      "languageCode": "kan",
+      "license": "CC BY-SA 4.0 (2017, Bridge Connectivity Solutions)",
+      "source": "https://ebible.org/kanirv/",
+      "verseCount": 27177,
+      "sizeBytes": 9903601
+    },
+    {
+      "id": "tel_irv",
+      "file": "bibles/bible_tel_irv.json",
+      "name": "Telugu IRV",
+      "language": "Telugu",
+      "languageCode": "tel",
+      "license": "CC BY-SA 4.0 (2019, Bridge Connectivity Solutions)",
+      "source": "https://ebible.org/tel2017/",
+      "verseCount": 27154,
+      "sizeBytes": 9331861
+    },
+    {
+      "id": "hin_irv",
+      "file": "bibles/bible_hin_irv.json",
+      "name": "Hindi IRV",
+      "language": "Hindi",
+      "languageCode": "hin",
+      "license": "CC BY-SA 4.0 (2017, Bridge Connectivity Solutions)",
+      "source": "https://ebible.org/hin2017/",
+      "verseCount": 27250,
+      "sizeBytes": 9555712
+    }
+  ]
+}
