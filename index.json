@@ -1,1 +1,11 @@
-{"repository":"Christian-Tube-Releases","cdnBase":"https://cdn.jsdelivr.net/gh/rozariopersonal/Christian-Tube-Releases@main","updatedAt":"2026-09-01T14:02:05.894Z","endpoints":{"bibles":{"booksMeta":"/bibles/{version}/books.json","chapter":"/bibles/{version}/{bookNumber}/{chapter}.json"},"books":{"catalog":"/books/catalog.json","toc":"/books/{bookId}/toc.json","chapter":"/books/{bookId}/chapters/{chapterIndex}.json"},"commentaries":{"chapter":"/commentaries/{bookNumber}/{chapter}.json"},"dictionaries":{"index":"/dictionaries/{dictId}/index.json","prefixShard":"/dictionaries/{dictId}/{prefix}.json"},"crossReferences":{"chapter":"/cross_references/{bookNumber}/{chapter}.json"},"backgrounds":{"chapter":"/backgrounds/{bookCode}/{chapter}.json"},"wordsFeed":{"manifest":"/words_feed/manifest.json","daily":"/words_feed/daily.json","topic":"/words_feed/topics/{topicSlug}.json"}}}
+[
+  {
+    "videoId": "jNQXAC9IVRw",
+    "title": "The Real Test Video",
+    "channel": "English Channel",
+    "publishedAt": "2026-08-31T07:32:10.381000",
+    "transcript": "transcripts/jNQXAC9IVRw.md",
+    "insights": "insights/jNQXAC9IVRw.json",
+    "updatedAt": "2026-09-02T06:55:17Z"
+  }
+]
