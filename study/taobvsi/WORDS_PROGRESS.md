@@ -1,7 +1,7 @@
 # Bible Vocabulary Builder Progress (Normalized 2-Table Architecture)
 
 * **Status:** `RUNNING (3 parallel chapter workers)` 🟢
-* **Last Updated:** `Sunday, Nov 01, 2026 at 08:31:11 PM IST` *(Refreshed every 5s)*
+* **Last Updated:** `Sunday, Nov 01, 2026 at 08:31:31 PM IST` *(Refreshed every 5s)*
 * **Current Location:** Book `42:22:35` — **Luke (லூக்கா)**
 * **Activity:** `LLM Single-Pass (4 new, 0 amb)`
 * **Inference Engine:** `llama-server (Intel Arc Vulkan0)` (20.2ms)
@@ -11,7 +11,7 @@
 * **Verse Tokens Covered:** `356,693 / 418,550 words` (85.2%)
 * **Compounding Cache Hit Rate:** `85.5%` (3,496 0ms hits / 591 LLM definitions)
 * **Outputs Live:** SQLite (`taobvsi_glossary.sqlite` — `79,815` unique words, `356,693` verse tokens), CSV (`taobvsi_verse_words.csv` — `96.96 MB`)
-* **Elapsed Time:** `1 hr, 38 mins` | **Estimated ETA (Unique Word Model):** `~1 day, 19 hrs, 48 mins (Est. Completion: Tuesday, Nov 03, 2026 at 04:19 PM IST)`
+* **Elapsed Time:** `1 hr, 39 mins` | **Estimated ETA (Unique Word Model):** `~1 day, 19 hrs, 48 mins (Est. Completion: Tuesday, Nov 03, 2026 at 04:20 PM IST)`
 
 ### ⚡ Worker Status
 
