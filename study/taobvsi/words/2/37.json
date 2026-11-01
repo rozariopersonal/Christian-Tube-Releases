@@ -1,0 +1,3640 @@
+{
+  "book": 2,
+  "chapter": 37,
+  "total_verses": 29,
+  "total_words_expected": 363,
+  "total_words_parsed": 363,
+  "is_step1_completed": true,
+  "words": [
+    {
+      "verse": 1,
+      "word": "பெசலெயேல்",
+      "pos": "noun",
+      "canonical": "பெசலெயேல்",
+      "definition_ta": "பெசலெயேல் என்னும் பெயரைக் கொண்ட ஒரு மனிதன்.",
+      "modern_equivalent": "பெசலெயேல்",
+      "english_word": "Bezalel",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "சீத்திம்",
+      "pos": "noun",
+      "canonical": "சீத்திம்",
+      "definition_ta": "சீத்திம் என்னும் வகை மரம்.",
+      "modern_equivalent": "சீத்திம் மரம்",
+      "english_word": "acacia",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "மரத்தினால்",
+      "pos": "particle",
+      "canonical": "ஆல்",
+      "definition_ta": "ஒரு பொருளைச் செய்யப் பயன்படும் கருவி அல்லது மூலப்பொருளைக் குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "ஆல்",
+      "english_word": "of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "பெட்டியை",
+      "pos": "noun",
+      "canonical": "பெட்டி",
+      "definition_ta": "பொருட்களை வைக்கப் பயன்படும் ஒரு கொள்கலன் அல்லது பெட்டி.",
+      "modern_equivalent": "பெட்டி",
+      "english_word": "ark",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "உண்டுபண்ணினான்;",
+      "pos": "verb",
+      "canonical": "உண்டுபண்ணு",
+      "definition_ta": "ஒரு பொருளை வடிவமைத்து உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "உருவாக்கினான்",
+      "english_word": "made",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "நீளம்",
+      "pos": "noun",
+      "canonical": "நீளம்",
+      "definition_ta": "ஒரு பொருளின் ஒரு முனையிலிருந்து மறுமுனை வரை உள்ள தூரம்.",
+      "modern_equivalent": "நீளம்",
+      "english_word": "length",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "இரண்டரை",
+      "pos": "numeral",
+      "canonical": "இரண்டரை",
+      "definition_ta": "இரண்டு முழு எண்களுக்கும் அரை என்ற அளவிற்கும் மேலான அளவு.",
+      "modern_equivalent": "இரண்டரை",
+      "english_word": "three hundred",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "முழமும்",
+      "pos": "noun",
+      "canonical": "முழம்",
+      "definition_ta": "பழங்காலத்தில் ஒரு நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "அகலம்",
+      "pos": "noun",
+      "canonical": "அகலம்",
+      "definition_ta": "ஒரு பொருளின் ஒரு பக்கத்திலிருந்து அதற்கு இணையாக உள்ள மறுபக்கத்திற்கு உள்ள தூரம்.",
+      "modern_equivalent": "அகலம், அகலம்",
+      "english_word": "width",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஒன்றரை",
+      "pos": "numeral",
+      "canonical": "ஒன்றரை",
+      "definition_ta": "ஒரு முழு எண் மற்றும் அரை என்ற அளவின் கூட்டு.",
+      "modern_equivalent": "ஒன்றரை",
+      "english_word": "one hundred fifty",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "முழமும்",
+      "pos": "noun",
+      "canonical": "முழம்",
+      "definition_ta": "பழங்காலத்தில் ஒரு நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "உயரம்",
+      "pos": "noun",
+      "canonical": "உயரம்",
+      "definition_ta": "ஒரு பொருளின் தரை அல்லது அடிப்பகுதியிலிருந்து மேல்நோக்கி உள்ள செங்குத்தான தூரம் அல்லது உயரம்.",
+      "modern_equivalent": "உயரம்",
+      "english_word": "height",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஒன்றரை",
+      "pos": "numeral",
+      "canonical": "ஒன்றரை",
+      "definition_ta": "ஒரு முழு எண் மற்றும் அரை என்ற அளவின் கூட்டு.",
+      "modern_equivalent": "ஒன்றரை",
+      "english_word": "one hundred fifty",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "முழமுமானது.",
+      "pos": "noun",
+      "canonical": "முழம்",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அளவீடு.",
+      "modern_equivalent": "முழம்",
+      "english_word": "cubit",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "அதை",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட தீமையான விருட்சத்தின் கனியை இது குறிக்கிறது.",
+      "modern_equivalent": "அதை",
+      "english_word": "It",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "உள்ளும்",
+      "pos": "adverb",
+      "canonical": "உள்ளே",
+      "definition_ta": "பேழையின் உட்புறத்தில் அல்லது உட்புறமாக என்று குறிக்கிறது.",
+      "modern_equivalent": "உள்ளே",
+      "english_word": "inside",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "புறம்பும்",
+      "pos": "noun",
+      "canonical": "புறம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பிற்கு வெளியே உள்ள வெளிப்பகுதி.",
+      "modern_equivalent": "வெளிப்புறம்",
+      "english_word": "countryside",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "பசும்பொன்",
+      "pos": "adjective",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "தூய்மையான அல்லது சுத்தமான தங்கம்.",
+      "modern_equivalent": "தூய தங்கம்",
+      "english_word": "pure gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "தகட்டால்",
+      "pos": "verb",
+      "canonical": "தகடு",
+      "definition_ta": "ஒரு பொருளின் மேல் ஒரு தட்டையான பொருளைப் பொருத்தி இணைத்தல்.",
+      "modern_equivalent": "தகடு போடு",
+      "english_word": "overlay",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "மூடி,",
+      "pos": "verb",
+      "canonical": "மூடு",
+      "definition_ta": "ஒரு பொருளின் மேல் ஒரு பொருளை வைத்து மறைக்கும் அல்லது மூடும் செயல்.",
+      "modern_equivalent": "மூடும்",
+      "english_word": "cover",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "சுற்றிலும்",
+      "pos": "adverb",
+      "canonical": "சுற்றிலும்",
+      "definition_ta": "ஒரு பொருளின் அல்லது இடத்தின் அருகாமையில் அல்லது அதைச் சூழ்ந்து",
+      "modern_equivalent": "அருகில்",
+      "english_word": "around",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "அதற்குப்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "ஆதாம் பெயரிட்ட அந்த குறிப்பிட்ட ஜீவஜந்தையைக் குறிக்கிறது.",
+      "modern_equivalent": "அதற்கு",
+      "english_word": "to it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "பொன்",
+      "pos": "noun",
+      "canonical": "பொன்",
+      "definition_ta": "தங்கத்தை குறிக்கும் விலைமதிப்பற்ற உலோகத்தின் பெயர்.",
+      "modern_equivalent": "தங்கம்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "திரணையை",
+      "pos": "noun",
+      "canonical": "திரணை",
+      "definition_ta": "ஒரு பொருளைச் சுற்றிச் சுற்றும்படி அமைக்கப்படும் ஒரு வளையம் அல்லது கோடு.",
+      "modern_equivalent": "வளையம், கோடு",
+      "english_word": "frieze",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "உண்டாக்கி,",
+      "pos": "verb",
+      "canonical": "உருவாக்கு",
+      "definition_ta": "தேவன் தனது வல்லமையால் தோட்டத்தை படைத்ததை இது குறிக்கிறது.",
+      "modern_equivalent": "படைத்து",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "அதற்கு",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "தேவன் ஆதாம் கேட்ட கேள்விக்கு பதிலளிக்கும்போது பயன்படுத்தப்பட்ட பிரதிபெயர்.",
+      "modern_equivalent": "அதற்கு",
+      "english_word": "to it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 3,
+      "word": "நான்கு",
+      "pos": "numeral",
+      "canonical": "நான்கு",
+      "definition_ta": "எண் நான்குவைக் குறிக்கும் எண்ணுப்பெயர்.",
+      "modern_equivalent": "நான்கு",
+      "english_word": "four",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "பொன்",
+      "pos": "noun",
+      "canonical": "பொன்",
+      "definition_ta": "தங்கத்தை குறிக்கும் விலைமதிப்பற்ற உலோகத்தின் பெயர்.",
+      "modern_equivalent": "தங்கம்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "வளையங்களை",
+      "pos": "noun",
+      "canonical": "வளையம்",
+      "definition_ta": "வட்டமான அல்லது வட்ட வடிவத்தில் உள்ள ஒரு பொருள்.",
+      "modern_equivalent": "வளையங்கள்",
+      "english_word": "rings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "வார்ப்பித்து,",
+      "pos": "verb",
+      "canonical": "வார்ப்பி",
+      "definition_ta": "உலோகத்தை உருக்கி ஒரு வடிவத்தில் ஊற்றி உருவாக்குதல்.",
+      "modern_equivalent": "வார்ப்பி",
+      "english_word": "cast",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "அவைகளை",
+      "pos": "pronoun",
+      "canonical": "அவை",
+      "definition_ta": "தேவன் பிரிக்கவும் உருவாக்கியவும் செய்த பகல், இரவு, ஒளி மற்றும் இருளை இது குறிக்கிறது.",
+      "modern_equivalent": "அவை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "நாலு",
+      "pos": "numeral",
+      "canonical": "நான்கு",
+      "definition_ta": "எண்ணிக்கையில் நான்கு என்ற எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "4",
+      "english_word": "four",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "மூலைகளிலும்",
+      "pos": "noun",
+      "canonical": "மூலை",
+      "definition_ta": "ஒரு பொருளின் அல்லது இடத்தின் முனை அல்லது கோணம்.",
+      "modern_equivalent": "மூலைகள்",
+      "english_word": "corners",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "போட்டு,",
+      "pos": "verb",
+      "canonical": "போடு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்தில் நிலைநிறுத்துதல் அல்லது அமைத்தல்.",
+      "modern_equivalent": "அமைத்தார்",
+      "english_word": "pitched",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "பக்கத்தில்",
+      "pos": "adverb",
+      "canonical": "பக்கம்",
+      "definition_ta": "ஒரு பொருளின் அருகில் அல்லது அதன் பக்கவாட்டில் உள்ள நிலை.",
+      "modern_equivalent": "அருகில்",
+      "english_word": "beside",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "வளையங்களும்",
+      "pos": "noun",
+      "canonical": "வளையம்",
+      "definition_ta": "வட்டமான அல்லது வட்ட வடிவத்தில் உள்ள ஒரு பொருள்.",
+      "modern_equivalent": "வளையங்கள்",
+      "english_word": "rings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "மறுபக்கத்தில்",
+      "pos": "adverb",
+      "canonical": "மறுபக்கம்",
+      "definition_ta": "ஒரு பக்கத்திற்கு நேர் எதிர் பக்கம்.",
+      "modern_equivalent": "எதிர் பக்கம்",
+      "english_word": "on the other side",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "வளையங்களும்",
+      "pos": "noun",
+      "canonical": "வளையம்",
+      "definition_ta": "வட்டமான அல்லது வட்ட வடிவத்தில் உள்ள ஒரு பொருள்.",
+      "modern_equivalent": "வளையங்கள்",
+      "english_word": "rings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "இருக்கும்படி",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒருவர் ஒருவருடைய அருகாமையில் தங்கியிருப்பதைக் குறிக்கும் வினைச்சொல்.",
+      "modern_equivalent": "இருப்பது",
+      "english_word": "be",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "தைத்து,",
+      "pos": "verb",
+      "canonical": "தை",
+      "definition_ta": "அத்தியிலைகளை ஒன்றாக இணைத்து தைக்கும் செயலைக் குறிக்கிறது.",
+      "modern_equivalent": "தையு",
+      "english_word": "sewed",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "சீத்திம்",
+      "pos": "noun",
+      "canonical": "சீத்திம்",
+      "definition_ta": "சீத்திம் என்னும் வகை மரம்.",
+      "modern_equivalent": "சீத்திம் மரம்",
+      "english_word": "acacia",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "மரத்தினால்",
+      "pos": "particle",
+      "canonical": "ஆல்",
+      "definition_ta": "ஒரு பொருளைச் செய்யப் பயன்படும் கருவி அல்லது மூலப்பொருளைக் குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "ஆல்",
+      "english_word": "of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "தண்டுகளைச்",
+      "pos": "noun",
+      "canonical": "தண்டு",
+      "definition_ta": "ஒரு பொருளைத் தாங்குவதற்கு அல்லது பிடிப்பதற்குப் பயன்படும் நீண்ட மற்றும் மெல்லிய அமைப்பு.",
+      "modern_equivalent": "தண்டுகள்",
+      "english_word": "rods",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "செய்து,",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலை அல்லது ஒரு காரியத்தை நிறைவேற்றுதல் அல்லது ஒரு செயலைச் செய்தல்.",
+      "modern_equivalent": "செய்து",
+      "english_word": "did",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "அவைகளைப்",
+      "pos": "pronoun",
+      "canonical": "அவை",
+      "definition_ta": "முன்னர் குறிப்பிட்ட விலங்குகளை அல்லது பறவைகளை குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவற்றை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "பொன்தகட்டால்",
+      "pos": "noun",
+      "canonical": "பொன்தகடு",
+      "definition_ta": "தங்கலால் செய்யப்பட்ட மெல்லிய தட்டு அல்லது கவசம்.",
+      "modern_equivalent": "தங்கத்தகடு",
+      "english_word": "gold plates",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "மூடி,",
+      "pos": "verb",
+      "canonical": "மூடு",
+      "definition_ta": "ஒரு பொருளின் மேல் ஒரு பொருளை வைத்து மறைக்கும் அல்லது மூடும் செயல்.",
+      "modern_equivalent": "மூடும்",
+      "english_word": "cover",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "அந்த",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட ஒரு தேசத்தைக் குறிக்கும் சுட்டுப்பெயர்.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "தண்டுகளால்",
+      "pos": "noun",
+      "canonical": "தண்டு",
+      "definition_ta": "ஒரு பொருளைத் தாங்குவதற்கு அல்லது நகர்த்துவதற்குப் பயன்படும் நீண்டக் குச்சி அல்லது தடி.",
+      "modern_equivalent": "தண்டுகள்",
+      "english_word": "poles",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "பெட்டியைச்",
+      "pos": "noun",
+      "canonical": "பெட்டி",
+      "definition_ta": "பொருட்களைச் சேமிக்கவோ அல்லது கொண்டு செல்லவோ பயன்படும் ஒரு கொள்கலன்.",
+      "modern_equivalent": "பெட்டி",
+      "english_word": "ark",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "சுமக்கும்படி,",
+      "pos": "verb",
+      "canonical": "சும",
+      "definition_ta": "ஒரு பொருளைத் தோளில் அல்லது கையில் ஏற்றி எடுத்துச் செல்லுதல்.",
+      "modern_equivalent": "சுமக்க",
+      "english_word": "to bear",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "அவைகளைப்",
+      "pos": "pronoun",
+      "canonical": "அவை",
+      "definition_ta": "முன்னர் குறிப்பிட்ட விலங்குகளை அல்லது பறவைகளை குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவற்றை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "பெட்டியின்",
+      "pos": "noun",
+      "canonical": "பெட்டி",
+      "definition_ta": "பொருட்களைச் சேமிக்கவோ அல்லது கொண்டு செல்லவோ பயன்படும் ஒரு கொள்கலன்.",
+      "modern_equivalent": "பெட்டி",
+      "english_word": "ark",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "பக்கங்களில்",
+      "pos": "noun",
+      "canonical": "பக்கம்",
+      "definition_ta": "ஒரு பொருளின் அல்லது ஒரு இடத்தின் ஒரு பகுதி அல்லது பரப்பு.",
+      "modern_equivalent": "பக்கங்கள்",
+      "english_word": "sides",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "இருக்கும்",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்று அல்லது தங்கியிருப்பது.",
+      "modern_equivalent": "இருந்த",
+      "english_word": "were",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "வளையங்களிலே",
+      "pos": "noun",
+      "canonical": "வளையம்",
+      "definition_ta": "ஒரு பொருளைப் பிணைக்க அல்லது தாங்குவதற்குப் பயன்படும் வட்ட வடிவக் கம்பி அல்லது வளையம்.",
+      "modern_equivalent": "வளையங்கள்",
+      "english_word": "rings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "பாய்ச்சினான்.",
+      "pos": "verb",
+      "canonical": "பாய்ச்சு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு வேகமாக எறிந்து அனுப்புதல்.",
+      "modern_equivalent": "எறிந்தார்",
+      "english_word": "cast",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "கிருபாசனத்தையும்",
+      "pos": "noun",
+      "canonical": "கிருபாசனம்",
+      "definition_ta": "அதிகாரத்தில் இருப்பவர் அமரும் சிம்மாசனம் அல்லது உயர்வான இருக்கை.",
+      "modern_equivalent": "சிம்மாசனம்",
+      "english_word": "throne",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "பசும்பொன்னினால்",
+      "pos": "noun",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "அதிகமான தங்கம் கலந்த அல்லது தங்கம் போன்ற நிறமுடைய உலோகப் பொருள்.",
+      "modern_equivalent": "பசும்பொன்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "பண்ணினான்;",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்து முடிப்பதைக் குறிக்கும் வினைச்சொல்.",
+      "modern_equivalent": "செய்தான்",
+      "english_word": "did",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 6,
+      "word": "இரண்டரை",
+      "pos": "numeral",
+      "canonical": "இரண்டரை",
+      "definition_ta": "இரண்டு முழு எண்களுக்கும் அரை என்ற அளவிற்கும் மேலான அளவு.",
+      "modern_equivalent": "இரண்டரை",
+      "english_word": "three hundred",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "முழ",
+      "pos": "noun",
+      "canonical": "முழ",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "நீளமும்",
+      "pos": "noun",
+      "canonical": "நீளம்",
+      "definition_ta": "ஒரு பொருளின் ஒரு முனையிலிருந்து மற்றொரு முனை வரை உள்ள தூரம்.",
+      "modern_equivalent": "நீளம்",
+      "english_word": "length",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ஒன்றரை",
+      "pos": "numeral",
+      "canonical": "ஒன்றரை",
+      "definition_ta": "ஒரு முழு எண் மற்றும் அரை என்ற அளவின் கூட்டு.",
+      "modern_equivalent": "ஒன்றரை",
+      "english_word": "one hundred fifty",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "முழ",
+      "pos": "noun",
+      "canonical": "முழ",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "அகலமுமானது.",
+      "pos": "adjective",
+      "canonical": "அகலம்",
+      "definition_ta": "ஒரு பொருளின் ஒரு பக்கத்திலிருந்து மறுபக்கத்திற்கு உள்ளான தூரம் அல்லது விரிவு.",
+      "modern_equivalent": "அகலமானது",
+      "english_word": "wide",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "தகடாய்",
+      "pos": "noun",
+      "canonical": "தகடு",
+      "definition_ta": "ஒரு பொருளை அடித்துச் செய்த மெல்லிய தளம் அல்லது பலகை.",
+      "modern_equivalent": "தகடு",
+      "english_word": "plate",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "அடிக்கப்பட்ட",
+      "pos": "adjective",
+      "canonical": "அடிக்கப்பட்ட",
+      "definition_ta": "ஒரு பொருளை அடித்து அல்லது தட்டி வடிவமைக்கப்பட்ட நிலை.",
+      "modern_equivalent": "உருவாக்கப்பட்ட",
+      "english_word": "beaten",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "பொன்னினால்",
+      "pos": "particle",
+      "canonical": "பொன்",
+      "definition_ta": "தங்கத்தை குறிக்கும் ஒரு சொல்.",
+      "modern_equivalent": "தங்கத்தால்",
+      "english_word": "with gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "கேருபீன்களையும்",
+      "pos": "noun",
+      "canonical": "கேருபீன்",
+      "definition_ta": "தேவனுடைய சமூகத்தில் உள்ள ஒரு வகை வானதூதர்கள்.",
+      "modern_equivalent": "கேருபீன்களையும்",
+      "english_word": "cherubim",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "உண்டாக்கி,",
+      "pos": "verb",
+      "canonical": "உருவாக்கு",
+      "definition_ta": "தேவன் தனது வல்லமையால் தோட்டத்தை படைத்ததை இது குறிக்கிறது.",
+      "modern_equivalent": "படைத்து",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "கிருபாசனத்தின்",
+      "pos": "noun",
+      "canonical": "கிருபாசனம்",
+      "definition_ta": "தேவன் வீற்றிருக்கும் மகிமையுள்ள சிம்மாசனம்.",
+      "modern_equivalent": "சிம்மாசனம்",
+      "english_word": "mercy seat",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "ஓரங்களிலே,",
+      "pos": "noun",
+      "canonical": "ஓரம்",
+      "definition_ta": "ஒரு பொருளின் விளிம்பு அல்லது ஒரு குறிப்பிட்ட எல்லைப் பகுதி.",
+      "modern_equivalent": "ஓரங்கள்",
+      "english_word": "ends",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "ஒருபுறத்து",
+      "pos": "adverb",
+      "canonical": "ஒருபுறம்",
+      "definition_ta": "ஒரு பக்கத்திலோ அல்லது ஒரு திசையிலோ உள்ள நிலையை குறிக்கும் சொல்.",
+      "modern_equivalent": "ஒரு பக்கம்",
+      "english_word": "on one side",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "ஓரத்தில்",
+      "pos": "noun",
+      "canonical": "ஓரம்",
+      "definition_ta": "ஒரு இடத்தின் எல்லை அல்லது ஒரு பொருளின் விளிம்பு.",
+      "modern_equivalent": "எல்லை",
+      "english_word": "bank",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "கேருபீனும்",
+      "pos": "noun",
+      "canonical": "கேருபீன்",
+      "definition_ta": "தேவனுடைய சமூகத்தில் உள்ள ஒரு வகை உயர்நிலை ஆவி அல்லது தூதனின் பெயர்.",
+      "modern_equivalent": "தேவ தூதன்",
+      "english_word": "cherub",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "மறுபுறத்து",
+      "pos": "adverb",
+      "canonical": "மறுபுறம்",
+      "definition_ta": "எதிர் பக்கத்திலோ அல்லது அடுத்த பக்கத்திலோ உள்ள நிலையை குறிக்கும் சொல்.",
+      "modern_equivalent": "மறு பக்கம்",
+      "english_word": "on the other side",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "ஓரத்தில்",
+      "pos": "noun",
+      "canonical": "ஓரம்",
+      "definition_ta": "ஒரு இடத்தின் எல்லை அல்லது ஒரு பொருளின் விளிம்பு.",
+      "modern_equivalent": "எல்லை",
+      "english_word": "bank",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "மற்றக்",
+      "pos": "adjective",
+      "canonical": "மற்ற",
+      "definition_ta": "வேறு அல்லது வேறொரு பொருளைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "வேறு",
+      "english_word": "another",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "கேருபீனுமாக",
+      "pos": "noun",
+      "canonical": "கேருபீன்",
+      "definition_ta": "தேவனுடைய சமூகத்தில் உள்ள ஒரு வகை உயர்நிலை ஆவி அல்லது தூதனின் பெயர்.",
+      "modern_equivalent": "தேவ தூதன்",
+      "english_word": "cherub",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "அந்தக்",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் சுட்டுச்சொல்.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "கேருபீன்களைக்",
+      "pos": "noun",
+      "canonical": "கேருபீன்",
+      "definition_ta": "தேவனுடைய சமூகத்தில் உள்ள ஒரு வகை உயர்நிலை ஆவி அல்லது தூதனின் பெயர்.",
+      "modern_equivalent": "தேவ தூதர்கள்",
+      "english_word": "cherubim",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "கிருபாசனத்தின்",
+      "pos": "noun",
+      "canonical": "கிருபாசனம்",
+      "definition_ta": "தேவன் வீற்றிருக்கும் மகிமையுள்ள சிம்மாசனம்.",
+      "modern_equivalent": "சிம்மாசனம்",
+      "english_word": "mercy seat",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "ஓரங்களிலும்",
+      "pos": "noun",
+      "canonical": "ஓரம்",
+      "definition_ta": "ஒரு பொருளின் விளிம்பு அல்லது ஒரு பக்கத்தின் முடிவு.",
+      "modern_equivalent": "பக்கம்",
+      "english_word": "ends",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "அதனோடே",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்பு குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "ஏக",
+      "pos": "adjective",
+      "canonical": "ஏக",
+      "definition_ta": "ஒரே ஒரு அல்லது தனித்துவமான என்பதைக் குறிக்கும் அடைமொழி.",
+      "modern_equivalent": "ஒரே",
+      "english_word": "one",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "வேலைப்பாடாகவே",
+      "pos": "noun",
+      "canonical": "வேலைப்பாடு",
+      "definition_ta": "ஒரு குறிப்பிட்ட நோக்கத்திற்காகச் செய்யப்படும் ஒரு குறிப்பிட்ட வகை வேலை அல்லது பணி.",
+      "modern_equivalent": "வேலை",
+      "english_word": "work",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "பண்ணினான்.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்து முடிப்பதைக் குறிக்கும் வினைச்சொல்.",
+      "modern_equivalent": "செய்தான்",
+      "english_word": "did",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "அந்தக்",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் சுட்டுச்சொல்.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "கேருபீன்கள்",
+      "pos": "noun",
+      "canonical": "கேருபீன்",
+      "definition_ta": "தேவனுடைய சமூகத்தில் உள்ள ஒரு வகை வானதூதர்கள்.",
+      "modern_equivalent": "வானதூதர்கள்",
+      "english_word": "cherubim",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "செட்டைகளை",
+      "pos": "noun",
+      "canonical": "செட்டை",
+      "definition_ta": "சிறகுகள் அல்லது பறக்கும் உயிரினத்தின் உடல் உறுப்பு.",
+      "modern_equivalent": "சிறகுகள்",
+      "english_word": "wings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "உயர",
+      "pos": "adjective",
+      "canonical": "உயர",
+      "definition_ta": "அதிகமான உயரம் கொண்ட அல்லது மேல்தரத்தில் உள்ள.",
+      "modern_equivalent": "உயர்ந்த",
+      "english_word": "high",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "விரித்து,",
+      "pos": "verb",
+      "canonical": "விரி",
+      "definition_ta": "விரிப்பதைக் குறிக்கும் வினைச்சொல்.",
+      "modern_equivalent": "விரித்து",
+      "english_word": "spread",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "செட்டைகளால்",
+      "pos": "noun",
+      "canonical": "செட்டை",
+      "definition_ta": "சிறகுகள் அல்லது பறக்கும் உயிரினத்தின் உடல் உறுப்பு.",
+      "modern_equivalent": "சிறகுகளால்",
+      "english_word": "with wings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "கிருபாசனத்தை",
+      "pos": "noun",
+      "canonical": "கிருபாசனம்",
+      "definition_ta": "தேவன் வீற்றிருக்கும் சிம்மாசனம் அல்லது மகிமையின் இருக்கை.",
+      "modern_equivalent": "சிம்மாசனம்",
+      "english_word": "throne",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "மூடுகிறவைகளும்,",
+      "pos": "verb",
+      "canonical": "மூடு",
+      "definition_ta": "ஒரு பொருளை மறைப்பதைக் குறிக்கும் வினைச்சொல்.",
+      "modern_equivalent": "மூடுகிற",
+      "english_word": "covering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஒன்றுக்கொன்று",
+      "pos": "adverb",
+      "canonical": "ஒன்றுக்கொன்று",
+      "definition_ta": "ஒருவருடன் ஒருவருமாக அல்லது ஒரு பொருளுடன் ஒரு பொருமாக.",
+      "modern_equivalent": "ஒன்றோடு ஒன்று",
+      "english_word": "against one another",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "எதிர்முகமுள்ளவைகளுமாயிருந்தது;",
+      "pos": "adjective",
+      "canonical": "எதிர்முகம்",
+      "definition_ta": "ஒருவருக்கொருவர் நேருக்கு நேராக அல்லது முகம்முகமாக இருக்கும் நிலை.",
+      "modern_equivalent": "நேருக்கு நேராக",
+      "english_word": "opposite",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "கேருபீன்களின்",
+      "pos": "noun",
+      "canonical": "கேருபீன்",
+      "definition_ta": "தேவனுடைய சமூகத்தில் உள்ள ஒரு வகை உயர்நிலை ஆவிக்குரிய தூதர்கள்.",
+      "modern_equivalent": "தேவ தூதர்கள்",
+      "english_word": "cherubim",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "முகங்கள்",
+      "pos": "noun",
+      "canonical": "முகம்",
+      "definition_ta": "ஒரு மனிதனின் தலைக்கும் கழுத்திற்கும் இடைப்பட்ட முன்பகுதி.",
+      "modern_equivalent": "முகங்கள்",
+      "english_word": "faces",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "கிருபாசனத்தை",
+      "pos": "noun",
+      "canonical": "கிருபாசனம்",
+      "definition_ta": "தேவன் வீற்றிருக்கும் சிம்மாசனம் அல்லது மகிமையின் இருக்கை.",
+      "modern_equivalent": "சிம்மாசனம்",
+      "english_word": "throne",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "நோக்கிக்கொண்டிருந்தது.",
+      "pos": "verb",
+      "canonical": "நோக்கு",
+      "definition_ta": "ஒரு பொருளை அல்லது ஒருவரை ஒருமுகமாகப் பார்ப்பது.",
+      "modern_equivalent": "பார்த்துக் கொண்டிருந்தது",
+      "english_word": "beheld",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "மேஜையையும்",
+      "pos": "noun",
+      "canonical": "மேஜை",
+      "definition_ta": "உணவு உண்ண அல்லது பொருட்களை வைக்கப் பயன்படும் ஒரு தளம்.",
+      "modern_equivalent": "மேசை",
+      "english_word": "table",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "சீத்திம்",
+      "pos": "noun",
+      "canonical": "சீத்திம்",
+      "definition_ta": "சீத்திம் என்னும் வகை மரம்.",
+      "modern_equivalent": "சீத்திம் மரம்",
+      "english_word": "acacia",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "மரத்தால்",
+      "pos": "noun",
+      "canonical": "மரம்",
+      "definition_ta": "மரம்: வேர்கள், தண்டு மற்றும் கிளைகளைக் கொண்ட ஒரு தாவர வகை.",
+      "modern_equivalent": "மரம்",
+      "english_word": "wood",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "பண்ணினான்;",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்து முடிப்பதைக் குறிக்கும் வினைச்சொல்.",
+      "modern_equivalent": "செய்தான்",
+      "english_word": "did",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 10,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "முழ",
+      "pos": "noun",
+      "canonical": "முழ",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "நீளமும்",
+      "pos": "noun",
+      "canonical": "நீளம்",
+      "definition_ta": "ஒரு பொருளின் ஒரு முனையிலிருந்து மற்றொரு முனை வரை உள்ள தூரம்.",
+      "modern_equivalent": "நீளம்",
+      "english_word": "length",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "முழ",
+      "pos": "noun",
+      "canonical": "முழ",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "அகலமும்",
+      "pos": "noun",
+      "canonical": "அகலம்",
+      "definition_ta": "ஒரு பொருளின் ஒரு பக்கத்திலிருந்து மற்றொரு பக்கத்திற்கு உள்ள அகலமான தூரம்.",
+      "modern_equivalent": "அகலம்",
+      "english_word": "breadth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "ஒன்றரை",
+      "pos": "numeral",
+      "canonical": "ஒன்றரை",
+      "definition_ta": "ஒரு முழு எண் மற்றும் அரை என்ற அளவின் கூட்டு.",
+      "modern_equivalent": "ஒன்றரை",
+      "english_word": "one hundred fifty",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "முழ",
+      "pos": "noun",
+      "canonical": "முழ",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "உயரமுமானது.",
+      "pos": "adjective",
+      "canonical": "உயரம்",
+      "definition_ta": "மேலிருந்து கீழான தூரம் அல்லது செங்குத்தான அளவு.",
+      "modern_equivalent": "உயரமானது",
+      "english_word": "high",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "அதைப்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "தேவன் ஆசீர்வதித்து பரிசுத்தமாக்கிய ஏழாம் நாளைக் குறிக்கிறது.",
+      "modern_equivalent": "அதை",
+      "english_word": "it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "பசும்பொன்தகட்டால்",
+      "pos": "noun",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "தூய்மையான அல்லது சுத்தமான தங்கம்.",
+      "modern_equivalent": "தூய தங்கம்",
+      "english_word": "pure gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "மூடி,",
+      "pos": "verb",
+      "canonical": "மூடு",
+      "definition_ta": "ஒரு பொருளின் மேல் ஒரு பொருளை வைத்து மறைக்கும் அல்லது மூடும் செயல்.",
+      "modern_equivalent": "மூடும்",
+      "english_word": "cover",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "சுற்றிலும்",
+      "pos": "adverb",
+      "canonical": "சுற்றிலும்",
+      "definition_ta": "ஒரு பொருளின் அல்லது இடத்தின் அருகாமையில் அல்லது அதைச் சூழ்ந்து",
+      "modern_equivalent": "அருகில்",
+      "english_word": "around",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "அதற்குப்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "ஆதாம் பெயரிட்ட அந்த குறிப்பிட்ட ஜீவஜந்தையைக் குறிக்கிறது.",
+      "modern_equivalent": "அதற்கு",
+      "english_word": "to it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "பொன்",
+      "pos": "noun",
+      "canonical": "பொன்",
+      "definition_ta": "தங்கத்தை குறிக்கும் விலைமதிப்பற்ற உலோகத்தின் பெயர்.",
+      "modern_equivalent": "தங்கம்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "திரணையை",
+      "pos": "noun",
+      "canonical": "திரணை",
+      "definition_ta": "ஒரு பொருளைச் சுற்றிச் சுற்றும்படி அமைக்கப்படும் ஒரு வளையம் அல்லது கோடு.",
+      "modern_equivalent": "வளையம், கோடு",
+      "english_word": "frieze",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "உண்டாக்கி,",
+      "pos": "verb",
+      "canonical": "உருவாக்கு",
+      "definition_ta": "தேவன் தனது வல்லமையால் தோட்டத்தை படைத்ததை இது குறிக்கிறது.",
+      "modern_equivalent": "படைத்து",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "சுற்றிலும்",
+      "pos": "adverb",
+      "canonical": "சுற்றிலும்",
+      "definition_ta": "ஒரு பொருளின் அல்லது இடத்தின் அருகாமையில் அல்லது அதைச் சூழ்ந்து",
+      "modern_equivalent": "அருகில்",
+      "english_word": "around",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "அதற்கு",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "தேவன் ஆதாம் கேட்ட கேள்விக்கு பதிலளிக்கும்போது பயன்படுத்தப்பட்ட பிரதிபெயர்.",
+      "modern_equivalent": "அதற்கு",
+      "english_word": "to it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 12,
+      "word": "நான்கு",
+      "pos": "numeral",
+      "canonical": "நான்கு",
+      "definition_ta": "எண் நான்குவைக் குறிக்கும் எண்ணுப்பெயர்.",
+      "modern_equivalent": "நான்கு",
+      "english_word": "four",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "விரற்கடையான",
+      "pos": "adjective",
+      "canonical": "விரற்கடை",
+      "definition_ta": "நான்கு விரல்களின் நீளத்தைக் குறிக்கும் அளவு.",
+      "modern_equivalent": "நான்கு விரல் அளவு",
+      "english_word": "four fingers wide",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "சட்டத்தையும்,",
+      "pos": "noun",
+      "canonical": "சட்டம்",
+      "definition_ta": "ஒரு பொருளின் விளிம்பு அல்லது ஓரளவு.",
+      "modern_equivalent": "ஓரம்",
+      "english_word": "frieze",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "சட்டத்திற்குச்",
+      "pos": "noun",
+      "canonical": "சட்டம்",
+      "definition_ta": "ஒரு பொருளின் விளிம்பு அல்லது ஓரளவு.",
+      "modern_equivalent": "ஓரம்",
+      "english_word": "frieze",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "சுற்றிலும்",
+      "pos": "adverb",
+      "canonical": "சுற்றிலும்",
+      "definition_ta": "ஒரு பொருளின் அல்லது இடத்தின் அருகாமையில் அல்லது அதைச் சூழ்ந்து",
+      "modern_equivalent": "அருகில்",
+      "english_word": "around",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "பொன்",
+      "pos": "noun",
+      "canonical": "பொன்",
+      "definition_ta": "தங்கத்தை குறிக்கும் விலைமதிப்பற்ற உலோகத்தின் பெயர்.",
+      "modern_equivalent": "தங்கம்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "திரணையையும்",
+      "pos": "noun",
+      "canonical": "திரணை",
+      "definition_ta": "ஒரு பொருளின் விளிம்பில் அமைந்துள்ள அலங்காரப் பட்டா.",
+      "modern_equivalent": "அலங்காரப் பட்டை",
+      "english_word": "border",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "உண்டுபண்ணி,",
+      "pos": "verb",
+      "canonical": "உண்",
+      "definition_ta": "ஒரு பொருளை அல்லது நிலையை உருவாக்குதல்.",
+      "modern_equivalent": "உருவாக்கினார்",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "அதற்கு",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "தேவன் ஆதாம் கேட்ட கேள்விக்கு பதிலளிக்கும்போது பயன்படுத்தப்பட்ட பிரதிபெயர்.",
+      "modern_equivalent": "அதற்கு",
+      "english_word": "to it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 13,
+      "word": "நான்கு",
+      "pos": "numeral",
+      "canonical": "நான்கு",
+      "definition_ta": "எண் நான்குவைக் குறிக்கும் எண்ணுப்பெயர்.",
+      "modern_equivalent": "நான்கு",
+      "english_word": "four",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "பொன்வளையங்களை",
+      "pos": "noun",
+      "canonical": "பொன்வளையம்",
+      "definition_ta": "தங்கத்தால் செய்யப்பட்ட வட்ட வடிவ ஆபரணம்.",
+      "modern_equivalent": "தங்க வளையங்கள்",
+      "english_word": "gold rings",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "வார்ப்பித்து,",
+      "pos": "verb",
+      "canonical": "வார்ப்பி",
+      "definition_ta": "உலோகத்தை உருக்கி ஒரு வடிவத்தில் ஊற்றி உருவாக்குதல்.",
+      "modern_equivalent": "வார்ப்பி",
+      "english_word": "cast",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "அவைகளை",
+      "pos": "pronoun",
+      "canonical": "அவை",
+      "definition_ta": "தேவன் பிரிக்கவும் உருவாக்கியவும் செய்த பகல், இரவு, ஒளி மற்றும் இருளை இது குறிக்கிறது.",
+      "modern_equivalent": "அவை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "நாலு",
+      "pos": "numeral",
+      "canonical": "நான்கு",
+      "definition_ta": "எண்ணிக்கையில் நான்கு என்ற எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "4",
+      "english_word": "four",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "கால்களுக்கு",
+      "pos": "noun",
+      "canonical": "கால்",
+      "definition_ta": "உடலின் ஒரு உறுப்பு, நடப்பதற்கு பயன்படுவது",
+      "modern_equivalent": "பாதம்",
+      "english_word": "feet",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "இருக்கும்",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்று அல்லது தங்கியிருப்பது.",
+      "modern_equivalent": "இருந்த",
+      "english_word": "were",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "நாலு",
+      "pos": "numeral",
+      "canonical": "நான்கு",
+      "definition_ta": "எண்ணிக்கையில் நான்கு என்ற எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "4",
+      "english_word": "four",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "மூலைகளிலும்",
+      "pos": "noun",
+      "canonical": "மூலை",
+      "definition_ta": "ஒரு பொருளின் அல்லது இடத்தின் முனை அல்லது கோணம்.",
+      "modern_equivalent": "மூலைகள்",
+      "english_word": "corners",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "தைத்தான்.",
+      "pos": "verb",
+      "canonical": "தை",
+      "definition_ta": "ஒரு பொருளை மற்றொரு பொருளுடன் இணைக்க அல்லது பொருத்த.",
+      "modern_equivalent": "இணைத்தான்",
+      "english_word": "joined",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "அந்த",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட ஒரு தேசத்தைக் குறிக்கும் சுட்டுப்பெயர்.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "வளையங்கள்",
+      "pos": "noun",
+      "canonical": "வளையம்",
+      "definition_ta": "ஒரு வட்ட வடிவ அல்லது வளைய வடிவ பொருள்.",
+      "modern_equivalent": "வளையங்கள்",
+      "english_word": "rings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "மேஜையைச்",
+      "pos": "noun",
+      "canonical": "மேஜை",
+      "definition_ta": "உணவு உண்ண அல்லது பொருட்களை வைக்கப் பயன்படும் தளம்.",
+      "modern_equivalent": "மேஜை",
+      "english_word": "table",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "சுமக்கும்",
+      "pos": "verb",
+      "canonical": "சும",
+      "definition_ta": "ஒரு பொருளைத் தூக்கி அல்லது தாங்கி எடுத்துச் செல்லுதல்.",
+      "modern_equivalent": "தாங்கும்",
+      "english_word": "bearing",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "தண்டுகளைப்",
+      "pos": "noun",
+      "canonical": "தண்டு",
+      "definition_ta": "ஒரு பொருளைத் தாங்கி நிற்கும் அல்லது தாங்கிப் பிடிக்கும் உறுதியான அமைப்பு.",
+      "modern_equivalent": "தாங்குதண்டு",
+      "english_word": "beams",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "பாய்ச்சும்",
+      "pos": "verb",
+      "canonical": "பாய்ச்சு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்குத் தள்ளுதல் அல்லது செலுத்துதல்.",
+      "modern_equivalent": "தாங்குதல்",
+      "english_word": "to support",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "இடங்களாயிருக்கும்படி",
+      "pos": "verb",
+      "canonical": "இடம்",
+      "definition_ta": "ஒரு பொருள் அமரவோ அல்லது இருக்கவோ உள்ள இடைவெளி.",
+      "modern_equivalent": "இடமாக இருக்க",
+      "english_word": "be places",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "சட்டத்தின்",
+      "pos": "noun",
+      "canonical": "சட்டம்",
+      "definition_ta": "ஒரு சமூகத்தினால் பின்பற்றப்பட வேண்டிய விதிகள் அல்லது நெறிமுறைகள்.",
+      "modern_equivalent": "சட்டம்",
+      "english_word": "law",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "அருகே",
+      "pos": "adverb",
+      "canonical": "அருகில்",
+      "definition_ta": "ஒரு பொருளுக்கு அல்லது ஒருவருக்கு மிக நெருக்கமான இடம்.",
+      "modern_equivalent": "அருகில்",
+      "english_word": "near",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "இருந்தது.",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்றுப் permanecerும் செயல்.",
+      "modern_equivalent": "இருந்தது",
+      "english_word": "was",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "மேஜையைச்",
+      "pos": "noun",
+      "canonical": "மேஜை",
+      "definition_ta": "உணவு உண்ண அல்லது பொருட்களை வைக்கப் பயன்படும் தளம்.",
+      "modern_equivalent": "மேஜை",
+      "english_word": "table",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "சுமக்கும்",
+      "pos": "verb",
+      "canonical": "சும",
+      "definition_ta": "ஒரு பொருளைத் தூக்கி அல்லது தாங்கி எடுத்துச் செல்லுதல்.",
+      "modern_equivalent": "தாங்கும்",
+      "english_word": "bearing",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "அந்தத்",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட ஒரு இடத்தையோ பொருளையோ சுட்டிக்காட்டும் பெயரடை.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "தண்டுகளைச்",
+      "pos": "noun",
+      "canonical": "தண்டு",
+      "definition_ta": "ஒரு பொருளைத் தாங்குவதற்கு அல்லது பிடிப்பதற்குப் பயன்படும் நீண்ட மற்றும் மெல்லிய அமைப்பு.",
+      "modern_equivalent": "தண்டுகள்",
+      "english_word": "rods",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "சீத்திம்",
+      "pos": "noun",
+      "canonical": "சீத்திம்",
+      "definition_ta": "சீத்திம் என்னும் வகை மரம்.",
+      "modern_equivalent": "சீத்திம் மரம்",
+      "english_word": "acacia",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "மரத்தால்",
+      "pos": "noun",
+      "canonical": "மரம்",
+      "definition_ta": "மரம்: வேர்கள், தண்டு மற்றும் கிளைகளைக் கொண்ட ஒரு தாவர வகை.",
+      "modern_equivalent": "மரம்",
+      "english_word": "wood",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "பண்ணி,",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்து அல்லது ஒரு நிலையை உருவாக்கி முடித்தல்.",
+      "modern_equivalent": "செய்து",
+      "english_word": "make",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "அவைகளைப்",
+      "pos": "pronoun",
+      "canonical": "அவை",
+      "definition_ta": "முன்னர் குறிப்பிட்ட விலங்குகளை அல்லது பறவைகளை குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவற்றை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "பொன்தகட்டால்",
+      "pos": "noun",
+      "canonical": "பொன்தகடு",
+      "definition_ta": "தங்கலால் செய்யப்பட்ட மெல்லிய தட்டு அல்லது கவசம்.",
+      "modern_equivalent": "தங்கத்தகடு",
+      "english_word": "gold plates",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "மூடி,",
+      "pos": "verb",
+      "canonical": "மூடு",
+      "definition_ta": "ஒரு பொருளின் மேல் ஒரு பொருளை வைத்து மறைக்கும் அல்லது மூடும் செயல்.",
+      "modern_equivalent": "மூடும்",
+      "english_word": "cover",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "மேஜையின்மேலிருக்கும்",
+      "pos": "adjective",
+      "canonical": "மேஜை",
+      "definition_ta": "மேஜையின் மீது அமைந்துள்ள அல்லது மேஜையைச் சார்ந்த",
+      "modern_equivalent": "மேஜையின் மேல் உள்ள",
+      "english_word": "on the altar",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "பாத்திரங்களாகிய",
+      "pos": "noun",
+      "canonical": "பாத்திரம்",
+      "definition_ta": "உணவு அல்லது பொருட்களை வைப்பதற்காகப் பயன்படும் ஒரு கொள்கலன்",
+      "modern_equivalent": "பாத்திரம்",
+      "english_word": "vessels",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "பணிமுட்டுகளையும்,",
+      "pos": "noun",
+      "canonical": "பணிமுட்டு",
+      "definition_ta": "ஒரு குறிப்பிட்ட செயலைச் செய்ய அல்லது ஒரு பணியைச் செய்யப் பயன்படும் கருவி.",
+      "modern_equivalent": "பணிக்கருவி",
+      "english_word": "tools",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "தட்டுகளையும்,",
+      "pos": "noun",
+      "canonical": "தட்டு",
+      "definition_ta": "உணவு அல்லது பொருட்களை வைப்பதற்காகப் பயன்படுத்தப்படும் தட்டையான பரப்பு.",
+      "modern_equivalent": "தட்டுகள்",
+      "english_word": "plates",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "தூபக்கரண்டிகளையும்,",
+      "pos": "noun",
+      "canonical": "தூபக்கரண்டி",
+      "definition_ta": "தூபத்தை (புகையை) ஏற்றவதற்காகப் பயன்படுத்தப்படும் நீண்ட தடி போன்ற கருவி.",
+      "modern_equivalent": "தூபக்கரண்டிகள்",
+      "english_word": "censers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "பானபலி",
+      "pos": "adjective",
+      "canonical": "பானபலி",
+      "definition_ta": "தேவனுக்கு அர்ப்பணிக்கப்படும் மதுபானம் அல்லது மது தொடர்பான பலி.",
+      "modern_equivalent": "பானபலி",
+      "english_word": "wine offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "கரகங்களையும்,",
+      "pos": "noun",
+      "canonical": "கரம்",
+      "definition_ta": "திரவங்களை ஊற்றவோ அல்லது எடுத்துக்கொள்ளவோ பயன்படும் நீண்ட கைப்பிடி கொண்ட பாத்திரம்.",
+      "modern_equivalent": "கரகங்கள்",
+      "english_word": "handles",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "மூடுகிறதற்கான",
+      "pos": "adjective",
+      "canonical": "மூடுதல்",
+      "definition_ta": "ஒரு பொருளை மறைப்பதற்காக அல்லது மூடுவதற்காகப் பயன்படும்",
+      "modern_equivalent": "மூடுவதற்கு",
+      "english_word": "covering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "கிண்ணங்களையும்",
+      "pos": "noun",
+      "canonical": "கிண்ணம்",
+      "definition_ta": "திரவங்களை அல்லது பொருட்களைப் பிடித்துக்கொள்ளப் பயன்படும் அகலமான பாத்திரம்.",
+      "modern_equivalent": "கிண்ணங்கள்",
+      "english_word": "bowls",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "பசும்பொன்னினால்",
+      "pos": "noun",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "அதிகமான தங்கம் கலந்த அல்லது தங்கம் போன்ற நிறமுடைய உலோகப் பொருள்.",
+      "modern_equivalent": "பசும்பொன்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "உண்டாக்கினான்.",
+      "pos": "verb",
+      "canonical": "உண்டாக்கு",
+      "definition_ta": "ஒரு பொருளை வடிவமைத்து உருவாக்குதல் அல்லது தயாரித்தல்",
+      "modern_equivalent": "உருவாக்கினான்",
+      "english_word": "made",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 17,
+      "word": "குத்துவிளக்கையும்",
+      "pos": "noun",
+      "canonical": "குத்துவிளக்கு",
+      "definition_ta": "ஒரு கையில் பிடித்து ஏற்றி ஒளிரச் செய்யும் விளக்கு.",
+      "modern_equivalent": "கைவிளக்கு",
+      "english_word": "lampstand",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "பசும்பொன்னினால்",
+      "pos": "noun",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "அதிகமான தங்கம் கலந்த அல்லது தங்கம் போன்ற நிறமுடைய உலோகப் பொருள்.",
+      "modern_equivalent": "பசும்பொன்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "அடிப்புவேலையாய்",
+      "pos": "adjective",
+      "canonical": "அடிப்புவேலை",
+      "definition_ta": "ஒரு பொருளின் மேற்பரப்பில் நுணுக்கமாக செதுக்கப்பட்ட அல்லது வேலைப்பாடுகள் செய்யப்பட்ட நிலை.",
+      "modern_equivalent": "செதுக்கப்பட்ட",
+      "english_word": "beaten",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 17,
+      "word": "உண்டாக்கினான்;",
+      "pos": "verb",
+      "canonical": "உண்டாக்கு",
+      "definition_ta": "ஒரு பொருளை வடிவமைத்து உருவாக்குதல் அல்லது தயாரித்தல்",
+      "modern_equivalent": "உருவாக்கினான்",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "தண்டும்",
+      "pos": "noun",
+      "canonical": "தண்டு",
+      "definition_ta": "ஒரு பொருளைத் தாங்கி நிற்கும் தடி அல்லது தண்டு.",
+      "modern_equivalent": "தண்டு",
+      "english_word": "rod",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "கிளைகளும்",
+      "pos": "noun",
+      "canonical": "கிளை",
+      "definition_ta": "மரத்திலிருந்து பிரிந்து வளரும் ஒரு பகுதி.",
+      "modern_equivalent": "கிளை",
+      "english_word": "branches",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "மொக்குகளும்",
+      "pos": "noun",
+      "canonical": "மொக்கு",
+      "definition_ta": "ஒரு மரத்தின் நுனியில் உள்ள சிறிய முளை அல்லது மொட்டு.",
+      "modern_equivalent": "மொட்டு",
+      "english_word": "buds",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "பழங்களும்",
+      "pos": "noun",
+      "canonical": "பழம்",
+      "definition_ta": "மரங்களில் இருந்து கிடைக்கும் உண்ணத்தக்க உணவு.",
+      "modern_equivalent": "பழம்",
+      "english_word": "fruit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "பூக்களும்",
+      "pos": "noun",
+      "canonical": "பூ",
+      "definition_ta": "செடிகளில் இருந்து உருவாகும் மலர் அல்லது இதழ்.",
+      "modern_equivalent": "மலர்கள்",
+      "english_word": "flowers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "பொன்னினால்",
+      "pos": "particle",
+      "canonical": "பொன்",
+      "definition_ta": "தங்கத்தை குறிக்கும் ஒரு சொல்.",
+      "modern_equivalent": "தங்கத்தால்",
+      "english_word": "with gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "செய்யப்பட்டிருந்தது.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலை அல்லது ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "செய்யப்பட்டது",
+      "english_word": "was made",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 18,
+      "word": "குத்துவிளக்கின்",
+      "pos": "noun",
+      "canonical": "குத்துவிளக்கு",
+      "definition_ta": "எண்ணெய் கொண்டு எரியும் ஒரு வகை விளக்கு.",
+      "modern_equivalent": "விளக்கு",
+      "english_word": "lamp",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "ஒருபக்கத்தில்",
+      "pos": "adverb",
+      "canonical": "ஒருபக்கம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட பக்கத்தில் அல்லது ஒரு திசையில்.",
+      "modern_equivalent": "ஒரு பக்கத்தில்",
+      "english_word": "on one side",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 18,
+      "word": "மூன்று",
+      "pos": "numeral",
+      "canonical": "மூன்று",
+      "definition_ta": "எண்ணிக்கையில் மூன்று என்ற எண்ணிக்கையைக் குறிக்கும்.",
+      "modern_equivalent": "3",
+      "english_word": "three",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "கிளைகளும்",
+      "pos": "noun",
+      "canonical": "கிளை",
+      "definition_ta": "மரத்திலிருந்து பிரிந்து வளரும் ஒரு பகுதி.",
+      "modern_equivalent": "கிளை",
+      "english_word": "branches",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "மறுபக்கத்தில்",
+      "pos": "adverb",
+      "canonical": "மறுபக்கம்",
+      "definition_ta": "ஒரு பக்கத்திற்கு நேர் எதிர் பக்கம்.",
+      "modern_equivalent": "எதிர் பக்கம்",
+      "english_word": "on the other side",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "மூன்று",
+      "pos": "numeral",
+      "canonical": "மூன்று",
+      "definition_ta": "எண்ணிக்கையில் மூன்று என்ற எண்ணிக்கையைக் குறிக்கும்.",
+      "modern_equivalent": "3",
+      "english_word": "three",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "கிளைகளுமாக",
+      "pos": "noun",
+      "canonical": "கிளை",
+      "definition_ta": "ஒரு மரத்தின் அல்லது செடியின் ஒரு பகுதி அல்லது ஒரு பிரிவானது.",
+      "modern_equivalent": "கிளை",
+      "english_word": "branches",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 18,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "பக்கங்களில்",
+      "pos": "noun",
+      "canonical": "பக்கம்",
+      "definition_ta": "ஒரு பொருளின் அல்லது ஒரு இடத்தின் ஒரு பகுதி அல்லது பரப்பு.",
+      "modern_equivalent": "பக்கங்கள்",
+      "english_word": "sides",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "ஆறு",
+      "pos": "numeral",
+      "canonical": "ஆறு",
+      "definition_ta": "ஐந்திற்கு அடுத்த எண்ணுப்பெயர்.",
+      "modern_equivalent": "6",
+      "english_word": "six",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 18,
+      "word": "கிளைகள்",
+      "pos": "noun",
+      "canonical": "கிளை",
+      "definition_ta": "ஒரு மரத்திலிருந்தோ அல்லது செடியிலிருந்தோ வெளிவரும் ஒரு பகுதி.",
+      "modern_equivalent": "கிளைகள்",
+      "english_word": "branches",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "செய்யப்பட்டது.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்தல் அல்லது நிறைவேற்றுதல்.",
+      "modern_equivalent": "நடந்தது",
+      "english_word": "was done",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "ஒவ்வொரு",
+      "pos": "adjective",
+      "canonical": "ஒவ்வொரு",
+      "definition_ta": "ஒன்றொன்றாக அல்லது தனித்தனியாக குறிக்கும் சொல்.",
+      "modern_equivalent": "ஒவ்வொரு",
+      "english_word": "every",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "கிளையிலே",
+      "pos": "noun",
+      "canonical": "கிளை",
+      "definition_ta": "மரத்தின் தண்டு அல்லது ஒரு மரத்திலிருந்து பிரிந்து வளரும் பகுதி.",
+      "modern_equivalent": "கிளை",
+      "english_word": "branch",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "வாதுமைக்கொட்டைக்கு",
+      "pos": "noun",
+      "canonical": "வாதுமைக்கொட்டை",
+      "definition_ta": "வாதுமை என்ற தானியத்தின் கனி அல்லது அதன் உறையிலுள்ள விதை.",
+      "modern_equivalent": "வாதுமைக்கரு",
+      "english_word": "barley grain",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "ஒப்பான",
+      "pos": "adjective",
+      "canonical": "ஒப்பு",
+      "definition_ta": "ஒரே மாதிரியான அல்லது சமமான தன்மை கொண்ட.",
+      "modern_equivalent": "ஒப்புவான",
+      "english_word": "like",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "மூன்று",
+      "pos": "numeral",
+      "canonical": "மூன்று",
+      "definition_ta": "எண்ணிக்கையில் மூன்று என்ற எண்ணிக்கையைக் குறிக்கும்.",
+      "modern_equivalent": "3",
+      "english_word": "three",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "மொக்குகளும்",
+      "pos": "noun",
+      "canonical": "மொக்கு",
+      "definition_ta": "ஒரு மரத்தின் நுனியில் உள்ள சிறிய முளை அல்லது மொட்டு.",
+      "modern_equivalent": "மொட்டு",
+      "english_word": "buds",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "பழமும்",
+      "pos": "noun",
+      "canonical": "பழம்",
+      "definition_ta": "மரங்கள் அல்லது செடிகளில் இருந்து கிடைக்கும் உண்ணத்தக்க கனி.",
+      "modern_equivalent": "பழம்",
+      "english_word": "fruit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "பூவும்",
+      "pos": "noun",
+      "canonical": "பூ",
+      "definition_ta": "செடிகளில் மலரும் அழகான உறுப்பு.",
+      "modern_equivalent": "பூ",
+      "english_word": "flower",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "இருந்தது;",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்றுப் permanecerும் செயல்.",
+      "modern_equivalent": "இருந்தது",
+      "english_word": "was",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "குத்துவிளக்கில்",
+      "pos": "noun",
+      "canonical": "குத்துவிளக்கு",
+      "definition_ta": "எண்ணெய் அல்லது விளக்கை ஏற்றிப் பயன்படுத்தப்படும் ஒரு கருவி.",
+      "modern_equivalent": "விளக்கு",
+      "english_word": "lampstand",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 19,
+      "word": "செய்யப்பட்ட",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிக்கப்பட்ட",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "ஆறு",
+      "pos": "numeral",
+      "canonical": "ஆறு",
+      "definition_ta": "ஐந்திற்கு அடுத்த எண்ணுப்பெயர்.",
+      "modern_equivalent": "6",
+      "english_word": "six",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 19,
+      "word": "கிளைகளிலும்",
+      "pos": "noun",
+      "canonical": "கிளை",
+      "definition_ta": "மரத்தின் தண்டு அல்லது ஒரு மரத்திலிருந்து பிரிந்து வளரும் பகுதி.",
+      "modern_equivalent": "கிளை",
+      "english_word": "branches",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "அப்படியே",
+      "pos": "adverb",
+      "canonical": "அப்படியே",
+      "definition_ta": "சொல்லப்பட்டபடி அல்லது அப்படியே உள்ளபடி.",
+      "modern_equivalent": "அப்படியே",
+      "english_word": "so",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "இருந்தது.",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்றுப் permanecerும் செயல்.",
+      "modern_equivalent": "இருந்தது",
+      "english_word": "was",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "விளக்குத்தண்டில்",
+      "pos": "noun",
+      "canonical": "விளக்குத்தண்டு",
+      "definition_ta": "விளக்கை ஏற்றிப் பிடிக்கும் நீண்ட தண்டு அல்லது தடி.",
+      "modern_equivalent": "விளக்குத்தண்டு",
+      "english_word": "lampstand",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 20,
+      "word": "வாதுமைக்கொட்டைக்கு",
+      "pos": "noun",
+      "canonical": "வாதுமைக்கொட்டை",
+      "definition_ta": "வாதுமை என்ற தானியத்தின் கனி அல்லது அதன் உறையிலுள்ள விதை.",
+      "modern_equivalent": "வாதுமைக்கரு",
+      "english_word": "barley grain",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "ஒப்பான",
+      "pos": "adjective",
+      "canonical": "ஒப்பு",
+      "definition_ta": "ஒரே மாதிரியான அல்லது சமமான தன்மை கொண்ட.",
+      "modern_equivalent": "ஒப்புவான",
+      "english_word": "like",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "நாலு",
+      "pos": "numeral",
+      "canonical": "நான்கு",
+      "definition_ta": "எண்ணிக்கையில் நான்கு என்ற எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "4",
+      "english_word": "four",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "மொக்குகளும்",
+      "pos": "noun",
+      "canonical": "மொக்கு",
+      "definition_ta": "ஒரு மரத்தின் நுனியில் உள்ள சிறிய முளை அல்லது மொட்டு.",
+      "modern_equivalent": "மொட்டு",
+      "english_word": "buds",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "பழங்களும்",
+      "pos": "noun",
+      "canonical": "பழம்",
+      "definition_ta": "மரங்களில் இருந்து கிடைக்கும் உண்ணத்தக்க உணவு.",
+      "modern_equivalent": "பழம்",
+      "english_word": "fruit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "பூக்களும்",
+      "pos": "noun",
+      "canonical": "பூ",
+      "definition_ta": "செடிகளில் இருந்து உருவாகும் மலர் அல்லது இதழ்.",
+      "modern_equivalent": "மலர்கள்",
+      "english_word": "flowers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "இருந்தது.",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்றுப் permanecerும் செயல்.",
+      "modern_equivalent": "இருந்தது",
+      "english_word": "was",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "அதில்",
+      "pos": "particle",
+      "canonical": "அதில்",
+      "definition_ta": "அங்கே அல்லது அந்தப் பொருளில் என்பதைக் குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "அதில்",
+      "english_word": "on it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "செய்யப்பட்ட",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிக்கப்பட்ட",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "கிளைகளின்கீழ்",
+      "pos": "particle",
+      "canonical": "கீழ்",
+      "definition_ta": "ஒரு பொருளின் கீழே அல்லது அடியில் உள்ள நிலையை குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "கீழே",
+      "english_word": "under",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "பழமும்,",
+      "pos": "noun",
+      "canonical": "பழம்",
+      "definition_ta": "மரங்கள் அல்லது செடிகளில் இருந்து கிடைக்கும் உண்ணத்தக்க கனி.",
+      "modern_equivalent": "பழம்",
+      "english_word": "fruit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "வேறு",
+      "pos": "adjective",
+      "canonical": "வேறு",
+      "definition_ta": "ஒன்றிலிருந்து வேறுபட்ட அல்லது வேறொரு வகை.",
+      "modern_equivalent": "வேறு",
+      "english_word": "another",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "கிளைகளின்கீழ்",
+      "pos": "particle",
+      "canonical": "கீழ்",
+      "definition_ta": "ஒரு பொருளின் கீழே அல்லது அடியில் உள்ள நிலையை குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "கீழே",
+      "english_word": "under",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "பழமும்,",
+      "pos": "noun",
+      "canonical": "பழம்",
+      "definition_ta": "மரங்கள் அல்லது செடிகளில் இருந்து கிடைக்கும் உண்ணத்தக்க கனி.",
+      "modern_equivalent": "பழம்",
+      "english_word": "fruit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "மற்ற",
+      "pos": "adjective",
+      "canonical": "மற்ற",
+      "definition_ta": "குறிப்பிட்டதைத் தவிர்த்து மீதமுள்ள அல்லது வேறுபட்ட ஒன்றைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "வேறு",
+      "english_word": "other",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "கிளைகளின்கீழ்",
+      "pos": "particle",
+      "canonical": "கீழ்",
+      "definition_ta": "ஒரு பொருளின் கீழே அல்லது அடியில் உள்ள நிலையை குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "கீழே",
+      "english_word": "under",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "பழமும்",
+      "pos": "noun",
+      "canonical": "பழம்",
+      "definition_ta": "மரங்கள் அல்லது செடிகளில் இருந்து கிடைக்கும் உண்ணத்தக்க கனி.",
+      "modern_equivalent": "பழம்",
+      "english_word": "fruit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "இருந்தது;",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்றுப் permanecerும் செயல்.",
+      "modern_equivalent": "இருந்தது",
+      "english_word": "was",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "விளக்குத்தண்டில்",
+      "pos": "noun",
+      "canonical": "விளக்குத்தண்டு",
+      "definition_ta": "விளக்கை ஏற்றிப் பிடிக்கும் நீண்ட தண்டு அல்லது தடி.",
+      "modern_equivalent": "விளக்குத்தண்டு",
+      "english_word": "lampstand",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "செய்யப்பட்ட",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிக்கப்பட்ட",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "ஆறு",
+      "pos": "numeral",
+      "canonical": "ஆறு",
+      "definition_ta": "ஐந்திற்கு அடுத்த எண்ணுப்பெயர்.",
+      "modern_equivalent": "6",
+      "english_word": "six",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 21,
+      "word": "கிளைகளுக்கும்",
+      "pos": "noun",
+      "canonical": "கிளை",
+      "definition_ta": "மரத்திலிருந்து பிரிந்து வளரும் ஒரு பகுதி.",
+      "modern_equivalent": "கிளை",
+      "english_word": "branches",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "அப்படியே",
+      "pos": "adverb",
+      "canonical": "அப்படியே",
+      "definition_ta": "சொல்லப்பட்டபடி அல்லது அப்படியே உள்ளபடி.",
+      "modern_equivalent": "அப்படியே",
+      "english_word": "so",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "இருந்தது.",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்றுப் permanecerும் செயல்.",
+      "modern_equivalent": "இருந்தது",
+      "english_word": "was",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "அவைகளின்",
+      "pos": "pronoun",
+      "canonical": "அவைகளின்",
+      "definition_ta": "வானம் மற்றும் பூமியைப் பற்றிய குறிப்பை இந்த பிரதிப்பெயர் குறிக்கிறது.",
+      "modern_equivalent": "அவைகளின்",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "பழங்களும்",
+      "pos": "noun",
+      "canonical": "பழம்",
+      "definition_ta": "மரங்களில் இருந்து கிடைக்கும் உண்ணத்தக்க உணவு.",
+      "modern_equivalent": "பழம்",
+      "english_word": "fruit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "அவைகளின்",
+      "pos": "pronoun",
+      "canonical": "அவைகளின்",
+      "definition_ta": "வானம் மற்றும் பூமியைப் பற்றிய குறிப்பை இந்த பிரதிப்பெயர் குறிக்கிறது.",
+      "modern_equivalent": "அவைகளின்",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "கிளைகளும்",
+      "pos": "noun",
+      "canonical": "கிளை",
+      "definition_ta": "மரத்திலிருந்து பிரிந்து வளரும் ஒரு பகுதி.",
+      "modern_equivalent": "கிளை",
+      "english_word": "branches",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "பசும்பொன்னினால்",
+      "pos": "noun",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "அதிகமான தங்கம் கலந்த அல்லது தங்கம் போன்ற நிறமுடைய உலோகப் பொருள்.",
+      "modern_equivalent": "பசும்பொன்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "ஒரே",
+      "pos": "adjective",
+      "canonical": "ஒரே",
+      "definition_ta": "இரண்டு அல்லது அதற்கு மேற்பட்டவை ஒன்றாக இணைந்திருப்பதைக் குறிக்கும் பண்பு.",
+      "modern_equivalent": "ஒரே",
+      "english_word": "one",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "அடிப்பு",
+      "pos": "adjective",
+      "canonical": "அடிப்பு",
+      "definition_ta": "ஒரு பொருளின் மீது மற்றொரு பொருளை அடித்து அல்லது அழுத்தி பதிக்கும் முறை அல்லது அதன் தடம்.",
+      "modern_equivalent": "அடிபட்ட",
+      "english_word": "beaten",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 22,
+      "word": "வேலையாய்ச்",
+      "pos": "verb",
+      "canonical": "வேலை",
+      "definition_ta": "ஒரு பொருளை ஒரு குறிப்பிட்ட வடிவத்திற்கு மாற்றும் கைவினை அல்லது வேலை.",
+      "modern_equivalent": "வேலை செய்யப்பட்டது",
+      "english_word": "workmanship",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 22,
+      "word": "செய்யப்பட்டது.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்தல் அல்லது நிறைவேற்றுதல்.",
+      "modern_equivalent": "நடந்தது",
+      "english_word": "was done",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "ஏழு",
+      "pos": "numeral",
+      "canonical": "ஏழு",
+      "definition_ta": "எழுத்தூர் என்ற எண்ணைக் குறிக்கும் எண்.",
+      "modern_equivalent": "7",
+      "english_word": "seven",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "அகல்களையும்,",
+      "pos": "noun",
+      "canonical": "அகல்",
+      "definition_ta": "விளக்கை ஏற்றதற்காகப் பயன்படுத்தப்படும் ஒரு வகை பாத்திரம்.",
+      "modern_equivalent": "விளக்கு ஏற்றி வைக்கும் பாத்திரம்",
+      "english_word": "lamps",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "கத்தரிகளையும்,",
+      "pos": "noun",
+      "canonical": "கத்தரி",
+      "definition_ta": "ஒரு பொருளைப் பிரிப்பதற்காகப் பயன்படும் கூர்மையான கருவி.",
+      "modern_equivalent": "கத்தரி",
+      "english_word": "shears",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 23,
+      "word": "சாம்பல்",
+      "pos": "adjective",
+      "canonical": "சாம்பல்",
+      "definition_ta": "எரிந்த பிறகு எஞ்சியிருக்கும்灰 அல்லது சாம்பல் நிறம் கொண்ட.",
+      "modern_equivalent": "சாம்பல் நிற",
+      "english_word": "ashes",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "பாத்திரங்களையும்",
+      "pos": "noun",
+      "canonical": "பாத்திரம்",
+      "definition_ta": "உணவு அல்லது பொருட்களை வைப்பதற்காகப் பயன்படும் ஒரு கொள்கலன்.",
+      "modern_equivalent": "பாத்திரம்",
+      "english_word": "pans",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 23,
+      "word": "பசும்பொன்னினால்",
+      "pos": "noun",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "அதிகமான தங்கம் கலந்த அல்லது தங்கம் போன்ற நிறமுடைய உலோகப் பொருள்.",
+      "modern_equivalent": "பசும்பொன்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "செய்தான்.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலை அல்லது ஒரு காரியத்தை நிறைவேற்றுதல் அல்லது ஒரு செயலைச் செய்தல்.",
+      "modern_equivalent": "செய்தான்",
+      "english_word": "did",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "அதையும்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னர் குறிப்பிட்ட ஒரு விஷயத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அதை",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "பணிமுட்டுகள்",
+      "pos": "noun",
+      "canonical": "பணிமுட்டு",
+      "definition_ta": "ஒரு பொருளைச் செய்ய அல்லது அமைக்கப் பயன்படும் ஒரு கருவி அல்லது சாதனங்கள்.",
+      "modern_equivalent": "கருவிகள்",
+      "english_word": "tools",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "யாவையும்",
+      "pos": "pronoun",
+      "canonical": "யாவும்",
+      "definition_ta": "அனைத்தையும் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "எல்லாவற்றையும்",
+      "english_word": "all",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "தாலந்து",
+      "pos": "adjective",
+      "canonical": "தாலந்து",
+      "definition_ta": "ஒரு பொருளை மென்மையாக்க அல்லது தட்டையாக மாற்ற தாள்த்துதல் அல்லது தாள்த்துதல் மூலம் உருவான நிலை.",
+      "modern_equivalent": "தாள்த ලද",
+      "english_word": "hammered",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "பசும்பொன்னினால்",
+      "pos": "noun",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "அதிகமான தங்கம் கலந்த அல்லது தங்கம் போன்ற நிறமுடைய உலோகப் பொருள்.",
+      "modern_equivalent": "பசும்பொன்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "செய்தான்.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலை அல்லது ஒரு காரியத்தை நிறைவேற்றுதல் அல்லது ஒரு செயலைச் செய்தல்.",
+      "modern_equivalent": "செய்தான்",
+      "english_word": "did",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "தூபபீடத்தையும்",
+      "pos": "noun",
+      "canonical": "தூபபீடம்",
+      "definition_ta": "தூபத்தை ஏற்றிப் புகையை வெளியிடுவதற்காகப் பயன்படுத்தப்படும் மேடை அல்லது பீடம்.",
+      "modern_equivalent": "தூபபீடம்",
+      "english_word": "altar of incense",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "சீத்திம்",
+      "pos": "noun",
+      "canonical": "சீத்திம்",
+      "definition_ta": "சீத்திம் என்னும் வகை மரம்.",
+      "modern_equivalent": "சீத்திம் மரம்",
+      "english_word": "acacia",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "மரத்தினால்",
+      "pos": "particle",
+      "canonical": "ஆல்",
+      "definition_ta": "ஒரு பொருளைச் செய்யப் பயன்படும் கருவி அல்லது மூலப்பொருளைக் குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "ஆல்",
+      "english_word": "of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "உண்டாக்கினான்;",
+      "pos": "verb",
+      "canonical": "உண்டாக்கு",
+      "definition_ta": "ஒரு பொருளை வடிவமைத்து உருவாக்குதல் அல்லது தயாரித்தல்",
+      "modern_equivalent": "உருவாக்கினான்",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 25,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "முழ",
+      "pos": "noun",
+      "canonical": "முழ",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "நீளமும்",
+      "pos": "noun",
+      "canonical": "நீளம்",
+      "definition_ta": "ஒரு பொருளின் ஒரு முனையிலிருந்து மற்றொரு முனை வரை உள்ள தூரம்.",
+      "modern_equivalent": "நீளம்",
+      "english_word": "length",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "முழ",
+      "pos": "noun",
+      "canonical": "முழ",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "அகலமுமான",
+      "pos": "adjective",
+      "canonical": "அகலம்",
+      "definition_ta": "ஒரு பொருளின் ஒரு பக்கத்திலிருந்து மறுபக்கத்திற்கு உள்ளான தூரம் அல்லது விரிவு.",
+      "modern_equivalent": "அகலமான",
+      "english_word": "wide",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "சதுரமும்",
+      "pos": "adjective",
+      "canonical": "சதுரம்",
+      "definition_ta": "நான்கு பக்கங்களும் சமமான நீளம் கொண்ட வடிவம்.",
+      "modern_equivalent": "சதுர வடிவம்",
+      "english_word": "square",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "முழ",
+      "pos": "noun",
+      "canonical": "முழ",
+      "definition_ta": "பழங்காலத்தில் நீளத்தை அளக்கப் பயன்படுத்தப்பட்ட ஒரு அலகு.",
+      "modern_equivalent": "அளவீடு",
+      "english_word": "cubit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "உயரமுமாய்",
+      "pos": "adjective",
+      "canonical": "உயரம்",
+      "definition_ta": "ஒரு பொருளின் கீழ் பகுதியிலிருந்து மேல் பகுதி வரை உள்ள தூரம்.",
+      "modern_equivalent": "உயரம்",
+      "english_word": "height",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "இருந்தது;",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்றுப் permanecerும் செயல்.",
+      "modern_equivalent": "இருந்தது",
+      "english_word": "was",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "கொம்புகள்",
+      "pos": "noun",
+      "canonical": "கொம்பு",
+      "definition_ta": "விலங்குகளின் தலையில் வளரும் கடினமான எலும்பு போன்ற அமைப்பு.",
+      "modern_equivalent": "கொம்பு",
+      "english_word": "horns",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "அதனோடே",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்பு குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "ஏக",
+      "pos": "adjective",
+      "canonical": "ஏக",
+      "definition_ta": "ஒரே ஒரு அல்லது தனித்துவமான என்பதைக் குறிக்கும் அடைமொழி.",
+      "modern_equivalent": "ஒரே",
+      "english_word": "one",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "வேலைப்பாடாயிருந்தது.",
+      "pos": "verb",
+      "canonical": "வேலைப்பாடு",
+      "definition_ta": "ஒரு பொருளின் வடிவமைப்பு அல்லது அதன் அமைப்பு அப்படியே உள்ளேயே இணைந்திருப்பது.",
+      "modern_equivalent": "ஒரே அமைப்பில் இருந்தது",
+      "english_word": "was one piece",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 26,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "மேற்புறத்தையும்,",
+      "pos": "noun",
+      "canonical": "மேற்புறம்",
+      "definition_ta": "ஒரு பொருளின் மேல் பகுதி அல்லது மேற்பரப்பு.",
+      "modern_equivalent": "மேற்பகுதி",
+      "english_word": "top",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "சுற்றுப்புறத்தையும்,",
+      "pos": "noun",
+      "canonical": "சுற்றுப்புறம்",
+      "definition_ta": "ஒரு பொருளின்รอบிலும் அல்லது அதன் எல்லைப் பகுதியிலும் உள்ள இடம்.",
+      "modern_equivalent": "சுற்றுப்புறம்",
+      "english_word": "surroundings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "கொம்புகளையும்,",
+      "pos": "noun",
+      "canonical": "கொம்பு",
+      "definition_ta": "விலங்குகளின் தலையில் இருந்து வளரும் கூர்மையான எலும்பு போன்ற உறுப்பு.",
+      "modern_equivalent": "கொம்பு",
+      "english_word": "horns",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "பசும்பொன்தகட்டால்",
+      "pos": "noun",
+      "canonical": "பசும்பொன்",
+      "definition_ta": "தூய்மையான அல்லது சுத்தமான தங்கம்.",
+      "modern_equivalent": "தூய தங்கம்",
+      "english_word": "pure gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "மூடி,",
+      "pos": "verb",
+      "canonical": "மூடு",
+      "definition_ta": "ஒரு பொருளின் மேல் ஒரு பொருளை வைத்து மறைக்கும் அல்லது மூடும் செயல்.",
+      "modern_equivalent": "மூடும்",
+      "english_word": "cover",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "சுற்றிலும்",
+      "pos": "adverb",
+      "canonical": "சுற்றிலும்",
+      "definition_ta": "ஒரு பொருளின் அல்லது இடத்தின் அருகாமையில் அல்லது அதைச் சூழ்ந்து",
+      "modern_equivalent": "அருகில்",
+      "english_word": "around",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "அதற்குப்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "ஆதாம் பெயரிட்ட அந்த குறிப்பிட்ட ஜீவஜந்தையைக் குறிக்கிறது.",
+      "modern_equivalent": "அதற்கு",
+      "english_word": "to it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "பொன்",
+      "pos": "noun",
+      "canonical": "பொன்",
+      "definition_ta": "தங்கத்தை குறிக்கும் விலைமதிப்பற்ற உலோகத்தின் பெயர்.",
+      "modern_equivalent": "தங்கம்",
+      "english_word": "gold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "திரணையை",
+      "pos": "noun",
+      "canonical": "திரணை",
+      "definition_ta": "ஒரு பொருளைச் சுற்றிச் சுற்றும்படி அமைக்கப்படும் ஒரு வளையம் அல்லது கோடு.",
+      "modern_equivalent": "வளையம், கோடு",
+      "english_word": "frieze",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "உண்டுபண்ணி,",
+      "pos": "verb",
+      "canonical": "உண்",
+      "definition_ta": "ஒரு பொருளை அல்லது நிலையை உருவாக்குதல்.",
+      "modern_equivalent": "உருவாக்கினார்",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "அந்தத்",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட ஒரு இடத்தையோ பொருளையோ சுட்டிக்காட்டும் பெயரடை.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "திரணையின்கீழ்",
+      "pos": "noun",
+      "canonical": "திரணை",
+      "definition_ta": "ஒரு பெரிய துணி அல்லது திரை போன்ற அமைப்பு.",
+      "modern_equivalent": "திரை",
+      "english_word": "curtain",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 27,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "பக்கங்களில்",
+      "pos": "noun",
+      "canonical": "பக்கம்",
+      "definition_ta": "ஒரு பொருளின் அல்லது ஒரு இடத்தின் ஒரு பகுதி அல்லது பரப்பு.",
+      "modern_equivalent": "பக்கங்கள்",
+      "english_word": "sides",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "இருக்கும்",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்று அல்லது தங்கியிருப்பது.",
+      "modern_equivalent": "இருந்த",
+      "english_word": "were",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "மூலைகளிலும்",
+      "pos": "noun",
+      "canonical": "மூலை",
+      "definition_ta": "ஒரு பொருளின் அல்லது இடத்தின் முனை அல்லது கோணம்.",
+      "modern_equivalent": "மூலைகள்",
+      "english_word": "corners",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "இரண்டு",
+      "pos": "numeral",
+      "canonical": "இரண்டு",
+      "definition_ta": "எண்ணிக்கையில் ஒன்றுக்கு அடுத்ததாக வரும் அடுத்த எண்ணைக் குறிக்கிறது.",
+      "modern_equivalent": "இரண்டு",
+      "english_word": "two",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "பொன்வளையங்களைப்",
+      "pos": "noun",
+      "canonical": "பொன்வளையம்",
+      "definition_ta": "தங்கத்தால் செய்யப்பட்ட வட்ட வடிவ ஆபரணம்.",
+      "modern_equivalent": "தங்க வளையங்கள்",
+      "english_word": "gold rings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "பண்ணி,",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்து அல்லது ஒரு நிலையை உருவாக்கி முடித்தல்.",
+      "modern_equivalent": "செய்து",
+      "english_word": "make",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "அதைச்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிட்ட ஜன்னலைக் குறிக்கும் பிரதிபெயர்.",
+      "modern_equivalent": "அதை",
+      "english_word": "it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "சுமக்கும்",
+      "pos": "verb",
+      "canonical": "சும",
+      "definition_ta": "ஒரு பொருளைத் தூக்கி அல்லது தாங்கி எடுத்துச் செல்லுதல்.",
+      "modern_equivalent": "தாங்கும்",
+      "english_word": "bearing",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "தண்டுகளைப்",
+      "pos": "noun",
+      "canonical": "தண்டு",
+      "definition_ta": "ஒரு பொருளைத் தாங்கி நிற்கும் அல்லது தாங்கிப் பிடிக்கும் உறுதியான அமைப்பு.",
+      "modern_equivalent": "தாங்குதண்டு",
+      "english_word": "beams",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "பாய்ச்சும்",
+      "pos": "verb",
+      "canonical": "பாய்ச்சு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்குத் தள்ளுதல் அல்லது செலுத்துதல்.",
+      "modern_equivalent": "தாங்குதல்",
+      "english_word": "to support",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "இடங்களாகத்",
+      "pos": "noun",
+      "canonical": "இடம்",
+      "definition_ta": "ஒரு பொருள் அல்லது செயலுக்காக ஒதுக்கப்படும் பரப்பு அல்லது பகுதி.",
+      "modern_equivalent": "பகுதி",
+      "english_word": "place",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 27,
+      "word": "தைத்து,",
+      "pos": "verb",
+      "canonical": "தை",
+      "definition_ta": "அத்தியிலைகளை ஒன்றாக இணைத்து தைக்கும் செயலைக் குறிக்கிறது.",
+      "modern_equivalent": "தையு",
+      "english_word": "sewed",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "சீத்திம்",
+      "pos": "noun",
+      "canonical": "சீத்திம்",
+      "definition_ta": "சீத்திம் என்னும் வகை மரம்.",
+      "modern_equivalent": "சீத்திம் மரம்",
+      "english_word": "acacia",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "மரத்தால்",
+      "pos": "noun",
+      "canonical": "மரம்",
+      "definition_ta": "மரம்: வேர்கள், தண்டு மற்றும் கிளைகளைக் கொண்ட ஒரு தாவர வகை.",
+      "modern_equivalent": "மரம்",
+      "english_word": "wood",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "அந்தத்",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட ஒரு இடத்தையோ பொருளையோ சுட்டிக்காட்டும் பெயரடை.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "தண்டுகளைச்",
+      "pos": "noun",
+      "canonical": "தண்டு",
+      "definition_ta": "ஒரு பொருளைத் தாங்குவதற்கு அல்லது பிடிப்பதற்குப் பயன்படும் நீண்ட மற்றும் மெல்லிய அமைப்பு.",
+      "modern_equivalent": "தண்டுகள்",
+      "english_word": "rods",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "செய்து,",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலை அல்லது ஒரு காரியத்தை நிறைவேற்றுதல் அல்லது ஒரு செயலைச் செய்தல்.",
+      "modern_equivalent": "செய்து",
+      "english_word": "did",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "அவைகளைப்",
+      "pos": "pronoun",
+      "canonical": "அவை",
+      "definition_ta": "முன்னர் குறிப்பிட்ட விலங்குகளை அல்லது பறவைகளை குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவற்றை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "பொன்தகட்டால்",
+      "pos": "noun",
+      "canonical": "பொன்தகடு",
+      "definition_ta": "தங்கலால் செய்யப்பட்ட மெல்லிய தட்டு அல்லது கவசம்.",
+      "modern_equivalent": "தங்கத்தகடு",
+      "english_word": "gold plates",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "மூடினான்.",
+      "pos": "verb",
+      "canonical": "மூடு",
+      "definition_ta": "ஒரு பொருளின் மேல் ஒரு பொருளைப் பொருத்தி அல்லது கொண்டு வந்து மறைத்தல்.",
+      "modern_equivalent": "மூடினான்",
+      "english_word": "covered",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 29,
+      "word": "பரிசுத்த",
+      "pos": "adjective",
+      "canonical": "பரிசுத்தம்",
+      "definition_ta": "தூய்மையான, அர்ப்பணிக்கப்பட்ட அல்லது புனிதமான நிலை.",
+      "modern_equivalent": "தூய்மையான",
+      "english_word": "holy",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "அபிஷேகதைலத்தையும்,",
+      "pos": "noun",
+      "canonical": "அபிஷேகதைலம்",
+      "definition_ta": "அபிஷேக எண்ணெய் அல்லது எண்ணெய் கலந்த ஒரு பொருள்.",
+      "modern_equivalent": "அபிஷேக எண்ணெய்",
+      "english_word": "anointing oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "சுத்தமான",
+      "pos": "adjective",
+      "canonical": "சுத்தமான",
+      "definition_ta": "மாசற்ற, தூய்மையான அல்லது பரிசுத்தமான என்பதைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "தூய்மையான",
+      "english_word": "clean",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "சுகந்தங்களின்",
+      "pos": "noun",
+      "canonical": "சுகந்தம்",
+      "definition_ta": "நல்ல வாசனை தரும் மலர்கள் அல்லது நறுமணப் பொருட்கள்.",
+      "modern_equivalent": "நறுமணப் பொருட்கள்",
+      "english_word": "sweet-smelling spices",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 29,
+      "word": "தூபவர்க்கத்தையும்,",
+      "pos": "noun",
+      "canonical": "தூபவர்க்கம்",
+      "definition_ta": "தேவனுடைய பிரசன்னத்திற்காக எரிக்கப்படும் நறுமணமுள்ள பொருட்கள்.",
+      "modern_equivalent": "தூபப் பொருட்கள்",
+      "english_word": "incense",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "தைலக்காரன்",
+      "pos": "noun",
+      "canonical": "தைலக்காரன்",
+      "definition_ta": "தைலத்தை (எண்ணெய்) தயாரிக்கும் அல்லது விற்கும் தொழில் செய்பவர்.",
+      "modern_equivalent": "எண்ணெய் தயாரிப்பாளர்",
+      "english_word": "anointed man / oil merchant",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "வேலைக்கு",
+      "pos": "noun",
+      "canonical": "வேலை",
+      "definition_ta": "ஒரு குறிப்பிட்ட நோக்கத்திற்காக செய்யப்படும் செயல் அல்லது பணி.",
+      "modern_equivalent": "பணி",
+      "english_word": "work",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "ஒப்பாக",
+      "pos": "adverb",
+      "canonical": "ஒப்பு",
+      "definition_ta": "ஒரே மாதிரியாக அல்லது சமமாக.",
+      "modern_equivalent": "ஒரே மாதிரி",
+      "english_word": "likewise",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "உண்டுபண்ணினான்.",
+      "pos": "verb",
+      "canonical": "உண்டுபண்ணு",
+      "definition_ta": "ஒரு பொருளை வடிவமைத்து உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "உருவாக்கினான்",
+      "english_word": "made",
+      "source": "db_0ms"
+    }
+  ]
+}

@@ -1,0 +1,2830 @@
+{
+  "book": 23,
+  "chapter": 3,
+  "total_verses": 26,
+  "total_words_expected": 282,
+  "total_words_parsed": 282,
+  "is_step1_completed": true,
+  "words": [
+    {
+      "verse": 1,
+      "word": "இதோ,",
+      "pos": "interjection",
+      "canonical": "இதோ",
+      "definition_ta": "ஒரு செய்தியை அல்லது ஒரு பொருளை கவனிக்கச் சொல்லும் ஒரு விப்புச்சொல்.",
+      "modern_equivalent": "இதோ",
+      "english_word": "Behold",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "சேனைகளின்",
+      "pos": "adjective",
+      "canonical": "சேனை",
+      "definition_ta": "போர்வீரர்களின் கூட்டத்தையோ அல்லது ஒரு நாட்டின் படையையோ குறிக்கும் பண்பு.",
+      "modern_equivalent": "படைகளின்",
+      "english_word": "hosts",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "கர்த்தராகிய",
+      "pos": "adjective",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆளுகை அல்லது அதிகாரத்தைக் கொண்டவர்; ஆண்டவர்.",
+      "modern_equivalent": "ஆண்டவராகிய",
+      "english_word": "Lord",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஆண்டவர்",
+      "pos": "noun",
+      "canonical": "ஆண்டவர்",
+      "definition_ta": "தலைவன் அல்லது அதிகாரம் கொண்ட ஒருவரை குறிக்கும் சொல்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "Lord",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "எருசலேமிலிருந்தும்",
+      "pos": "noun",
+      "canonical": "எருசலேம்",
+      "definition_ta": "யூதாவின் தலைநகராகிய ஒரு புனித நகரம்.",
+      "modern_equivalent": "எருசலேம் நகரில்",
+      "english_word": "from Jerusalem",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "யூதாவிலிருந்தும்",
+      "pos": "noun",
+      "canonical": "யூதா",
+      "definition_ta": "இஸ்ரவேல் வம்சத்தின் ஒரு கோத்திர நிலம்.",
+      "modern_equivalent": "யூதாவில்",
+      "english_word": "from Judah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "சகலவிதமான",
+      "pos": "adjective",
+      "canonical": "சகல",
+      "definition_ta": "அனைத்து வகையான அல்லது முழுமையான என்ற பொருளைக் குறிக்கும்.",
+      "modern_equivalent": "அனைத்து",
+      "english_word": "all kinds of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஆதரவுகளாகிய",
+      "pos": "adjective",
+      "canonical": "ஆதாரம்",
+      "definition_ta": "உணவு அல்லது நீர் போன்ற அடிப்படை தேவைகளை வழங்கும் ஊற்று.",
+      "modern_equivalent": "ஆதாரமாகிய",
+      "english_word": "sources of",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "அப்பமென்கிற",
+      "pos": "adjective",
+      "canonical": "அப்பம்",
+      "definition_ta": "தானியத்தை அரைத்து செய்த உணவு.",
+      "modern_equivalent": "அப்பமாகிய",
+      "english_word": "of bread",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "எல்லா",
+      "pos": "adjective",
+      "canonical": "எல்லா",
+      "definition_ta": "எந்தவொரு ஒரு பகுதியையும் விடாத முழுமையான அல்லது அனைத்தையும் குறிக்கும் பண்பு.",
+      "modern_equivalent": "அனைத்து",
+      "english_word": "all",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஆதரவையும்,",
+      "pos": "noun",
+      "canonical": "ஆதாரம்",
+      "definition_ta": "உணவு அல்லது நீர் போன்ற அடிப்படை தேவைகளை வழங்கும் ஊற்று.",
+      "modern_equivalent": "ஆதாரம்",
+      "english_word": "sources",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "தண்ணீரென்கிற",
+      "pos": "adjective",
+      "canonical": "தண்ணீர்",
+      "definition_ta": "மனிதர்கள் குடிப்பதற்கு பயன்படும் திரவ.",
+      "modern_equivalent": "தண்ணீராகிய",
+      "english_word": "of water",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "எல்லா",
+      "pos": "adjective",
+      "canonical": "எல்லா",
+      "definition_ta": "எந்தவொரு ஒரு பகுதியையும் விடாத முழுமையான அல்லது அனைத்தையும் குறிக்கும் பண்பு.",
+      "modern_equivalent": "அனைத்து",
+      "english_word": "all",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஆதரவையும்;",
+      "pos": "noun",
+      "canonical": "ஆதாரம்",
+      "definition_ta": "உணவு அல்லது நீர் போன்ற அடிப்படை தேவைகளை வழங்கும் ஊற்று.",
+      "modern_equivalent": "ஆதாரம்",
+      "english_word": "sources",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "பராக்கிரமசாலியையும்,",
+      "pos": "noun",
+      "canonical": "பராக்கிரமசாலி",
+      "definition_ta": "அசாத்தியமான தைரியம் அல்லது வீரத்தைக் கொண்ட ஒரு நபர்.",
+      "modern_equivalent": "வீரமிக்கவன்",
+      "english_word": "mighty man",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "யுத்தவீரனையும்,",
+      "pos": "noun",
+      "canonical": "யுத்தவீரன்",
+      "definition_ta": "போரில் சிறப்பாகப் போராடும் போர்வீரன்.",
+      "modern_equivalent": "போர்வீரன்",
+      "english_word": "valiant man",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "நியாயாதிபதியையும்,",
+      "pos": "noun",
+      "canonical": "நியாயாதிபதி",
+      "definition_ta": "நீதியை நிலைநாட்டும் அதிகாரம் கொண்ட நீதிபதி.",
+      "modern_equivalent": "நீதிபதி",
+      "english_word": "judge",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "தீர்க்கதரிசியையும்,",
+      "pos": "noun",
+      "canonical": "தீர்க்கதரிசி",
+      "definition_ta": "தேவனுடைய செய்தியை முன்னறிவிக்கும் ஒரு நபர்.",
+      "modern_equivalent": "தீர்க்கதரிசி",
+      "english_word": "prophet",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "சாஸ்திரியையும்,",
+      "pos": "noun",
+      "canonical": "சாஸ்திரி",
+      "definition_ta": "வேதங்களை நன்கு கற்றறிந்த அறிஞர் அல்லது ஆசிரியர்.",
+      "modern_equivalent": "வேத அறிஞர்",
+      "english_word": "scribe",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "மூப்பனையும்;",
+      "pos": "noun",
+      "canonical": "மூப்பன்",
+      "definition_ta": "அதிக அனுபவமும் முதிர்ச்சியும் கொண்ட பெரியவர்.",
+      "modern_equivalent": "முதியவர்",
+      "english_word": "elder",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "ஐம்பதுபேருக்கு",
+      "pos": "numeral",
+      "canonical": "ஐம்பது",
+      "definition_ta": "ஐம்பது என்பது ஐம்பது எண்ணிக்கையைக் குறிக்கும் எண்.",
+      "modern_equivalent": "ஐம்பது",
+      "english_word": "fifties",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "அதிபதியையும்,",
+      "pos": "noun",
+      "canonical": "அதிபதி",
+      "definition_ta": "ஒரு குழு அல்லது கூட்டத்தை வழிநடத்தும் அதிகாரம் கொண்ட தலைவர்.",
+      "modern_equivalent": "தலைவர்",
+      "english_word": "prince",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "கனம்பொருந்தினவனையும்",
+      "pos": "noun",
+      "canonical": "கனம்பொருந்தினன்",
+      "definition_ta": "அதிகமான சொத்து அல்லது செல்வத்தைக் கொண்டுள்ளவன்.",
+      "modern_equivalent": "செல்வந்தன்",
+      "english_word": "treasurer",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "ஆலோசனைக்காரனையும்,",
+      "pos": "noun",
+      "canonical": "ஆலோசனைக்காரன்",
+      "definition_ta": "முக்கியமான முடிவுகளை எடுப்பதற்கு அறிவுரை வழங்கும் நபர்.",
+      "modern_equivalent": "ஆலோசகர்",
+      "english_word": "counselor",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "தொழில்களில்",
+      "pos": "noun",
+      "canonical": "தொழில்",
+      "definition_ta": "ஒரு குறிப்பிட்ட வேலை அல்லது கைவினை சார்ந்த செயல்.",
+      "modern_equivalent": "வேலை",
+      "english_word": "works",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "சாமர்த்தியமுள்ளவனையும்,",
+      "pos": "adjective",
+      "canonical": "சாமர்த்தியம்",
+      "definition_ta": "ஒரு செயலை திறமையாகவும் நுணுக்கமாகவும் செய்யும் திறன்.",
+      "modern_equivalent": "திறமை",
+      "english_word": "skillful",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "சாதுரியனையும்",
+      "pos": "noun",
+      "canonical": "சாதுரி",
+      "definition_ta": "புத்திசாலித்தனமான அல்லது சமயோசிதமான செயல்.",
+      "modern_equivalent": "சாமர்த்தியம்",
+      "english_word": "prudence",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "விலக்குவார்.",
+      "pos": "verb",
+      "canonical": "விலக்கு",
+      "definition_ta": "ஒருவரிடமிருந்து அல்லது ஒருவிடமிருந்து ஒரு பொருளை அல்லது நிலையை அகற்றி விடுதல்.",
+      "modern_equivalent": "விலக்குவார்",
+      "english_word": "remove",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "வாலிபரை",
+      "pos": "noun",
+      "canonical": "வாலிபம்",
+      "definition_ta": "ஆண் பிள்ளைகள் அல்லது இளமை நிறைந்த இளைஞர்கள்.",
+      "modern_equivalent": "இளைஞர்கள்",
+      "english_word": "young men",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "அவர்களுக்கு",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் உருவாக்கிய உடைகளை ஆதாமுக்கும் அவன் மனைவிக்கும் வழங்கினார்.",
+      "modern_equivalent": "அவர்களுக்கு",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "அதிபதிகளாகத்",
+      "pos": "adjective",
+      "canonical": "அதிபதி",
+      "definition_ta": "ஆளுதல் அல்லது தலைமை தாங்குதல் செய்யும் தகுதி கொண்ட.",
+      "modern_equivalent": "தலைவர்களாக",
+      "english_word": "as rulers",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "தருவேன்",
+      "pos": "verb",
+      "canonical": "தரு",
+      "definition_ta": "ஒருவருக்கு ஒரு பொருளை அல்லது உரிமையை வழங்குதல் அல்லது அளித்தல்.",
+      "modern_equivalent": "கொடுவேன்",
+      "english_word": "give",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "என்கிறார்;",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "ஒரு கருத்தை அல்லது செய்தியை வாய்மொழியாக வெளிப்படுத்துதல்.",
+      "modern_equivalent": "சொல்கிறார்",
+      "english_word": "says",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "பிள்ளைகள்",
+      "pos": "noun",
+      "canonical": "பிள்ளை",
+      "definition_ta": "பிள்ளை: ஒருவருக்குப் பிறந்த மகன் அல்லது மகள்.",
+      "modern_equivalent": "குழந்தைகள்",
+      "english_word": "children",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "அவர்களை",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் ஆசிர்வதித்து கட்டளையிட்ட மனிதர்களைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவர்களை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "ஆளுவார்கள்.",
+      "pos": "verb",
+      "canonical": "ஆளு",
+      "definition_ta": "ஒருவரை முழுமையாகக் கட்டுப்படுத்துதல் அல்லது ஆதிக்கம் செலுத்துதல்.",
+      "modern_equivalent": "ஆளுவார்கள்",
+      "english_word": "rule over",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "ஜனங்கள்",
+      "pos": "noun",
+      "canonical": "ஜனம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட குழு அல்லது மக்கள் கூட்டம்.",
+      "modern_equivalent": "மக்கள்",
+      "english_word": "peoples",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "ஒடுக்கப்படுவார்கள்;",
+      "pos": "verb",
+      "canonical": "ஒடுக்கு",
+      "definition_ta": "ஒருவரை அடக்கி அல்லது துன்புறுத்தி பணிய வைப்பது.",
+      "modern_equivalent": "ஒடுக்கப்படுவார்கள்",
+      "english_word": "will be oppressed",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "ஒருவருக்கொருவரும்,",
+      "pos": "pronoun",
+      "canonical": "ஒருவர்",
+      "definition_ta": "ஒரு தனி மனிதரை குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "ஒருவருக்கொருவரும்",
+      "english_word": "one another",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "அயலானுக்கு",
+      "pos": "noun",
+      "canonical": "அயலன்",
+      "definition_ta": "அருகில் வசிக்கும் அல்லது உறவுள்ள பிற மனிதன்.",
+      "modern_equivalent": "அண்டைக்காரன்",
+      "english_word": "neighbor",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "அயலானும்",
+      "pos": "noun",
+      "canonical": "அயலன்",
+      "definition_ta": "சொந்தமானவர் அல்லாத அந்நியமானவர் அல்லது பிற இனத்தைச் சேர்ந்தவர்.",
+      "modern_equivalent": "அந்நியன்",
+      "english_word": "stranger",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "விரோதமாயிருப்பார்கள்;",
+      "pos": "verb",
+      "canonical": "விரோதம்",
+      "definition_ta": "ஒருவரை எதிர்த்து அல்லது பகைமையுடன் நடப்பது.",
+      "modern_equivalent": "எதிரியாக இருப்பார்கள்",
+      "english_word": "will be enemies",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "வாலிபன்",
+      "pos": "noun",
+      "canonical": "வாலிபன்",
+      "definition_ta": "ஆண் பிள்ளையையோ அல்லது இளையோரையோ குறிக்கும் சொல்.",
+      "modern_equivalent": "இளைஞன்",
+      "english_word": "young man",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "முதிர்வயதுள்ளவனுக்கும்,",
+      "pos": "adjective",
+      "canonical": "முதிர்வயது",
+      "definition_ta": "முதிர்ச்சியடைந்த அல்லது முதிர்ந்த வயதுடைய நிலை.",
+      "modern_equivalent": "முதிர்வயதுள்ள",
+      "english_word": "old",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "கீழ்மகன்",
+      "pos": "noun",
+      "canonical": "கீழ்மகன்",
+      "definition_ta": "குடும்பத்தில் இளைய மகன் அல்லது தம்பி.",
+      "modern_equivalent": "இளைய மகன்",
+      "english_word": "younger son",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "மேன்மகனுக்கும்",
+      "pos": "noun",
+      "canonical": "மேன்மை",
+      "definition_ta": "முதிர்ச்சியடைந்த அல்லது உயர்ந்த நிலையில் உள்ள மகன்.",
+      "modern_equivalent": "பெரிய மகன்",
+      "english_word": "elder son",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "இடும்பு",
+      "pos": "adjective",
+      "canonical": "இடும்பு",
+      "definition_ta": "தவறான அல்லது அநீதியான செயல்களைக் குறிக்கும் சொல்.",
+      "modern_equivalent": "தவறான",
+      "english_word": "wicked",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "செய்வான்.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்து முடித்தல் அல்லது ஒரு காரியத்தைச் செய்தல்.",
+      "modern_equivalent": "செய்வான்",
+      "english_word": "will do",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "அப்பொழுது",
+      "pos": "adverb",
+      "canonical": "அப்பொழுது",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிகழ்வு அல்லது காலத்தின் தொடக்கத்தில் நடக்கும் ஒரு நேரத்தைக் குறிக்கிறது.",
+      "modern_equivalent": "அப்போது",
+      "english_word": "Then",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ஒருவன்",
+      "pos": "noun",
+      "canonical": "ஒருவன்",
+      "definition_ta": "ஒரு தனி மனிதன் அல்லது ஒரு நபர்.",
+      "modern_equivalent": "ஒரு நபர்",
+      "english_word": "a man",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 6,
+      "word": "தன்",
+      "pos": "pronoun",
+      "canonical": "தன்",
+      "definition_ta": "ஒரு நபர் தனக்கே உரிய அல்லது தனக்குச் சொந்தமான ஒன்றைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "தனக்கான",
+      "english_word": "his",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "தகப்பன்",
+      "pos": "noun",
+      "canonical": "தகப்பன்",
+      "definition_ta": "ஒரு குழந்தையை அல்லது ஒருவரைப் பெற்றெடுத்த ஆண் பெற்றோர்.",
+      "modern_equivalent": "தந்தை",
+      "english_word": "father",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "வீட்டானாகிய",
+      "pos": "adjective",
+      "canonical": "வீடு",
+      "definition_ta": "ஒருவருடைய குடும்பத்தோடு அல்லது சொத்துக்களோடு தொடர்புடைய.",
+      "modern_equivalent": "வீட்டுசார்",
+      "english_word": "household",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "தன்",
+      "pos": "pronoun",
+      "canonical": "தன்",
+      "definition_ta": "ஒரு நபர் தனக்கே உரிய அல்லது தனக்குச் சொந்தமான ஒன்றைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "தனக்கான",
+      "english_word": "his",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "சகோதரனைப்பிடித்து:",
+      "pos": "verb",
+      "canonical": "பிடி",
+      "definition_ta": "ஒருவரைப் பற்றிப் பிடித்து அல்லது ஒருவரைப் பற்றிப் பிடித்துக் கொண்டு.",
+      "modern_equivalent": "பிடித்து",
+      "english_word": "seized",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "உனக்கு",
+      "pos": "pronoun",
+      "canonical": "உன்",
+      "definition_ta": "தேவன் ஆதாமின் பாவத்தை நோக்கி அவனிடம் பேசும்போது, அவனுக்கு என்று பொருள்படும் விதத்தில் சொல்லப்பட்டது.",
+      "modern_equivalent": "உனக்கு",
+      "english_word": "to you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "வஸ்திரம்",
+      "pos": "noun",
+      "canonical": "வஸ்திரம்",
+      "definition_ta": "உடலை மூடுவதற்கு அணியப்படும் ஆடை அல்லது துணி.",
+      "modern_equivalent": "ஆடை",
+      "english_word": "clothing",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "இருக்கிறது,",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு பொருள் அல்லது நிலை ஒரு இடத்தில் நிலைபெற்று இருப்பதை இது குறிக்கிறது.",
+      "modern_equivalent": "உள்ளது",
+      "english_word": "is",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "நீ",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "தேவன் ஆதாமுக்கு உரையாடும்போது அவனைக் குறிக்கப் பயன்படுத்திய இரண்டாம் நபர் ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "நீ",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "எங்களுக்கு",
+      "pos": "pronoun",
+      "canonical": "எங்களுக்கு",
+      "definition_ta": "எங்கள் என்பதன் வேற்றுமை உருபான பிரதிப்பெயர்.",
+      "modern_equivalent": "எங்களுக்கு",
+      "english_word": "to us",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "அதிபதியாயிரு;",
+      "pos": "verb",
+      "canonical": "அதிபதி",
+      "definition_ta": "ஒரு குழு அல்லது ஒரு குடும்பத்தின் தலைவனாக இருத்தல்.",
+      "modern_equivalent": "தலைவனாக இரு",
+      "english_word": "be ruler",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "கேட்டுக்கு",
+      "pos": "adjective",
+      "canonical": "கேட்டு",
+      "definition_ta": "கேட்கப்பட வேண்டிய அல்லது கேட்கப்பட வேண்டிய.",
+      "modern_equivalent": "கேட்கப்பட வேண்டிய",
+      "english_word": "to be asked",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "இனமான",
+      "pos": "adjective",
+      "canonical": "இனமான",
+      "definition_ta": "ஒரே இனத்தைச் சேர்ந்த அல்லது ஒரே வம்சத்தைச் சேர்ந்த.",
+      "modern_equivalent": "இனத்தைச் சேர்ந்த",
+      "english_word": "kind",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "இந்தக்",
+      "pos": "adjective",
+      "canonical": "இந்த",
+      "definition_ta": "நெருக்கமான அல்லது குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "இந்த",
+      "english_word": "these",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "காரியம்",
+      "pos": "noun",
+      "canonical": "காரியம்",
+      "definition_ta": "ஒரு செயல் அல்லது ஒரு குறிப்பிட்ட பணி",
+      "modern_equivalent": "வேலை",
+      "english_word": "thing",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "உன்",
+      "pos": "pronoun",
+      "canonical": "உன்",
+      "definition_ta": "உன்னுடைய அல்லது உன்னுடைய சொந்தமான என்பதைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "உன்னுடைய",
+      "english_word": "your",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "கையின்",
+      "pos": "noun",
+      "canonical": "கை",
+      "definition_ta": "ஒரு மனிதனின் உடல் உறுப்பான கரம் அல்லது ஒருவரின் அதிகாரத்தைக் குறிக்கும் சொல்.",
+      "modern_equivalent": "கை",
+      "english_word": "hand",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "கீழாவதாக",
+      "pos": "adjective",
+      "canonical": "கீழ்",
+      "definition_ta": "ஒருவருடைய அதிகாரத்தின் கீழ் அல்லது கட்டுப்பாட்டில் உள்ள.",
+      "modern_equivalent": "கீழே",
+      "english_word": "under",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "என்று",
+      "pos": "conjunction",
+      "canonical": "என்று",
+      "definition_ta": "ஒரு சொல்லின் பொருளை அல்லது ஒரு செயலின் காரணத்தை இணைத்துக் குறிக்கும் இணைப்புச் சொல்.",
+      "modern_equivalent": "என்று",
+      "english_word": "that",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 6,
+      "word": "சொல்ல;",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "ஒரு செய்தியை அல்லது கருத்தை மற்றவருக்கு அறிவித்தல்.",
+      "modern_equivalent": "சொல்ல",
+      "english_word": "say",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "அந்நாளிலே",
+      "pos": "adverb",
+      "canonical": "அந்நாள்",
+      "definition_ta": "குறிப்பிட்ட அந்த குறிப்பிட்ட நாளில் அல்லது அந்த சமயத்தில்.",
+      "modern_equivalent": "அந்த நாளில்",
+      "english_word": "on that day",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "தன்",
+      "pos": "pronoun",
+      "canonical": "தன்",
+      "definition_ta": "ஒரு நபர் தனக்கே உரிய அல்லது தனக்குச் சொந்தமான ஒன்றைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "தனக்கான",
+      "english_word": "his",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "கையை",
+      "pos": "noun",
+      "canonical": "கை",
+      "definition_ta": "உடலின் ஒரு உறுப்பு; ஒரு செயலைச் செய்ய அல்லது ஒரு பொருளைப் பிடிக்கப் பயன்படும் உறுப்பு.",
+      "modern_equivalent": "கை",
+      "english_word": "hand",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "உயர்த்தி:",
+      "pos": "verb",
+      "canonical": "உயர்த்து",
+      "definition_ta": "மேலே நோக்கி நகர்த்துதல் அல்லது மேலே தூக்குதல்",
+      "modern_equivalent": "உயர்த்துவார்",
+      "english_word": "lift up",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "நான்",
+      "pos": "pronoun",
+      "canonical": "நான்",
+      "definition_ta": "தன்னைத்தானே குறிக்கும் ஒருமைப் பிரதிப்பெயர்.",
+      "modern_equivalent": "நான்",
+      "english_word": "I",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "சீர்ப்படுத்துகிறவனாயிருக்கமாட்டேன்;",
+      "pos": "verb",
+      "canonical": "சீர்ப்படுத்து",
+      "definition_ta": "ஒருவரை மற்றவர்களை விட உயர்ந்த நிலையில் அல்லது அதிகாரத்தில் நிலைநிறுத்துதல்.",
+      "modern_equivalent": "மேன்மைப்படுத்துவது",
+      "english_word": "be exalted",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "என்",
+      "pos": "pronoun",
+      "canonical": "என்",
+      "definition_ta": "ஆதாம் தன்னைத்தானே குறிக்கப் பயன்படுத்திய ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "என்னுடைய",
+      "english_word": "my",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "வீட்டிலே",
+      "pos": "noun",
+      "canonical": "வீடு",
+      "definition_ta": "மனிதர்கள் வசிக்கும் அல்லது தங்கும் தங்குமிடம்.",
+      "modern_equivalent": "வீட்டில்",
+      "english_word": "in his house",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "அப்பமுமில்லை",
+      "pos": "noun",
+      "canonical": "அப்பம்",
+      "definition_ta": "உணவுக்காகப் பயன்படுத்தப்படும் ஒரு வகை ரொட்டி அல்லது உணவு.",
+      "modern_equivalent": "ரொட்டி",
+      "english_word": "bread",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "வஸ்திரமுமில்லை;",
+      "pos": "noun",
+      "canonical": "வஸ்திரம்",
+      "definition_ta": "உடலை மூடுவதற்கு அணியப்படும் ஆடை.",
+      "modern_equivalent": "ஆடை",
+      "english_word": "clothing",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "என்னை",
+      "pos": "pronoun",
+      "canonical": "நான்",
+      "definition_ta": "பேசும் பெண்ணான ஸ்திரீயானவளைப் பற்றிய பிரதிபெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "என்னை",
+      "english_word": "me",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "ஜனங்களுக்கு",
+      "pos": "noun",
+      "canonical": "ஜனம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட கூட்டத்தினர் அல்லது மக்கள் குழு.",
+      "modern_equivalent": "மக்களுக்கு",
+      "english_word": "people",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "அதிபதியாக",
+      "pos": "noun",
+      "canonical": "அதிபதி",
+      "definition_ta": "ஒரு நிலத்தையோ அல்லது மக்களையோ ஆட்சி செய்யும் அதிகாரம் கொண்ட தலைவர்.",
+      "modern_equivalent": "தலைவன்",
+      "english_word": "ruler",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "வைக்கவேண்டாம்",
+      "pos": "verb",
+      "canonical": "வை",
+      "definition_ta": "ஒரு பொருளை அல்லது ஒருவரை ஒரு இடத்தில் நிலைநிறுத்துதல் அல்லது பாதுகாத்தல்.",
+      "modern_equivalent": "வைத்திருக்க வேண்டாம்",
+      "english_word": "keep",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "என்பான்.",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "ஒரு கருத்தை அல்லது வார்த்தையை வாய் வழியாக வெளிப்படுத்துவது.",
+      "modern_equivalent": "சொன்னான்",
+      "english_word": "said",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "ஏனென்றால்",
+      "pos": "conjunction",
+      "canonical": "ஏனென்றால்",
+      "definition_ta": "ஒரு செயலுக்கான காரணத்தை விளக்கும் இணைப்புச்சொல்.",
+      "modern_equivalent": "ஏனெனில்",
+      "english_word": "for",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "எருசலேம்",
+      "pos": "noun",
+      "canonical": "எருசலேம்",
+      "definition_ta": "யூதாவின் தலைநகராகவும் பரிசுத்தமான நகரமாகவும் கருதப்படும் ஒரு வரலாற்றுப் பெயர்.",
+      "modern_equivalent": "எருசலேம்",
+      "english_word": "Jerusalem",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "பாழாக்கப்பட்டது,",
+      "pos": "verb",
+      "canonical": "பாழாக்கு",
+      "definition_ta": "ஒரு இடத்தை அழித்தல் அல்லது ஒரு பொருளைச் சிதைத்துச் சேதப்படுத்துதல்.",
+      "modern_equivalent": "அழிக்கப்பட்டது",
+      "english_word": "was destroyed",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "யூதா",
+      "pos": "noun",
+      "canonical": "யூதா",
+      "definition_ta": "ஒரு மனிதனின் பெயர் அல்லது ஒரு குறிப்பிட்ட வம்சத்தின் பெயர்.",
+      "modern_equivalent": "யூதா",
+      "english_word": "Judah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "விழுந்துபோயிற்று;",
+      "pos": "verb",
+      "canonical": "விழு",
+      "definition_ta": "கீழே சரிந்து விழுதல் அல்லது தளர்ந்து போதல்",
+      "modern_equivalent": "விழுந்து",
+      "english_word": "sank",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "அவர்கள்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் மற்றும் அவருடைய வார்த்தையைச் சித்தமாகக் குறிக்கும் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "அவர்கள்",
+      "english_word": "They",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "நாவும்,",
+      "pos": "noun",
+      "canonical": "நாவு",
+      "definition_ta": "பேசவதற்குப் பயன்படும் உறுப்பு",
+      "modern_equivalent": "மொழி",
+      "english_word": "tongue",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "அவர்கள்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் மற்றும் அவருடைய வார்த்தையைச் சித்தமாகக் குறிக்கும் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "அவர்கள்",
+      "english_word": "They",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "கிரியைகளும்,",
+      "pos": "noun",
+      "canonical": "கிரியை",
+      "definition_ta": "ஒருவர் செய்யும் செயல்கள் அல்லது நடத்தைகள்.",
+      "modern_equivalent": "செயல்கள்",
+      "english_word": "deeds",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "கர்த்தருடைய",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவராகிய தேவன் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "மகிமையின்",
+      "pos": "adjective",
+      "canonical": "மகிமை",
+      "definition_ta": "தேவனின் வல்லமை அல்லது பிரம்மாண்டமான பெருமை.",
+      "modern_equivalent": "பெருமை",
+      "english_word": "glory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "கண்களுக்கு",
+      "pos": "noun",
+      "canonical": "கண்",
+      "definition_ta": "பார்வைக்கான உறுப்பு அல்லது பார்வை உறுப்பு.",
+      "modern_equivalent": "கண்கள்",
+      "english_word": "eyes",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "எரிச்சல்",
+      "pos": "noun",
+      "canonical": "எரிச்சல்",
+      "definition_ta": "மனதளவில் ஏற்படும் கடும் கோபம் அல்லது எரிச்சல்.",
+      "modern_equivalent": "கோபம்",
+      "english_word": "anger",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "உண்டாக்கத்தக்கதாக",
+      "pos": "adjective",
+      "canonical": "உண்டாக்கு",
+      "definition_ta": "ஒரு விளைவை அல்லது ஒரு நிலையை உருவாக்குவதற்குத் தகுதியான அல்லது ஏதுவான.",
+      "modern_equivalent": "உருவாக்கக்கூடிய",
+      "english_word": "provokable",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "அவருக்கு",
+      "pos": "pronoun",
+      "canonical": "அவருக்கு",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரை அல்லது ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவருக்கு",
+      "english_word": "to him",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "விரோதமாயிருக்கிறது.",
+      "pos": "adjective",
+      "canonical": "விரோத",
+      "definition_ta": "எதிர்ப்பு அல்லது முரண்பாடு கொண்ட நிலை.",
+      "modern_equivalent": "எதிரான",
+      "english_word": "hostile",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "அவர்கள்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் மற்றும் அவருடைய வார்த்தையைச் சித்தமாகக் குறிக்கும் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "அவர்கள்",
+      "english_word": "They",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "முகப்பார்வை",
+      "pos": "noun",
+      "canonical": "முகப்பார்வை",
+      "definition_ta": "ஒருவருடைய முகத்தில் காணப்படும் தோற்றம் அல்லது முகபாவனை.",
+      "modern_equivalent": "முகபாவனை",
+      "english_word": "countenance",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "அவர்களுக்கு",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் உருவாக்கிய உடைகளை ஆதாமுக்கும் அவன் மனைவிக்கும் வழங்கினார்.",
+      "modern_equivalent": "அவர்களுக்கு",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "விரோதமாய்ச்",
+      "pos": "adverb",
+      "canonical": "விரோதம்",
+      "definition_ta": "எதிர்ப்பு அல்லது பகைமையுடன் கூடிய முறையில்.",
+      "modern_equivalent": "எதிராக",
+      "english_word": "against",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "சாட்சியிடும்;",
+      "pos": "verb",
+      "canonical": "சாட்சி",
+      "definition_ta": "ஒரு காரியத்தை அல்லது ஒருவரைப் பற்றி உண்மை சொல்லுதல்.",
+      "modern_equivalent": "சாட்சி சொல்லும்",
+      "english_word": "bear witness",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "அவர்கள்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் மற்றும் அவருடைய வார்த்தையைச் சித்தமாகக் குறிக்கும் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "அவர்கள்",
+      "english_word": "They",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "பாவத்தை",
+      "pos": "noun",
+      "canonical": "பாவம்",
+      "definition_ta": "தேவனுடைய சட்டத்திற்கு விரோதமான செயல் அல்லது ஒழுக்கக்கேடு.",
+      "modern_equivalent": "தவறு",
+      "english_word": "sin",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "மறைக்காமல்,",
+      "pos": "adverb",
+      "canonical": "மறை",
+      "definition_ta": "ஒரு செய்தியை அல்லது பொருளை மற்றவர்களுக்கு தெரியாமல் மறைக்காமல்.",
+      "modern_equivalent": "மறைக்காமல்",
+      "english_word": "without hiding",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "சோதோம்",
+      "pos": "noun",
+      "canonical": "சோதோம்",
+      "definition_ta": "பழங்காலத்தில் கானானியப் பகுதியில் இருந்த ஒரு ஊர்.",
+      "modern_equivalent": "சோதோம்",
+      "english_word": "Sodom",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஊராரைப்போல",
+      "pos": "adverb",
+      "canonical": "ஊராரைப்போல",
+      "definition_ta": "சோதோம் ஊரைப்போல அல்லது அது போன்ற ஒரு நிலையை ஒப்பிட்டுச் சொல்லுதல்.",
+      "modern_equivalent": "சோதோம் ஊரைப் போல",
+      "english_word": "as Sodom",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "வெளிப்படுத்துகிறார்கள்;",
+      "pos": "verb",
+      "canonical": "வெளிப்படுத்து",
+      "definition_ta": "மறைக்கப்பட்டிருந்த ஒன்றை வெளிப்படையாகக் காட்டுதல்.",
+      "modern_equivalent": "வெளிப்படுத்துகிறார்கள்",
+      "english_word": "expose",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "அவர்கள்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் மற்றும் அவருடைய வார்த்தையைச் சித்தமாகக் குறிக்கும் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "அவர்கள்",
+      "english_word": "They",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஆத்துமாவுக்கு",
+      "pos": "noun",
+      "canonical": "ஆத்துமா",
+      "definition_ta": "ஒரு மனிதனின் உயிர் அல்லது ஆன்மா.",
+      "modern_equivalent": "ஆத்துமா",
+      "english_word": "soul",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஐயோ!",
+      "pos": "interjection",
+      "canonical": "ஐயோ",
+      "definition_ta": "துக்கம், வருத்தம் அல்லது ஏமாற்றத்தை வெளிப்படுத்தும் வியப்பிடைச்சொல்.",
+      "modern_equivalent": "ஐயோ",
+      "english_word": "alas",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "தங்களுக்கே",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய.",
+      "modern_equivalent": "தங்களுக்கு",
+      "english_word": "themselves",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "தீமையை",
+      "pos": "noun",
+      "canonical": "தீமை",
+      "definition_ta": "நன்மைக்கு எதிரான கெட்ட செயல் அல்லது ஒழுக்கமற்ற காரியம்.",
+      "modern_equivalent": "கெட்ட事",
+      "english_word": "evil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "வருவித்துக்கொள்ளுகிறார்கள்.",
+      "pos": "verb",
+      "canonical": "வருவி",
+      "definition_ta": "ஒரு விளைவை அல்லது ஒரு காரியத்தை ஏற்படுத்தி வருதல்.",
+      "modern_equivalent": "வருவித்துக்கொள்கிறார்கள்",
+      "english_word": "bring upon themselves",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "உங்களுக்கு",
+      "pos": "pronoun",
+      "canonical": "உங்களுக்கு",
+      "definition_ta": "தேவன் மனிதகுலத்திற்கு அல்லது குறிப்பிட்ட மக்களுக்கு வழங்கியதைக் குறிக்கிறது.",
+      "modern_equivalent": "உங்களுக்கு",
+      "english_word": "to you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "நன்மையுண்டாகும்",
+      "pos": "verb",
+      "canonical": "உண்டாகு",
+      "definition_ta": "நன்மை அல்லது பயன் கிடைப்பது அல்லது அடைவது.",
+      "modern_equivalent": "கிடைக்கும்",
+      "english_word": "will receive",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "என்று",
+      "pos": "conjunction",
+      "canonical": "என்று",
+      "definition_ta": "ஒரு சொல்லின் பொருளை அல்லது ஒரு செயலின் காரணத்தை இணைத்துக் குறிக்கும் இணைப்புச் சொல்.",
+      "modern_equivalent": "என்று",
+      "english_word": "that",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 10,
+      "word": "நீதிமான்களுக்குச்",
+      "pos": "noun",
+      "canonical": "நீதிமான்",
+      "definition_ta": "தேவனுடைய கட்டளைகளுக்குக் கீழ்ப்படிந்து நடக்கும் நீதிமானான நபர்.",
+      "modern_equivalent": "நீதிமான்கள்",
+      "english_word": "the righteous",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "சொல்லுங்கள்;",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "தகவல் அல்லது செய்தியை வாய்மொழியாக வெளிப்படுத்துதல்.",
+      "modern_equivalent": "கூறுங்கள்",
+      "english_word": "tell",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "அவர்கள்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் மற்றும் அவருடைய வார்த்தையைச் சித்தமாகக் குறிக்கும் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "அவர்கள்",
+      "english_word": "They",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "கிரியைகளின்",
+      "pos": "noun",
+      "canonical": "கிரியை",
+      "definition_ta": "ஒருவர் செய்யும் செயல் அல்லது பணி.",
+      "modern_equivalent": "செயல்கள்",
+      "english_word": "works",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "பலனை",
+      "pos": "noun",
+      "canonical": "பலன்",
+      "definition_ta": "ஒரு செயலின் விளைவாகக் கிடைக்கும் ஆதாயம் அல்லது லாபம்.",
+      "modern_equivalent": "லாபம், பலன்",
+      "english_word": "profit",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "அனுபவிப்பார்கள்.",
+      "pos": "verb",
+      "canonical": "அனுபவி",
+      "definition_ta": "ஒரு செயலின் விளைவை அல்லது பலனை அனுபவிப்பது அல்லது பெறுவது.",
+      "modern_equivalent": "பெறுவார்கள்",
+      "english_word": "will receive",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "துன்மார்க்கனுக்கு",
+      "pos": "noun",
+      "canonical": "துன்மார்க்கன்",
+      "definition_ta": "தீமை செய்கிற அல்லது தேவனுக்கு கீழ்ப்படியாத ஒரு நபர்.",
+      "modern_equivalent": "பாவம் செய்பவன்",
+      "english_word": "wicked man",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "ஐயோ!",
+      "pos": "interjection",
+      "canonical": "ஐயோ",
+      "definition_ta": "துக்கம், வருத்தம் அல்லது ஏமாற்றத்தை வெளிப்படுத்தும் வியப்பிடைச்சொல்.",
+      "modern_equivalent": "ஐயோ",
+      "english_word": "alas",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "அவனுக்குக்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண்பிறவியைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவனுக்கு",
+      "english_word": "to him",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "கேடு",
+      "pos": "noun",
+      "canonical": "கேடு",
+      "definition_ta": "பாதிப்பு, அழிவு அல்லது தீங்கு விளைவிக்கும் நிலை.",
+      "modern_equivalent": "அழிவு",
+      "english_word": "destruction",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "உண்டாகும்;",
+      "pos": "verb",
+      "canonical": "உண்டாகு",
+      "definition_ta": "ஏற்படுதல் அல்லது தோன்றுதல்",
+      "modern_equivalent": "உண்டாகும்",
+      "english_word": "arose",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "கைகளின்",
+      "pos": "noun",
+      "canonical": "கை",
+      "definition_ta": "உடலின் ஒரு உறுப்பு, செயல்களைச் செய்யப் பயன்படுவது.",
+      "modern_equivalent": "கை",
+      "english_word": "hands",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "பலன்",
+      "pos": "noun",
+      "canonical": "பலன்",
+      "definition_ta": "ஒரு செயலின் விளைவாகக் கிடைக்கும் ஆதாயம் அல்லது அறுவடை.",
+      "modern_equivalent": "அறுவடை",
+      "english_word": "yield",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "அவனுக்குக்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண்பிறவியைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவனுக்கு",
+      "english_word": "to him",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "கிடைக்கும்.",
+      "pos": "verb",
+      "canonical": "கிடை",
+      "definition_ta": "ஒரு பொருள் அல்லது நிலை ஒருவருக்குக் கிடைத்தல் அல்லது வருதல்.",
+      "modern_equivalent": "கிடைக்கும்",
+      "english_word": "will be obtained",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "பிள்ளைகள்",
+      "pos": "noun",
+      "canonical": "பிள்ளை",
+      "definition_ta": "பிள்ளை: ஒருவருக்குப் பிறந்த மகன் அல்லது மகள்.",
+      "modern_equivalent": "குழந்தைகள்",
+      "english_word": "children",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "என்",
+      "pos": "pronoun",
+      "canonical": "என்",
+      "definition_ta": "ஆதாம் தன்னைத்தானே குறிக்கப் பயன்படுத்திய ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "என்னுடைய",
+      "english_word": "my",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "ஜனங்களை",
+      "pos": "noun",
+      "canonical": "ஜனம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட குழு அல்லது கூட்டத்தைச் சேர்ந்த மக்கள்.",
+      "modern_equivalent": "மக்களை",
+      "english_word": "peoples",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "ஒடுக்குகிறவர்களாயிருக்கிறார்கள்;",
+      "pos": "verb",
+      "canonical": "ஒடுக்கு",
+      "definition_ta": "அதிகாரம் அல்லது வலிமையால் ஒருவரை அடக்கி அல்லது பணிய்த்து வைத்தல்.",
+      "modern_equivalent": "அடக்குபவர்கள்",
+      "english_word": "oppress",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 12,
+      "word": "ஸ்திரீகள்",
+      "pos": "noun",
+      "canonical": "ஸ்திரீ",
+      "definition_ta": "பெண் அல்லது பெண்மை.",
+      "modern_equivalent": "பெண்கள்",
+      "english_word": "women",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "அவர்களை",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் ஆசிர்வதித்து கட்டளையிட்ட மனிதர்களைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவர்களை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "ஆளுகிறார்கள்.",
+      "pos": "verb",
+      "canonical": "ஆளு",
+      "definition_ta": "ஒருவரை அல்லது ஒரு கூட்டத்தை ஆட்சி செய்தல் அல்லது கட்டுப்படுத்துதல்.",
+      "modern_equivalent": "ஆட்சி செய்கிறார்கள்",
+      "english_word": "oppress",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "என்",
+      "pos": "pronoun",
+      "canonical": "என்",
+      "definition_ta": "ஆதாம் தன்னைத்தானே குறிக்கப் பயன்படுத்திய ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "என்னுடைய",
+      "english_word": "my",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "ஜனமே,",
+      "pos": "noun",
+      "canonical": "ஜனம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட தேசத்தைச் சேர்ந்த மக்கள் அல்லது ஒரு கூட்டத்தினர்.",
+      "modern_equivalent": "மக்கள்",
+      "english_word": "people",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "உன்னை",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "இந்த வசனத்தில் வேதனையை அனுபவிக்கும் அந்தப் பெண்ணைக் குறிக்கும் பிரதிபெயர்.",
+      "modern_equivalent": "உன்னை",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "நடத்துகிறவர்கள்",
+      "pos": "verb",
+      "canonical": "நடத்து",
+      "definition_ta": "ஒருவரை வழிநடத்துதல் அல்லது ஒரு குறிப்பிட்ட பாதையில் வழிநடத்துதல்.",
+      "modern_equivalent": "வழிநடத்துபவர்கள்",
+      "english_word": "lead",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 12,
+      "word": "உன்னை",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "இந்த வசனத்தில் வேதனையை அனுபவிக்கும் அந்தப் பெண்ணைக் குறிக்கும் பிரதிபெயர்.",
+      "modern_equivalent": "உன்னை",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "மோசம்போக்கி,",
+      "pos": "verb",
+      "canonical": "மோசம்போக்கு",
+      "definition_ta": "ஒருவரை அல்லது ஒரு பொருளைத் தவறான அல்லது தீய முறையில் கையாளுதல்.",
+      "modern_equivalent": "மோசமாக கையாளுதல்",
+      "english_word": "violates",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "நீ",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "தேவன் ஆதாமுக்கு உரையாடும்போது அவனைக் குறிக்கப் பயன்படுத்திய இரண்டாம் நபர் ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "நீ",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "நடக்கவேண்டிய",
+      "pos": "adjective",
+      "canonical": "நடக்க",
+      "definition_ta": "நடப்பதற்கு உரிய அல்லது நடக்க வேண்டிய.",
+      "modern_equivalent": "நடக்க வேண்டிய",
+      "english_word": "to walk",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "வழியை",
+      "pos": "noun",
+      "canonical": "வழி",
+      "definition_ta": "நடப்பதற்கு அல்லது செல்ல வேண்டிய பாதை அல்லது நெறி.",
+      "modern_equivalent": "நெறி",
+      "english_word": "way",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "அழித்துப்போடுகிறார்கள்.",
+      "pos": "verb",
+      "canonical": "அழி",
+      "definition_ta": "முழுமையாக அழித்தல் அல்லது ஒரு பாதையை முற்றிலும் நீக்கிவிடுதல்.",
+      "modern_equivalent": "அழித்துவிடுகிறார்கள்",
+      "english_word": "destroy",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "கர்த்தர்",
+      "pos": "particle",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "சர்வ வல்லமையுள்ள இறைவனாகிய ஆண்டவரை குறிக்கும்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 13,
+      "word": "வழக்காட",
+      "pos": "verb",
+      "canonical": "வழக்காடு",
+      "definition_ta": "நீதி அல்லது சட்டத்தின் அடிப்படையில் ஒரு விவகாரத்தை விசாரணை செய்தல்.",
+      "modern_equivalent": "நீதிமன்றத்தில் வழக்கு நடத்த",
+      "english_word": "plead",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "எழுந்திருந்து,",
+      "pos": "verb",
+      "canonical": "எழும்",
+      "definition_ta": "உட்கார்ந்திருந்தோ அல்லது படுத்திருந்தோ இருந்து எழுந்து நிற்பது.",
+      "modern_equivalent": "எழுந்து",
+      "english_word": "arose",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "ஜனங்களை",
+      "pos": "noun",
+      "canonical": "ஜனம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட குழு அல்லது கூட்டத்தைச் சேர்ந்த மக்கள்.",
+      "modern_equivalent": "மக்களை",
+      "english_word": "peoples",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "நியாயந்தீர்க்க",
+      "pos": "verb",
+      "canonical": "நியாயந்தீர்க்க",
+      "definition_ta": "நீதிமானாக அல்லது சமமான முறையில் தீர்ப்பு வழங்குதல்.",
+      "modern_equivalent": "நீதி விசாரிக்க",
+      "english_word": "judge",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "நிற்கிறார்.",
+      "pos": "verb",
+      "canonical": "நில்",
+      "definition_ta": "ஒரு இடத்தில் நிலைபெற்று உறுதியாக இருத்தல்.",
+      "modern_equivalent": "நிற்கிறார்",
+      "english_word": "stands",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "கர்த்தர்",
+      "pos": "particle",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "சர்வ வல்லமையுள்ள இறைவனாகிய ஆண்டவரை குறிக்கும்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 14,
+      "word": "தமது",
+      "pos": "pronoun",
+      "canonical": "தமது",
+      "definition_ta": "அவருடைய அல்லது அவருடைய என்று பொருள்படும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவருடைய",
+      "english_word": "his",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "ஜனத்தின்",
+      "pos": "noun",
+      "canonical": "ஜனம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட கூட்டத்தினர் அல்லது ஒரு தேசத்தின் மக்கள்.",
+      "modern_equivalent": "மக்கள்",
+      "english_word": "people",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "மூப்பரையும்,",
+      "pos": "noun",
+      "canonical": "மூப்பர்",
+      "definition_ta": "ஒரு சமூகத்தில் அல்லது கூட்டத்தில் தலைமை தாங்கி வழிகாட்டும் மூத்த தலைவர்கள்.",
+      "modern_equivalent": "தலைவர்கள்",
+      "english_word": "elders",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "பிரபுக்களையும்",
+      "pos": "noun",
+      "canonical": "பிரபு",
+      "definition_ta": "அதிகாரம் அல்லது அதிகாரத்தை உடையவர் அல்லது ஒரு கூட்டத்தின் தலைவன்.",
+      "modern_equivalent": "தலைவர்கள்",
+      "english_word": "princes",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "நியாயம்",
+      "pos": "noun",
+      "canonical": "நியாயம்",
+      "definition_ta": "சரியான நீதி அல்லது நேர்மையான ஒழுங்கு.",
+      "modern_equivalent": "நீதி",
+      "english_word": "justice",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "விசாரிப்பார்.",
+      "pos": "verb",
+      "canonical": "விசாரி",
+      "definition_ta": "ஒரு விஷயத்தைப் பற்றி விசாரணை செய்தல் அல்லது கேட்டறிதல்.",
+      "modern_equivalent": "கேள்வார்",
+      "english_word": "inquire",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "நீங்களே",
+      "pos": "pronoun",
+      "canonical": "நீங்களே",
+      "definition_ta": "தங்களை அல்லது தம்மை என்று குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "நீங்களே",
+      "english_word": "you yourselves",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "இந்தத்",
+      "pos": "adjective",
+      "canonical": "இந்த",
+      "definition_ta": "தற்போது பேசிக்கொண்டிருக்கும் குறிப்பிட்ட தேசத்தைக் குறிக்கிறது.",
+      "modern_equivalent": "இந்த",
+      "english_word": "this",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "திராட்சத்தோட்டத்தைப்",
+      "pos": "noun",
+      "canonical": "திராட்சத்தோட்டம்",
+      "definition_ta": "திராட்சை பழங்கள் வளர்க்கப்படும் நிலம் அல்லது தோட்டம்.",
+      "modern_equivalent": "திராட்சை தோட்டம்",
+      "english_word": "vineyard",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "பட்சித்துப்போட்டீர்கள்;",
+      "pos": "verb",
+      "canonical": "பட்சி",
+      "definition_ta": "ஒரு பொருளை சட்டவிரோதமாக அல்லது திருட்டுத்தனமாக எடுத்துச் செல்வது.",
+      "modern_equivalent": "திருடினீர்கள்",
+      "english_word": "robbed",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "சிறுமையானவனிடத்தில்",
+      "pos": "noun",
+      "canonical": "சிறுமையானன்",
+      "definition_ta": "சிறுமையான்களை வளர்ப்பவன் அல்லது சிறுமையானன் பராமரிப்பாளர்.",
+      "modern_equivalent": "சிறுமையானன்",
+      "english_word": "shepherd",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "கொள்ளையிட்ட",
+      "pos": "adjective",
+      "canonical": "கொள்ளையிடு",
+      "definition_ta": "திருட்டுத்தனமாக அல்லது வலுக்கட்டாயமாகப் பறிமுதல் செய்யப்பட்ட.",
+      "modern_equivalent": "திருடிய",
+      "english_word": "looted",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "பொருள்",
+      "pos": "noun",
+      "canonical": "பொருள்",
+      "definition_ta": "பயன்பாட்டிற்காகக் கிடைக்கும் பொருட்கள் அல்லது செல்வங்கள்.",
+      "modern_equivalent": "செல்வம்",
+      "english_word": "goods",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "உங்கள்",
+      "pos": "pronoun",
+      "canonical": "உங்கள்",
+      "definition_ta": "அவர்கள் அல்லது நீங்கள் என்று குறிப்பிடப்படும் ஒருவருடைய உடைமையை குறிக்கும் பிரதிபெயர்.",
+      "modern_equivalent": "உங்களுடைய",
+      "english_word": "your",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "வீடுகளில்",
+      "pos": "noun",
+      "canonical": "வீடு",
+      "definition_ta": "மனுஷர்கள் தங்குவதற்கு அல்லது வசிப்பதற்கு கட்டப்பட்ட தளம் அல்லது இல்லம்.",
+      "modern_equivalent": "இல்லங்கள்",
+      "english_word": "houses",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "இருக்கிறது.",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு பொருள் அல்லது நிலை ஒரு இடத்தில் நிலைபெற்று இருப்பதை இது குறிக்கிறது.",
+      "modern_equivalent": "உள்ளது",
+      "english_word": "is",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "நீங்கள்",
+      "pos": "pronoun",
+      "canonical": "நீங்கள்",
+      "definition_ta": "தேவன் ஆசீர்வதிக்கும் மனிதர்களைக் குறிக்கும் இரண்டாம் நபர் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "நீங்கள்",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "என்",
+      "pos": "pronoun",
+      "canonical": "என்",
+      "definition_ta": "ஆதாம் தன்னைத்தானே குறிக்கப் பயன்படுத்திய ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "என்னுடைய",
+      "english_word": "my",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "ஜனத்தை",
+      "pos": "noun",
+      "canonical": "ஜனம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட குழு அல்லது மக்கள் கூட்டம்.",
+      "modern_equivalent": "மக்கள் / கூட்டம்",
+      "english_word": "people",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "நொறுக்கிச்",
+      "pos": "verb",
+      "canonical": "நொறுக்கு",
+      "definition_ta": "முழுமையாக உடைப்பது அல்லது சிதைப்பது.",
+      "modern_equivalent": "உடைப்பது",
+      "english_word": "crushing",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 15,
+      "word": "சிறுமையானவர்களின்",
+      "pos": "noun",
+      "canonical": "சிறுமையானவன்",
+      "definition_ta": "அநீதியாகவும் கொடுமையாகவும் நடக்கும் ஒரு நபர்.",
+      "modern_equivalent": "கொடுமையாளர்கள்",
+      "english_word": "oppressors",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "முகத்தை",
+      "pos": "noun",
+      "canonical": "முகம்",
+      "definition_ta": "ஒரு மனிதனின் தலைமுன்னால் உள்ள உறுப்பு அல்லது தோற்றம்.",
+      "modern_equivalent": "முகம்",
+      "english_word": "face",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "நெரிக்கிறது",
+      "pos": "verb",
+      "canonical": "நெருக்கு",
+      "definition_ta": "அழுத்தி அழுத்துவது அல்லது நசுக்குவது.",
+      "modern_equivalent": "அழுத்துவது",
+      "english_word": "oppressing",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 15,
+      "word": "என்னவென்று",
+      "pos": "pronoun",
+      "canonical": "என்ன",
+      "definition_ta": "ஒரு விஷயத்தைப் பற்றியோ அல்லது ஒரு செயலைப் பற்றியோ கேட்கும் வினாச்சொல்.",
+      "modern_equivalent": "எதை",
+      "english_word": "what",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "சேனைகளின்",
+      "pos": "adjective",
+      "canonical": "சேனை",
+      "definition_ta": "போர்வீரர்களின் கூட்டத்தையோ அல்லது ஒரு நாட்டின் படையையோ குறிக்கும் பண்பு.",
+      "modern_equivalent": "படைகளின்",
+      "english_word": "hosts",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "கர்த்தராகிய",
+      "pos": "adjective",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆளுகை அல்லது அதிகாரத்தைக் கொண்டவர்; ஆண்டவர்.",
+      "modern_equivalent": "ஆண்டவராகிய",
+      "english_word": "Lord",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "ஆண்டவர்",
+      "pos": "noun",
+      "canonical": "ஆண்டவர்",
+      "definition_ta": "தலைவன் அல்லது அதிகாரம் கொண்ட ஒருவரை குறிக்கும் சொல்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "Lord",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "உரைக்கிறார்.",
+      "pos": "verb",
+      "canonical": "உரை",
+      "definition_ta": "தெளிவாகக் கூறுதல் அல்லது அறிவித்தல்",
+      "modern_equivalent": "சொல்லுகிறார்",
+      "english_word": "say",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "பின்னும்",
+      "pos": "conjunction",
+      "canonical": "பின்பு",
+      "definition_ta": "முந்தைய செய்தியைத் தொடர்ந்து அடுத்ததாக நடக்கும் ஒரு செயலைக் குறிக்கிறது.",
+      "modern_equivalent": "அடுத்து",
+      "english_word": "And",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "கர்த்தர்",
+      "pos": "particle",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "சர்வ வல்லமையுள்ள இறைவனாகிய ஆண்டவரை குறிக்கும்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 16,
+      "word": "சொல்லுகிறதாவது:",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "ஒரு செய்தியை அல்லது கருத்தை வெளிப்படுத்துவது அல்லது அறிவிப்பது.",
+      "modern_equivalent": "சொல்பதாவது",
+      "english_word": "says",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "சீயோன்",
+      "pos": "noun",
+      "canonical": "சீயோன்",
+      "definition_ta": "எருசலேமுக்கு அருகிலுள்ள ஒரு மலை அல்லது புனிதமான மலை.",
+      "modern_equivalent": "சீயோன் மலை",
+      "english_word": "Zion",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "குமாரத்திகள்",
+      "pos": "noun",
+      "canonical": "குமாரத்தி",
+      "definition_ta": "ஆண் பிள்ளைகள் அல்லது மகன்கள் என்று பொருள்படும் சொல்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "அகந்தையாயிருந்து,",
+      "pos": "adjective",
+      "canonical": "அகந்தை",
+      "definition_ta": "அகந்தை: தற்பெருமை அல்லது தன்னை விட உயர்ந்தவன் என்று எண்ணும் பெருமை.",
+      "modern_equivalent": "பெருமையுடன்",
+      "english_word": "proud",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "கழுத்தை",
+      "pos": "noun",
+      "canonical": "கழுத்து",
+      "definition_ta": "தலைக்கும் தோள்பட்டையிடைக்கும் உள்ளே உள்ள உடல் உறுப்பு.",
+      "modern_equivalent": "கழுத்து",
+      "english_word": "neck",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "நெறித்து",
+      "pos": "verb",
+      "canonical": "நெறி",
+      "definition_ta": "நெறி: ஒரு பொருளை அல்லது உறுப்பை அழுத்திச் சுருக்குதல்.",
+      "modern_equivalent": "அழுத்தி",
+      "english_word": "twisted",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "நடந்து,",
+      "pos": "verb",
+      "canonical": "நட",
+      "definition_ta": "கால்களை முன்னெடுத்து முன்னேறிச் செல்லுதல்.",
+      "modern_equivalent": "நடந்து",
+      "english_word": "walk",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "கண்களால்",
+      "pos": "particle",
+      "canonical": "கண்",
+      "definition_ta": "கண் என்னும் உறுப்பினால் அல்லது கண்ணின் வழியாக என்று குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "கண்ணால்",
+      "english_word": "with eyes",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "மருட்டிப்பார்த்து,",
+      "pos": "verb",
+      "canonical": "மருட்டு",
+      "definition_ta": "மருட்டு: ஒரு பொருளைக் கவ்வித்துப் பிடித்து அல்லது அழுத்திப் பார்ப்பது.",
+      "modern_equivalent": "கவ்வித்துப் பார்த்து",
+      "english_word": "looking around",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "ஒய்யாரமாய்",
+      "pos": "adverb",
+      "canonical": "ஒய்யாரம்",
+      "definition_ta": "ஒய்யாரம்: மிகைவான அல்லது ஆடம்பரமான முறையில் நடப்பது.",
+      "modern_equivalent": "ஆடம்பரமாய்",
+      "english_word": "strutting",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "நடந்து,",
+      "pos": "verb",
+      "canonical": "நட",
+      "definition_ta": "கால்களை முன்னெடுத்து முன்னேறிச் செல்லுதல்.",
+      "modern_equivalent": "நடந்து",
+      "english_word": "walk",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "கால்களில்",
+      "pos": "noun",
+      "canonical": "கால்",
+      "definition_ta": "மனித உடலின் ஒரு உறுப்பு, நடப்பதற்குப் பயன்படும் பகுதி.",
+      "modern_equivalent": "பாதம்",
+      "english_word": "feet",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "சிலம்பு",
+      "pos": "noun",
+      "canonical": "சிலம்பு",
+      "definition_ta": "சிலம்பு: கால்களில் அணிந்து நடக்கும்போது சத்தம் எழுப்பும் ஒரு வகை ஆபரணம்.",
+      "modern_equivalent": "காலச் சலங்கை",
+      "english_word": "bells",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "ஒலிக்கத்",
+      "pos": "verb",
+      "canonical": "ஒலி",
+      "definition_ta": "ஒலி: காற்றில் பரவும் சத்தம்.",
+      "modern_equivalent": "சத்தம் கேட்க",
+      "english_word": "sounding",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "திரிகிறார்கள்.",
+      "pos": "verb",
+      "canonical": "திரி",
+      "definition_ta": "ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு அலைந்து செல்லும் செயல்.",
+      "modern_equivalent": "அலைந்து செல்கிறார்கள்",
+      "english_word": "roam",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "ஆதலால்",
+      "pos": "adverb",
+      "canonical": "ஆதலால்",
+      "definition_ta": "ஒரு காரணத்தினால் அல்லது ஒரு செயலை அடுத்து நிகழும் விளைவாக.",
+      "modern_equivalent": "அதனால்",
+      "english_word": "therefore",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "ஆண்டவர்",
+      "pos": "noun",
+      "canonical": "ஆண்டவர்",
+      "definition_ta": "தலைவன் அல்லது அதிகாரம் கொண்ட ஒருவரை குறிக்கும் சொல்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "Lord",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "சீயோன்",
+      "pos": "noun",
+      "canonical": "சீயோன்",
+      "definition_ta": "எருசலேமுக்கு அருகிலுள்ள ஒரு மலை அல்லது புனிதமான மலை.",
+      "modern_equivalent": "சீயோன் மலை",
+      "english_word": "Zion",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "குமாரத்திகளின்",
+      "pos": "noun",
+      "canonical": "குமாரத்தி",
+      "definition_ta": "ஒரு ஆணின் பெண் குழந்தை அல்லது மகள்.",
+      "modern_equivalent": "மகள்களின்",
+      "english_word": "daughters",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "உச்சந்தலையை",
+      "pos": "noun",
+      "canonical": "உச்சந்தலை",
+      "definition_ta": "தலைமுடியில் உள்ள கூந்தல் அல்லது தலைமுடி.",
+      "modern_equivalent": "தலைமுடி",
+      "english_word": "crown of the head",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 17,
+      "word": "மொட்டையாக்குவார்;",
+      "pos": "verb",
+      "canonical": "மொட்டையாக்கு",
+      "definition_ta": "தலைமுடியை முழுமையாக நீக்கி மொட்டையாக்கும் செயல்.",
+      "modern_equivalent": "மொட்டையாக்குவார்",
+      "english_word": "shave",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 17,
+      "word": "கர்த்தர்",
+      "pos": "particle",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "சர்வ வல்லமையுள்ள இறைவனாகிய ஆண்டவரை குறிக்கும்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 17,
+      "word": "அவர்கள்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் மற்றும் அவருடைய வார்த்தையைச் சித்தமாகக் குறிக்கும் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "அவர்கள்",
+      "english_word": "They",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "மானத்தைக்",
+      "pos": "noun",
+      "canonical": "மானம்",
+      "definition_ta": "ஒருவருடைய சுயமதிப்பு அல்லது கண்ணியம்",
+      "modern_equivalent": "கண்ணியம்",
+      "english_word": "dignity",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "குலைப்பார்.",
+      "pos": "verb",
+      "canonical": "குலை",
+      "definition_ta": "ஒருவரின் பெருமை அல்லது கௌரவத்தை சிதைக்கும் அல்லது அழிக்கும் செயல்.",
+      "modern_equivalent": "சிதைப்பார்",
+      "english_word": "break",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 18,
+      "word": "அந்நாளிலே",
+      "pos": "adverb",
+      "canonical": "அந்நாள்",
+      "definition_ta": "குறிப்பிட்ட அந்த குறிப்பிட்ட நாளில் அல்லது அந்த சமயத்தில்.",
+      "modern_equivalent": "அந்த நாளில்",
+      "english_word": "on that day",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "ஆண்டவர்",
+      "pos": "noun",
+      "canonical": "ஆண்டவர்",
+      "definition_ta": "தலைவன் அல்லது அதிகாரம் கொண்ட ஒருவரை குறிக்கும் சொல்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "Lord",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "அவர்களுடைய",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "அவர்களுக்குச் சொந்தமானதைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "ஆபரணங்களாகிய",
+      "pos": "adjective",
+      "canonical": "ஆபரணம்",
+      "definition_ta": "உடம்பில் அணிவதற்குப் பயன்படும் அலங்காரப் பொருட்கள்.",
+      "modern_equivalent": "ஆபரணங்கள்",
+      "english_word": "ornaments",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 18,
+      "word": "சிலம்புகளையும்,",
+      "pos": "noun",
+      "canonical": "சிலம்பு",
+      "definition_ta": "கைகளில் அணிந்து ஆடும் அல்லது அணிந்திருக்கும் மணிகள் கொண்ட ஆபரணம்.",
+      "modern_equivalent": "சிலம்புகள்",
+      "english_word": "bracelets",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 18,
+      "word": "சுட்டிகளையும்,",
+      "pos": "noun",
+      "canonical": "சுட்டி",
+      "definition_ta": "கைகளில் அணிவதற்குப் பயன்படும் சிறிய ஆபரணம்.",
+      "modern_equivalent": "சுட்டிகள்",
+      "english_word": "anklets",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 18,
+      "word": "பிறைச்சிந்தாக்குகளையும்,",
+      "pos": "noun",
+      "canonical": "பிறைச்சிந்தாக்கம்",
+      "definition_ta": "தலை அல்லது கூந்தலில் அணிவதற்குப் பயன்படும் அலங்காரப் பொருள்.",
+      "modern_equivalent": "தலை அலங்காரங்கள்",
+      "english_word": "headbands",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 19,
+      "word": "ஆரங்களையும்,",
+      "pos": "noun",
+      "canonical": "ஆர",
+      "definition_ta": "ஒரு வகை செடி அல்லது புல் போன்ற தாவரம்.",
+      "modern_equivalent": "புல் வகை",
+      "english_word": "grasses",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 19,
+      "word": "அஸ்தகடகங்களையும்,",
+      "pos": "noun",
+      "canonical": "அஸ்தகடகம்",
+      "definition_ta": "கைகளில் அணியும் ஒரு வகை ஆபரணம்.",
+      "modern_equivalent": "கைக்கடிகாரம் அல்லது கைக்களவு",
+      "english_word": "bracelets",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "தலைமுக்காடுகளையும்,",
+      "pos": "noun",
+      "canonical": "தலைமுக்காடு",
+      "definition_ta": "தலைமுக்களில் வளரும் ஒரு வகை செடி அல்லது புல்.",
+      "modern_equivalent": "தலைமுக்காடு",
+      "english_word": "sedges",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 20,
+      "word": "சிரபூஷணங்களையும்,",
+      "pos": "noun",
+      "canonical": "சிரபூஷணம்",
+      "definition_ta": "தலை அலங்காரத்திற்காக அணியப்படும் அணிகலன்கள் அல்லது அலங்காரப் பொருட்கள்.",
+      "modern_equivalent": "தலை அலங்காரங்கள்",
+      "english_word": "headbands",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 20,
+      "word": "பாதசரங்களையும்,",
+      "pos": "noun",
+      "canonical": "பாதசரம்",
+      "definition_ta": "பாதத்தில் அணியும் ஒரு வகை ஆபரணம்.",
+      "modern_equivalent": "பாதசரம்",
+      "english_word": "anklets",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "மார்க்கச்சைகளையும்,",
+      "pos": "noun",
+      "canonical": "மார்க்கச்சை",
+      "definition_ta": "கைகளில் அணியப்படும் அல்லது கைகளில் ஏந்தப்படும் அலங்காரப் பொருட்கள்.",
+      "modern_equivalent": "கை அலங்காரங்கள்",
+      "english_word": "bracelets",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 20,
+      "word": "சுகந்தபரணிகளையும்,",
+      "pos": "noun",
+      "canonical": "சுகந்தபரணி",
+      "definition_ta": "நல்ல வாசனை தரும் பூக்கள் அல்லது வாசனைப் பொருட்கள் கொண்ட அலங்காரப் பொருட்கள்.",
+      "modern_equivalent": "வாசனைப் பூக்கள்",
+      "english_word": "scented spices",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 21,
+      "word": "தாயித்துகளையும்,",
+      "pos": "noun",
+      "canonical": "தாயித்து",
+      "definition_ta": "காதில் அணியப்படும் ஒரு வகை ஆபரணம்.",
+      "modern_equivalent": "காதணி",
+      "english_word": "earrings",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 21,
+      "word": "மோதிரங்களையும்,",
+      "pos": "noun",
+      "canonical": "மோதிரம்",
+      "definition_ta": "விரலில் அணியும் ஒரு வகை ஆபரணம்.",
+      "modern_equivalent": "மோதிரம்",
+      "english_word": "rings",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "மூக்குத்திகளையும்,",
+      "pos": "noun",
+      "canonical": "மூக்குத்தி",
+      "definition_ta": "மூக்கின் நுனியில் அணியப்படும் ஒரு வகை ஆபரணம்.",
+      "modern_equivalent": "மூக்குத்தி",
+      "english_word": "nose-rings",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 22,
+      "word": "விநோத",
+      "pos": "adjective",
+      "canonical": "விநோதம்",
+      "definition_ta": "மிகவும் நுணுக்கமான அல்லது நேர்த்தியான கலைநயம் கொண்ட.",
+      "modern_equivalent": "நேர்த்தியான",
+      "english_word": "exquisite",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "வஸ்திரங்களையும்,",
+      "pos": "noun",
+      "canonical": "வஸ்திரம்",
+      "definition_ta": "உடையில் அணியக்கூடிய துணி அல்லது ஆடை.",
+      "modern_equivalent": "ஆடை",
+      "english_word": "garments",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "சால்வைகளையும்,",
+      "pos": "noun",
+      "canonical": "சால்வைக",
+      "definition_ta": "அணிவதற்குப் பயன்படும் ஒரு வகை ஆடை அல்லது துணி.",
+      "modern_equivalent": "ஆடை",
+      "english_word": "tunics",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 22,
+      "word": "போர்வைகளையும்,",
+      "pos": "noun",
+      "canonical": "போர்வைகள்",
+      "definition_ta": "உடலை முழுமையாக மூடும் ஒரு வகை பெரிய ஆடை.",
+      "modern_equivalent": "மேலணிகள்",
+      "english_word": "robes",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 22,
+      "word": "குப்பிகளையும்,",
+      "pos": "noun",
+      "canonical": "குப்பிகள்",
+      "definition_ta": "தலை அல்லது உடலை மூடப் பயன்படும் ஒரு வகை ஆடை.",
+      "modern_equivalent": "தலைக்கவசங்கள்",
+      "english_word": "veils",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 23,
+      "word": "கண்ணாடிகளையும்,",
+      "pos": "noun",
+      "canonical": "கண்ணாடி",
+      "definition_ta": "ஒளி பிரதிபலிக்கும் அல்லது ஊடுருவக்கூடிய கண்ணாடிப் பொருள்.",
+      "modern_equivalent": "கண்ணாடி",
+      "english_word": "mirrors",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 23,
+      "word": "சல்லாக்களையும்,",
+      "pos": "noun",
+      "canonical": "சல்லாக்கி",
+      "definition_ta": "அழகுக்காக அணியப்படும் சிறிய அலங்காரப் பொருள்.",
+      "modern_equivalent": "அலங்காரப் பொருள்",
+      "english_word": "jewelry",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 23,
+      "word": "குல்லாக்களையும்,",
+      "pos": "noun",
+      "canonical": "குல்லா",
+      "definition_ta": "ஆசாரியர்கள் அல்லது வழிபாட்டிற்குப் பயன்படுத்தப்படும் ஒரு வகை கழுத்துப்பட்டை அல்லது ஆடை.",
+      "modern_equivalent": "கழுத்துப்பட்டை",
+      "english_word": "bands",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "துப்பட்டாக்களையும்",
+      "pos": "noun",
+      "canonical": "துப்பட்டி",
+      "definition_ta": "தலை அல்லது தோளில் அணியப்படும் ஒரு வகை துணி.",
+      "modern_equivalent": "துப்பட்டா",
+      "english_word": "veils",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 23,
+      "word": "உரிந்துபோடுவார்.",
+      "pos": "verb",
+      "canonical": "உரிந்துபோடு",
+      "definition_ta": "ஒரு பொருளை முழுமையாக அகற்றி எறிந்துவிடுதல்.",
+      "modern_equivalent": "எறிந்துவிடுவார்கள்",
+      "english_word": "will cast off",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "அப்பொழுது,",
+      "pos": "adverb",
+      "canonical": "அப்பொழுது",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிகழ்வு அல்லது காலத்தின் தொடக்கத்தில் நடக்கும் ஒரு நேரத்தைக் குறிக்கிறது.",
+      "modern_equivalent": "அப்போது",
+      "english_word": "Then",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "சுகந்தத்துக்குப்",
+      "pos": "noun",
+      "canonical": "சுகந்தம்",
+      "definition_ta": "நல்ல வாசனை தரும் மலர் அல்லது நறுமணம்.",
+      "modern_equivalent": "நல்ல வாசனை",
+      "english_word": "fragrance",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "பதிலாகத்",
+      "pos": "adverb",
+      "canonical": "பதிலாக",
+      "definition_ta": "ஒருவருடைய மாற்றமாக அல்லது ஒருவருடைய சார்பாக.",
+      "modern_equivalent": "மாறாக",
+      "english_word": "instead",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "துர்க்கந்தமும்,",
+      "pos": "noun",
+      "canonical": "துர்க்கந்தம்",
+      "definition_ta": "கடுமையான அல்லது விரும்பத்தகாத வாசனை.",
+      "modern_equivalent": "கடுமையான வாசனை",
+      "english_word": "stench",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "கச்சைக்குப்",
+      "pos": "noun",
+      "canonical": "கச்சை",
+      "definition_ta": "ஆடை அல்லது பொருட்களைக் கட்டப் பயன்படும் தடிமனான கயிறு.",
+      "modern_equivalent": "தடிமனான கயிறு",
+      "english_word": "cord",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "பதிலாகக்",
+      "pos": "adverb",
+      "canonical": "பதிலாக",
+      "definition_ta": "ஒரு செயலுக்கு மாற்றமாக அல்லது ஈடாகச் செய்யும் வினையடை.",
+      "modern_equivalent": "மாற்றாக",
+      "english_word": "in return",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "கயிறும்,",
+      "pos": "noun",
+      "canonical": "கயிறு",
+      "definition_ta": "பொருட்களைக் கட்டவோ அல்லது இழுக்கவோ பயன்படும் நூல்.",
+      "modern_equivalent": "நூல்",
+      "english_word": "rope",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "மயிர்ச்சுருளுக்குப்",
+      "pos": "noun",
+      "canonical": "மயிர்சுருள்",
+      "definition_ta": "ஆடை நெய்யப் பயன்படும் மென்மையான நூல் அல்லது நூலிழை.",
+      "modern_equivalent": "மென்மையான நூல்",
+      "english_word": "fine linen",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "பதிலாக",
+      "pos": "adverb",
+      "canonical": "பதிலாக",
+      "definition_ta": "ஒருவருக்கு மாற்றாக அல்லது ஒரு செயலுக்குப் பதிலாக.",
+      "modern_equivalent": "மாற்றாக",
+      "english_word": "instead of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "மொட்டையும்,",
+      "pos": "noun",
+      "canonical": "மொட்டை",
+      "definition_ta": "ஆடை நெய்யப் பயன்படும் கரடுமுரடான நூல் அல்லது நார்.",
+      "modern_equivalent": "கரடுமுரடான நூல்",
+      "english_word": "sackcloth",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "ஆடம்பரமான",
+      "pos": "adjective",
+      "canonical": "ஆடம்பரமான",
+      "definition_ta": "விலை உயர்ந்த அல்லது அலங்காரமான தோற்றத்தைக் கொண்ட.",
+      "modern_equivalent": "ஆடம்பரமான",
+      "english_word": "luxurious",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "வஸ்திரங்களுக்குப்",
+      "pos": "noun",
+      "canonical": "வஸ்திரம்",
+      "definition_ta": "உடையில் அணியப்படும் துணி அல்லது ஆடை.",
+      "modern_equivalent": "ஆடை",
+      "english_word": "garments",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "பதிலாக",
+      "pos": "adverb",
+      "canonical": "பதிலாக",
+      "definition_ta": "ஒருவருக்கு மாற்றாக அல்லது ஒரு செயலுக்குப் பதிலாக.",
+      "modern_equivalent": "மாற்றாக",
+      "english_word": "instead of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "இரட்டுக்கச்சும்,",
+      "pos": "noun",
+      "canonical": "இரட்டுக்கச்சம்",
+      "definition_ta": "இரண்டு அடுக்குகள் கொண்ட சாதாரணமான அல்லது கரடுலான ஆடை.",
+      "modern_equivalent": "இரட்டுக்கச்சம்",
+      "english_word": "sackcloth",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "அழகுக்குப்",
+      "pos": "noun",
+      "canonical": "அழகு",
+      "definition_ta": "தோற்றத்தில் உள்ள நேர்த்தி அல்லது கவர்ச்சியான வடிவம்.",
+      "modern_equivalent": "அழகு",
+      "english_word": "beauty",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "பதிலாகக்",
+      "pos": "adverb",
+      "canonical": "பதிலாக",
+      "definition_ta": "ஒரு செயலுக்கு மாற்றமாக அல்லது ஈடாகச் செய்யும் வினையடை.",
+      "modern_equivalent": "மாற்றாக",
+      "english_word": "in return",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "கருகிப்போகுதலும்",
+      "pos": "noun",
+      "canonical": "கருகிப்போகுதல்",
+      "definition_ta": "கருகிப்போன அல்லது சிதைந்த தோற்றத்தைக் கொண்ட ஆடை.",
+      "modern_equivalent": "கருகிப்போகுதல்",
+      "english_word": "sackcloth",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "இருக்கும்.",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் நிலைபெற்று அல்லது தங்கியிருப்பது.",
+      "modern_equivalent": "இருந்த",
+      "english_word": "were",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "உன்",
+      "pos": "pronoun",
+      "canonical": "உன்",
+      "definition_ta": "உன்னுடைய அல்லது உன்னுடைய சொந்தமான என்பதைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "உன்னுடைய",
+      "english_word": "your",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "புருஷர்",
+      "pos": "noun",
+      "canonical": "புருஷன்",
+      "definition_ta": "ஆண் மனிதன் அல்லது ஒரு ஆண்.",
+      "modern_equivalent": "ஆட்கள்",
+      "english_word": "men",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "கட்கத்தினாலும்,",
+      "pos": "verb",
+      "canonical": "கட்கி",
+      "definition_ta": "ஒருவர் ஒருவரை அடிப்பதைக் குறிக்கும் வினை.",
+      "modern_equivalent": "அடித்தாலும்",
+      "english_word": "strike",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 25,
+      "word": "உன்",
+      "pos": "pronoun",
+      "canonical": "உன்",
+      "definition_ta": "உன்னுடைய அல்லது உன்னுடைய சொந்தமான என்பதைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "உன்னுடைய",
+      "english_word": "your",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "பெலசாலிகள்",
+      "pos": "noun",
+      "canonical": "பெலசாலி",
+      "definition_ta": "பெரிய அளவிலான பொருட்களை ஏந்துபவர் அல்லது கனமான சுமைகளைத் தூக்குபவர்.",
+      "modern_equivalent": "பெலசாலிகள்",
+      "english_word": "bearers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "யுத்தத்திலும்",
+      "pos": "noun",
+      "canonical": "யுத்தம்",
+      "definition_ta": "ஆயுதங்களைக் கொண்டு நடத்தப்படும் போர்.",
+      "modern_equivalent": "போர்",
+      "english_word": "battle",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 25,
+      "word": "விழுவார்கள்.",
+      "pos": "verb",
+      "canonical": "விழு",
+      "definition_ta": "தரைக்கு கீழே விழுவது அல்லது வீழ்வது.",
+      "modern_equivalent": "வீழ்வார்கள்",
+      "english_word": "will fall",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "அவளுடைய",
+      "pos": "pronoun",
+      "canonical": "அவளுடைய",
+      "definition_ta": "ஒரு பெண்ணின் அல்லது ஒரு பெண்ணுக்குரிய என்ற பொருளில் வரும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவளுடைய",
+      "english_word": "her",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "வாசல்கள்",
+      "pos": "noun",
+      "canonical": "வாசல்",
+      "definition_ta": "ஒரு இடத்திற்குள் நுழையும் நுழைவாயில் அல்லது வழி.",
+      "modern_equivalent": "நுழைவாயில்",
+      "english_word": "gate",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "துக்கித்துப்",
+      "pos": "adjective",
+      "canonical": "துக்கிய",
+      "definition_ta": "முறிந்து அல்லது உடைந்து போன நிலை",
+      "modern_equivalent": "உடைந்த",
+      "english_word": "broken",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 26,
+      "word": "புலம்பும்;",
+      "pos": "verb",
+      "canonical": "புலம்பு",
+      "definition_ta": "துயரத்தினால் அல்லது வேதனையினால் சத்தமிட்டு அழுகுதல்",
+      "modern_equivalent": "அழுகும்",
+      "english_word": "lament",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 26,
+      "word": "அவள்",
+      "pos": "pronoun",
+      "canonical": "அவள்",
+      "definition_ta": "ஒரு பெண் அல்லது ஸ்திரீயைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவள்",
+      "english_word": "she",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "வெறுமையாக்கப்பட்டுத்",
+      "pos": "verb",
+      "canonical": "வெறுமையாக்கு",
+      "definition_ta": "எதையும் கொண்டிருக்காத நிலைக்கு அல்லது வறுமைக்கு கொண்டுவருதல்",
+      "modern_equivalent": "வெறுமையாக்கப்பட்டு",
+      "english_word": "desolate",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 26,
+      "word": "தரையிலே",
+      "pos": "adverb",
+      "canonical": "தரை",
+      "definition_ta": "பூமியின் மேற்பரப்பில் அல்லது நிலத்தில்.",
+      "modern_equivalent": "பூமியில்",
+      "english_word": "on the ground",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "உட்காருவாள்",
+      "pos": "verb",
+      "canonical": "உட்காரு",
+      "definition_ta": "ஒரு இடத்தில் அமர்ந்து நிலைபெறுதல்",
+      "modern_equivalent": "அமரும்",
+      "english_word": "sit",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 26,
+      "word": "என்கிறார்.",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "ஒரு கருத்தை அல்லது செய்தியை வாய்மொழியாக வெளிப்படுத்துதல்.",
+      "modern_equivalent": "சொல்கிறார்",
+      "english_word": "says",
+      "source": "db_0ms"
+    }
+  ]
+}

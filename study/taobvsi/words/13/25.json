@@ -1,0 +1,3240 @@
+{
+  "book": 13,
+  "chapter": 25,
+  "total_verses": 31,
+  "total_words_expected": 323,
+  "total_words_parsed": 323,
+  "is_step1_completed": true,
+  "words": [
+    {
+      "verse": 1,
+      "word": "மேலும்",
+      "pos": "adverb",
+      "canonical": "மேலும்",
+      "definition_ta": "கூடுதலாக அல்லது கூடுதலாக என்பதைக் குறிக்கும் வினையடை.",
+      "modern_equivalent": "கூடுதலாக",
+      "english_word": "more",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "சுரமண்டலங்களாலும்,",
+      "pos": "noun",
+      "canonical": "சுரமண்டலம்",
+      "definition_ta": "இசைக்கருவியாகப் பயன்படும் ஒரு வகை தாளம் அல்லது இசைக்கருவி.",
+      "modern_equivalent": "இசைக்கருவி",
+      "english_word": "cymbals",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "தம்புருகளாலும்",
+      "pos": "noun",
+      "canonical": "தம்புரு",
+      "definition_ta": "இசைக்கருவியாகப் பயன்படும் ஒரு வகை தாளம் அல்லது இசைக்கருவி.",
+      "modern_equivalent": "இசைக்கருவி",
+      "english_word": "timepieces",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "கைத்தாளங்களாலும்,",
+      "pos": "noun",
+      "canonical": "கைத்தாளம்",
+      "definition_ta": "கைகளால் தட்டி இசைக்கப்படும் ஒரு வகை தாளம்.",
+      "modern_equivalent": "கைத்தாளம்",
+      "english_word": "hand-clappers",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "தீர்க்கதரிசனம்",
+      "pos": "noun",
+      "canonical": "தீர்க்கதரிசனம்",
+      "definition_ta": "தேவன் ஒருவருக்குக் காட்டும் அல்லது சொல்லும் எதிர்கால நிகழ்வு பற்றிய செய்தி.",
+      "modern_equivalent": "முன்கணிப்பு",
+      "english_word": "prophecy",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "சொல்லுகிற",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "வாய் வழியாக ஒரு செய்தியை அல்லது கருத்தை வெளிப்படுத்துதல்.",
+      "modern_equivalent": "கூறுவது",
+      "english_word": "saying",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஆசாப்,",
+      "pos": "noun",
+      "canonical": "ஆசாப்",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரின் பெயர்.",
+      "modern_equivalent": "ஆசாப்",
+      "english_word": "Asaph",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஏமான்,",
+      "pos": "noun",
+      "canonical": "ஏமான்",
+      "definition_ta": "ஏமான் என்னும் பெயருடைய ஒரு நபர்.",
+      "modern_equivalent": "ஏமான்",
+      "english_word": "Amminadab",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "எதுத்தூன்",
+      "pos": "noun",
+      "canonical": "எதுத்தூன்",
+      "definition_ta": "வேதாகமத்தில் குறிப்பிடப்பட்டுள்ள ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "எதுத்தூன்",
+      "english_word": "Ethan",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "என்பவர்களின்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "குறிப்பிட்ட நபர்களைக் குறிக்கும் பன்மைப் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "of them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "குமாரரில்",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருடைய பிள்ளைகள் அல்லது வாரிசுகள்.",
+      "modern_equivalent": "பிள்ளைகள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "சிலரை,",
+      "pos": "numeral",
+      "canonical": "சில",
+      "definition_ta": "குறிப்பிட்ட எண்ணிக்கையற்ற ஒரு சிறு பகுதியைக் குறிக்கும் சொல்.",
+      "modern_equivalent": "சில",
+      "english_word": "some",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "தாவீதும்",
+      "pos": "noun",
+      "canonical": "தாவீது",
+      "definition_ta": "இஸ்ரவேல் நாட்டின் ஒரு அரசர் மற்றும் தாவீது என்ற பெயரைக் கொண்ட ஒரு மனிதன்.",
+      "modern_equivalent": "தாவீது",
+      "english_word": "David",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "தேவாலயச்",
+      "pos": "adjective",
+      "canonical": "தேவாலயம்",
+      "definition_ta": "தேவன் தொழப்படுவதற்காகக் கட்டப்பட்ட புனிதமான இடம்.",
+      "modern_equivalent": "கோவில்",
+      "english_word": "temple",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "சேனைகளின்",
+      "pos": "adjective",
+      "canonical": "சேனை",
+      "definition_ta": "போர்வீரர்களின் கூட்டத்தையோ அல்லது ஒரு நாட்டின் படையையோ குறிக்கும் பண்பு.",
+      "modern_equivalent": "படைகளின்",
+      "english_word": "hosts",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "பிரபுக்களும்",
+      "pos": "noun",
+      "canonical": "பிரபு",
+      "definition_ta": "அதிகாரம் கொண்ட ஆட்சியாளர் அல்லது உயர் அதிகாரி.",
+      "modern_equivalent": "அதிகாரிகள்",
+      "english_word": "officials",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஊழியத்திற்கென்று",
+      "pos": "noun",
+      "canonical": "ஊழியம்",
+      "definition_ta": "தேவனுடைய வேலை அல்லது ஒரு குறிப்பிட்ட கடமைக்காகச் செய்யப்படும் பணி.",
+      "modern_equivalent": "ஊழியம்",
+      "english_word": "service",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "பிரித்துவைத்தார்கள்;",
+      "pos": "verb",
+      "canonical": "பிரித்துவை",
+      "definition_ta": "ஒரு குறிப்பிட்ட நோக்கத்திற்காக ஒரு குழுவை அல்லது ஒரு நபரை தனித்தனியாகப் பிரித்து ஒதுக்குதல்.",
+      "modern_equivalent": "ஒதுக்கினார்கள்",
+      "english_word": "appointed",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஊழியத்தின்",
+      "pos": "noun",
+      "canonical": "ஊழியம்",
+      "definition_ta": "தேவனுடைய வேலை அல்லது pelayanan",
+      "modern_equivalent": "பணி",
+      "english_word": "service",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "கிரியைக்குக்",
+      "pos": "noun",
+      "canonical": "கிரியை",
+      "definition_ta": "ஒருவர் செய்யும் செயல் அல்லது பணி",
+      "modern_equivalent": "வேலை",
+      "english_word": "work",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "குறித்துவைக்கப்பட்ட",
+      "pos": "adjective",
+      "canonical": "குறித்துவைக்க",
+      "definition_ta": "முன்கூட்டியே தீர்மானிக்கப்பட்ட அல்லது ஒதுக்கப்பட்ட",
+      "modern_equivalent": "ஒதுக்கப்பட்ட",
+      "english_word": "appointed",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "மனுஷர்களின்",
+      "pos": "noun",
+      "canonical": "மனுஷன்",
+      "definition_ta": "மனிதன் அல்லது ஒரு நபர்",
+      "modern_equivalent": "மனிதன்",
+      "english_word": "men",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "தொகையாவது:",
+      "pos": "noun",
+      "canonical": "தொகை",
+      "definition_ta": "ஒரு பொருளின் மொத்த அளவு அல்லது எண்ணிக்கை.",
+      "modern_equivalent": "எண்ணிக்கை",
+      "english_word": "amount",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "ராஜாவுடைய",
+      "pos": "adjective",
+      "canonical": "ராஜா",
+      "definition_ta": "ஒரு நாட்டின் அல்லது ஒரு கூட்டத்தின் தலைவன் அல்லது ஆட்சியாளர்.",
+      "modern_equivalent": "ராஜாவின்",
+      "english_word": "of the king",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "கட்டளைப்பிரமாணமாய்த்",
+      "pos": "adjective",
+      "canonical": "கட்டளைப்பிரமாணம்",
+      "definition_ta": "அரசனுடைய அதிகாரப்பூர்வமான கட்டளை அல்லது விதிமுறைக்கு உட்பட்ட.",
+      "modern_equivalent": "அரசின் கட்டளைப்படி",
+      "english_word": "by the king's command",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "தீர்க்கதரிசனம்",
+      "pos": "noun",
+      "canonical": "தீர்க்கதரிசனம்",
+      "definition_ta": "தேவன் ஒருவருக்குக் காட்டும் அல்லது சொல்லும் எதிர்கால நிகழ்வு பற்றிய செய்தி.",
+      "modern_equivalent": "முன்கணிப்பு",
+      "english_word": "prophecy",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "சொல்லுகிற",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "வாய் வழியாக ஒரு செய்தியை அல்லது கருத்தை வெளிப்படுத்துதல்.",
+      "modern_equivalent": "கூறுவது",
+      "english_word": "saying",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "ஆசாப்பின்",
+      "pos": "adjective",
+      "canonical": "ஆசாப்",
+      "definition_ta": "ஆசாப் என்ற நபரைச் சார்ந்த அல்லது அவனுடைய என்று குறிக்கும் பெயரடை.",
+      "modern_equivalent": "ஆசாப்பின்",
+      "english_word": "Asaph's",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "வசத்திலிருக்கிற,",
+      "pos": "adjective",
+      "canonical": "வச",
+      "definition_ta": "ஒருவருடைய அதிகாரத்திலோ அல்லது பாதுகாப்பிலோ உள்ள நிலை.",
+      "modern_equivalent": "அதிகாரத்தில்",
+      "english_word": "in the charge of",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "ஆசாப்பின்",
+      "pos": "adjective",
+      "canonical": "ஆசாப்",
+      "definition_ta": "ஆசாப் என்ற நபரைச் சார்ந்த அல்லது அவனுடைய என்று குறிக்கும் பெயரடை.",
+      "modern_equivalent": "ஆசாப்பின்",
+      "english_word": "Asaph's",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "குமாரரில்",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருடைய பிள்ளைகள் அல்லது வாரிசுகள்.",
+      "modern_equivalent": "பிள்ளைகள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "சக்கூர்,",
+      "pos": "noun",
+      "canonical": "சக்கூர்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "சக்கூர்",
+      "english_word": "Sakur",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "யோசேப்பு,",
+      "pos": "noun",
+      "canonical": "யோசேப்பு",
+      "definition_ta": "ஒரு மனிதனின் பெயர்.",
+      "modern_equivalent": "யோசேப்பு",
+      "english_word": "Joseph",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "நெதானியா,",
+      "pos": "noun",
+      "canonical": "நெதானியா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "நெதானியா",
+      "english_word": "Nethaniah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "அஷாரேலா",
+      "pos": "noun",
+      "canonical": "அஷாரேலா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "அஷாரேலா",
+      "english_word": "Asarelah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "என்பவர்களும்,",
+      "pos": "conjunction",
+      "canonical": "என்பவர்",
+      "definition_ta": "ஒருவரை அல்லது ஒரு குழுவை குறிக்கும் இணைப்புச் சொல்.",
+      "modern_equivalent": "ஆகியவர்களும்",
+      "english_word": "and",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "கர்த்தரைப்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது அதிகாரம் கொண்ட இறைவனின் பெயர்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "போற்றித்",
+      "pos": "verb",
+      "canonical": "போற்றி",
+      "definition_ta": "தேவனுடைய மேன்மைக்காகப் பாராட்டுதல் அல்லது உயர்த்திப் போற்றுதல்.",
+      "modern_equivalent": "புகழ்",
+      "english_word": "praise",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "துதித்துத்",
+      "pos": "verb",
+      "canonical": "துதி",
+      "definition_ta": "தேவனுடைய நற்குணங்களை உயர்த்திப் பேசுதல் அல்லது பாடுதல்.",
+      "modern_equivalent": "துதி",
+      "english_word": "praise",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "தீர்க்கதரிசனம்",
+      "pos": "noun",
+      "canonical": "தீர்க்கதரிசனம்",
+      "definition_ta": "தேவன் ஒருவருக்குக் காட்டும் அல்லது சொல்லும் எதிர்கால நிகழ்வு பற்றிய செய்தி.",
+      "modern_equivalent": "முன்கணிப்பு",
+      "english_word": "prophecy",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "சொல்லுகிற",
+      "pos": "verb",
+      "canonical": "சொல்",
+      "definition_ta": "வாய் வழியாக ஒரு செய்தியை அல்லது கருத்தை வெளிப்படுத்துதல்.",
+      "modern_equivalent": "கூறுவது",
+      "english_word": "saying",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "தகப்பனாகிய",
+      "pos": "adjective",
+      "canonical": "தகப்பன்",
+      "definition_ta": "ஒரு குடும்பத்தின் தலைவனான அல்லது பிள்ளைகளை வளர்க்கும் தந்தையாகிய.",
+      "modern_equivalent": "தந்தையாகிய",
+      "english_word": "father of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "எதுத்தூனின்",
+      "pos": "noun",
+      "canonical": "எதுத்தூன்",
+      "definition_ta": "ஒரு குறிப்பிட்ட குடும்பப் பெயரைக் குறிக்கும் பெயர்.",
+      "modern_equivalent": "எதுத்தூன்",
+      "english_word": "Iththun",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "வசத்திலே",
+      "pos": "noun",
+      "canonical": "வசம்",
+      "definition_ta": "ஒருவர் தனது கட்டுப்பாட்டிலோ அல்லது அதிகாரத்திலோ வைத்திருக்கும் நிலை.",
+      "modern_equivalent": "கட்டுப்பாட்டில்",
+      "english_word": "possession",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "சுரமண்டலங்களை",
+      "pos": "noun",
+      "canonical": "சுரமண்டலம்",
+      "definition_ta": "இசைக்க உதவும் ஒரு வகை இசைக்கருவி.",
+      "modern_equivalent": "இசைக்கருவி",
+      "english_word": "harps",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "வாசிக்க,",
+      "pos": "verb",
+      "canonical": "வாசி",
+      "definition_ta": "இசைக்கருவியைக் கொண்டு இசையினை எழுப்புதல்.",
+      "modern_equivalent": "வாசி",
+      "english_word": "play",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "எதுத்தூனின்",
+      "pos": "noun",
+      "canonical": "எதுத்தூன்",
+      "definition_ta": "ஒரு குறிப்பிட்ட குடும்பப் பெயரைக் குறிக்கும் பெயர்.",
+      "modern_equivalent": "எதுத்தூன்",
+      "english_word": "Iththun",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "குமாரராகிய",
+      "pos": "adjective",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த மகன் அல்லது வாரிசைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "மகனாகிய",
+      "english_word": "son",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "கெதலியா,",
+      "pos": "noun",
+      "canonical": "கெதலியா",
+      "definition_ta": "யூதாவின் கடைசி ராஜாவாக இருந்த ஒரு வரலாற்றுப் பெயர்.",
+      "modern_equivalent": "கெதலியா",
+      "english_word": "Zedekiah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "சேரீ,",
+      "pos": "noun",
+      "canonical": "சேரீ",
+      "definition_ta": "எடுத்துத்தூனின் குமாரர்களில் ஒருவரின் பெயர்.",
+      "modern_equivalent": "சேரீ",
+      "english_word": "Zeri",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "எஷாயா,",
+      "pos": "noun",
+      "canonical": "எஷாயா",
+      "definition_ta": "எடுத்துத்தூனின் குமாரர்களில் ஒருவரின் பெயர்.",
+      "modern_equivalent": "எஷாயா",
+      "english_word": "Asaiah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "அஷபியா,",
+      "pos": "noun",
+      "canonical": "அஷபியா",
+      "definition_ta": "எடுத்துத்தூனின் குமாரர்களில் ஒருவரின் பெயர்.",
+      "modern_equivalent": "அஷபியா",
+      "english_word": "Azbiah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "மத்தித்தியா",
+      "pos": "noun",
+      "canonical": "மத்தித்தியா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "மத்தித்தியா",
+      "english_word": "Mathithiah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "என்னும்",
+      "pos": "particle",
+      "canonical": "என்று",
+      "definition_ta": "தோட்டத்தின் பெயரான ஏதேன் என்பதை இது குறிக்கிறது.",
+      "modern_equivalent": "என்று",
+      "english_word": "called",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 3,
+      "word": "ஆறுபேரும்,",
+      "pos": "noun",
+      "canonical": "ஆறு",
+      "definition_ta": "ஆறு எண்ணிக்கையைக் குறிக்கும் எண்.",
+      "modern_equivalent": "ஆறு பேர்",
+      "english_word": "six",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "கொம்பைத்",
+      "pos": "noun",
+      "canonical": "கொம்பு",
+      "definition_ta": "தலை அல்லது உடலில் வளரும் கடினமான எலும்பு போன்ற அமைப்பு.",
+      "modern_equivalent": "கொம்பு",
+      "english_word": "horn",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "தொனிக்கப்பண்ண,",
+      "pos": "verb",
+      "canonical": "தொனிக்க",
+      "definition_ta": "ஒரு பொருளை அல்லது ஒருவரை பலமாகத் தள்ளுதல் அல்லது நகர்த்துதல்.",
+      "modern_equivalent": "தள்ளுதல்",
+      "english_word": "to thrust",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "தேவவிஷயத்தில்",
+      "pos": "noun",
+      "canonical": "தேவவிஷயம்",
+      "definition_ta": "தேவன் தொடர்பான காரியங்கள் அல்லது தேவனுடைய ஆட்சி சார்ந்த விஷயங்கள்.",
+      "modern_equivalent": "தேவ காரியங்கள்",
+      "english_word": "divine matters",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "ராஜாவுக்கு",
+      "pos": "noun",
+      "canonical": "ராஜா",
+      "definition_ta": "ஒரு நாட்டின் அல்லது ஒரு கூட்டத்தின் தலைவன் அல்லது ஆட்சியாளர்.",
+      "modern_equivalent": "அரசன்",
+      "english_word": "king",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "ஞானதிருஷ்டியுள்ள",
+      "pos": "adjective",
+      "canonical": "ஞானதிருஷ்டி",
+      "definition_ta": "அறிவு அல்லது ஞானம் கொண்ட அல்லது ஞானம் பெற்ற.",
+      "modern_equivalent": "ஞானமுள்ள",
+      "english_word": "wise",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "புருஷனாகிய",
+      "pos": "adjective",
+      "canonical": "புருஷன்",
+      "definition_ta": "ஒரு பெண்ணின் கணவனாக அல்லது ஒரு ஆணின் கணவனாக விளங்கும் நபர்.",
+      "modern_equivalent": "கணவனாகிய",
+      "english_word": "husband",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "ஏமானின்",
+      "pos": "noun",
+      "canonical": "ஏமான்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "ஏமான்",
+      "english_word": "Ahiman",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "குமாரரான",
+      "pos": "adjective",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த மகன் அல்லது வாரிசு.",
+      "modern_equivalent": "மகன்களான",
+      "english_word": "sons of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "புக்கியா,",
+      "pos": "noun",
+      "canonical": "புக்கியா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "புக்கியா",
+      "english_word": "Bukiah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "மத்தனியா,",
+      "pos": "noun",
+      "canonical": "மத்தனியா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "மத்தனியா",
+      "english_word": "Mattaniah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "ஊசியேல்,",
+      "pos": "noun",
+      "canonical": "ஊசியேல்",
+      "definition_ta": "ஊசியேல் என்னும் ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "ஊசியேல்",
+      "english_word": "Hod",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "செபுவேல்,",
+      "pos": "noun",
+      "canonical": "செபுவேல்",
+      "definition_ta": "கெர்சோமின் குமாரர்களில் ஒருவருடைய பெயர்.",
+      "modern_equivalent": "செபுவேல்",
+      "english_word": "Sebuel",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "எரிமோத்,",
+      "pos": "noun",
+      "canonical": "எரிமோத்",
+      "definition_ta": "இஸ்ரவேல் நாட்டில் உள்ள ஒரு ஊரின் பெயர்.",
+      "modern_equivalent": "எரிமோத்",
+      "english_word": "Jerimoth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "அனனியா,",
+      "pos": "noun",
+      "canonical": "அனனியா",
+      "definition_ta": "அனனியா என்னும் ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "அனனியா",
+      "english_word": "Amminadab",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "அனானி,",
+      "pos": "noun",
+      "canonical": "அனானி",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "அனானி",
+      "english_word": "Anani",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "எலியாத்தா,",
+      "pos": "noun",
+      "canonical": "எலியாத்தா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "எலியாத்தா",
+      "english_word": "Eliathah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "கிதல்தி,",
+      "pos": "noun",
+      "canonical": "கிதல்தி",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "கிதல்தி",
+      "english_word": "Chithdai",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "ரொமந்தியேசர்,",
+      "pos": "noun",
+      "canonical": "ரொமந்தியேசர்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "ரொமந்தியேசர்",
+      "english_word": "Romandieser",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "யோஸ்பெகாஷா,",
+      "pos": "noun",
+      "canonical": "யோஸ்பெகாஷா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "யோஸ்பெகாஷா",
+      "english_word": "Joshekoshah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "மலோத்தி,",
+      "pos": "noun",
+      "canonical": "மலோத்தி",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "மலோத்தி",
+      "english_word": "Malothi",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "ஒத்திர்,",
+      "pos": "noun",
+      "canonical": "ஒத்திர்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "ஒத்திர்",
+      "english_word": "Othni",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "மகாசியோத்",
+      "pos": "noun",
+      "canonical": "மகாசியோத்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "மகாசியோத்",
+      "english_word": "Machasiah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "என்பவர்களுமே.",
+      "pos": "particle",
+      "canonical": "என்பவர்கள்",
+      "definition_ta": "ஒரு குழுவை அல்லது நபர்களைக் குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "என்பவர்களும்",
+      "english_word": "and",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "இவர்களெல்லாரும்",
+      "pos": "pronoun",
+      "canonical": "இவர்கள்",
+      "definition_ta": "குறிப்பிட்ட ஒரு குழுவை அல்லது நபர்களைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அனைவரும்",
+      "english_word": "All of them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "ஏமானின்",
+      "pos": "noun",
+      "canonical": "ஏமான்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "ஏமான்",
+      "english_word": "Ahiman",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "குமாரராயிருந்தார்கள்;",
+      "pos": "verb",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருடைய மகனாக இருந்தனர் என்று குறிக்கும் வினைச்சொல்.",
+      "modern_equivalent": "மகன்களாக இருந்தார்கள்",
+      "english_word": "were the sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "தேவன்",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து வழிநடத்தும் சர்வவல்லமையுள்ள கடவுள்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "ஏமானுக்குப்",
+      "pos": "particle",
+      "canonical": "உம்",
+      "definition_ta": "ஒரு பெயர்ச்சொல்லுடன் இணைந்து வரும் ஒரு இடைச்சொல், இது ஒருவருக்கு உரிய அல்லது ஒருவருக்கு கொடுக்கப்பட்டதைக் குறிக்கிறது.",
+      "modern_equivalent": "உம்",
+      "english_word": "to",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "பதினாலு",
+      "pos": "numeral",
+      "canonical": "பதினான்கு",
+      "definition_ta": "பத்து மற்றும் நான்கு ஆகிய எண்களின் கூடுதல்.",
+      "modern_equivalent": "14",
+      "english_word": "fourteen",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "குமாரரையும்",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "குமாரன்: ஒருவருடைய மகன் அல்லது ஆண் வாரிசு.",
+      "modern_equivalent": "ஆண் பிள்ளைகள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "மூன்று",
+      "pos": "numeral",
+      "canonical": "மூன்று",
+      "definition_ta": "எண்ணிக்கையில் மூன்று என்ற எண்ணிக்கையைக் குறிக்கும்.",
+      "modern_equivalent": "3",
+      "english_word": "three",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "குமாரத்திகளையும்",
+      "pos": "noun",
+      "canonical": "குமாரத்தி",
+      "definition_ta": "குமாரத்தி: ஒருவருடைய மகள் அல்லது பெண் வாரிசு.",
+      "modern_equivalent": "பெண் பிள்ளைகள்",
+      "english_word": "daughters",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "கொடுத்தார்.",
+      "pos": "verb",
+      "canonical": "கொடு",
+      "definition_ta": "தேவன் ஒரு புதிய புத்திரனை அவளுக்கு வழங்கினார் என்பதைக் குறிக்கிறது.",
+      "modern_equivalent": "அளித்தார்",
+      "english_word": "gave",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "இவர்கள்",
+      "pos": "pronoun",
+      "canonical": "இவர்",
+      "definition_ta": "தேவகுமாரர்களும் மனுஷகுமாரத்திகளும் இணைந்ததன் விளைவாக உருவானவர்களைக் குறிக்கிறது.",
+      "modern_equivalent": "இவர்கள்",
+      "english_word": "these",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "அனைவரும்",
+      "pos": "adjective",
+      "canonical": "அனைத்து",
+      "definition_ta": "நோவாவின் குடும்பத்தில் உள்ள ஒவ்வொரு நபரையும் உள்ளடக்கும் பொதுவான பண்பு.",
+      "modern_equivalent": "எல்லாரும்",
+      "english_word": "all",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ராஜாவுடைய",
+      "pos": "adjective",
+      "canonical": "ராஜா",
+      "definition_ta": "ஒரு நாட்டின் அல்லது ஒரு கூட்டத்தின் தலைவன் அல்லது ஆட்சியாளர்.",
+      "modern_equivalent": "ராஜாவின்",
+      "english_word": "of the king",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "கட்டளைப்பிரமாணமாய்க்",
+      "pos": "adverb",
+      "canonical": "கட்டளைப்பிரமாணம்",
+      "definition_ta": "ஒரு ஆட்சியாளரின் அதிகாரப்பூர்வமான கட்டளை அல்லது விதிமுறைப்படி.",
+      "modern_equivalent": "கட்டளைப்படி",
+      "english_word": "according to the command",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "கர்த்தருடைய",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவராகிய தேவன் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ஆலயத்தில்",
+      "pos": "noun",
+      "canonical": "ஆலயம்",
+      "definition_ta": "தேவன் தங்கியிருக்கும் அல்லது வழிபாட்டிற்காக அர்ப்பணிக்கப்பட்ட புனிதமான இடம்.",
+      "modern_equivalent": "கோவில்",
+      "english_word": "temple",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "தாளங்கள்",
+      "pos": "noun",
+      "canonical": "தாளம்",
+      "definition_ta": "இசைக்கலை அல்லது நடனத்தில் தாளத்தை அளக்கப் பயன்படும் ஒரு கருவி.",
+      "modern_equivalent": "தாளம்",
+      "english_word": "cymbals",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "தம்புருகள்",
+      "pos": "noun",
+      "canonical": "தம்புரு",
+      "definition_ta": "இசைக்கலைக்காகப் பயன்படுத்தப்படும் ஒரு வகை தம்புரு அல்லது தாளம்.",
+      "modern_equivalent": "தம்புரு",
+      "english_word": "tambourines",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "சுரமண்டலங்களாகிய",
+      "pos": "adjective",
+      "canonical": "சுரமண்டலம்",
+      "definition_ta": "இசைக்கலைக்காகப் பயன்படுத்தப்படும் ஒரு வகை நீண்ட தம்புரு அல்லது இசைக்கருவி.",
+      "modern_equivalent": "சுரமண்டலம்",
+      "english_word": "harps",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "கீதவாத்தியம்",
+      "pos": "noun",
+      "canonical": "கீதவாத்தியம்",
+      "definition_ta": "இசைக்கலைக்காகப் பயன்படுத்தப்படும் ஒரு வகை இசைக்கருவி.",
+      "modern_equivalent": "இசைக்கருவி",
+      "english_word": "stringed instruments",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "வாசிக்க,",
+      "pos": "verb",
+      "canonical": "வாசி",
+      "definition_ta": "இசைக்கருவியைக் கொண்டு இசையினை எழுப்புதல்.",
+      "modern_equivalent": "வாசி",
+      "english_word": "play",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "தேவனுடைய",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து ஆளுகின்ற பரமபொருளைக் குறிக்கும் பெயர்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ஆலயத்தின்",
+      "pos": "noun",
+      "canonical": "ஆலயம்",
+      "definition_ta": "தேவன் வழிபாட்டிற்காக பிரத்யேகமாக அர்ப்பணிக்கப்பட்ட புனிதமான இடம்.",
+      "modern_equivalent": "கோவில்",
+      "english_word": "temple",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ஊழியமாக",
+      "pos": "noun",
+      "canonical": "ஊழியம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட பணி அல்லது கடமையை நிறைவேற்றும் சேவை.",
+      "modern_equivalent": "சேவை",
+      "english_word": "ministry",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "அவரவர்",
+      "pos": "pronoun",
+      "canonical": "அவரவர்",
+      "definition_ta": "தனித்தனியாக ஒவ்வொரு நபரையும் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "ஒவ்வொருவரும்",
+      "english_word": "each one",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "தகப்பன்மாராகிய",
+      "pos": "adjective",
+      "canonical": "தகப்பன்",
+      "definition_ta": "ஒருவரைப் பெற்றெடுத்த அல்லது வளர்த்த தந்தையைச் சித்தரிக்கும் பெயரடை.",
+      "modern_equivalent": "தந்தையாய்",
+      "english_word": "fathers",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "ஆசாப்,",
+      "pos": "noun",
+      "canonical": "ஆசாப்",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரின் பெயர்.",
+      "modern_equivalent": "ஆசாப்",
+      "english_word": "Asaph",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "எதுத்தூன்,",
+      "pos": "noun",
+      "canonical": "எதுத்தூன்",
+      "definition_ta": "வேதாகமத்தில் குறிப்பிடப்பட்டுள்ள ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "எதுத்தூன்",
+      "english_word": "Ethan",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ஏமான்",
+      "pos": "noun",
+      "canonical": "ஏமான்",
+      "definition_ta": "ஏமான் என்னும் பெயருடைய ஒரு நபர்.",
+      "modern_equivalent": "ஏமான்",
+      "english_word": "Amminadab",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "என்பவர்கள்",
+      "pos": "pronoun",
+      "canonical": "என்பவர்",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரையோ அல்லது ஒரு குழுவையோ குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "ஆகியவர்கள்",
+      "english_word": "were",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "வசத்தில்",
+      "pos": "noun",
+      "canonical": "வசம்",
+      "definition_ta": "ஒருவருடைய உடைமை அல்லது கட்டுப்பாட்டில் உள்ள நிலை.",
+      "modern_equivalent": "கட்டுப்பாட்டில்",
+      "english_word": "possession",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "இருந்தார்கள்.",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் தங்கியிருப்பது அல்லது வாழ்ந்து வருவது என்று பொருள்படும் வினை.",
+      "modern_equivalent": "இருந்தார்கள்",
+      "english_word": "lived",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "கர்த்தரைப்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது அதிகாரம் கொண்ட இறைவனின் பெயர்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "பாடும்",
+      "pos": "verb",
+      "canonical": "பாடு",
+      "definition_ta": "இசை அல்லது ராகத்துடன் சொற்களை உச்சரித்தல்.",
+      "modern_equivalent": "பாடுகிற",
+      "english_word": "singing",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "பாட்டுகளைக்",
+      "pos": "noun",
+      "canonical": "பாட்டு",
+      "definition_ta": "இசை கலந்த சொற்களின் தொகுப்பு அல்லது பாடல்.",
+      "modern_equivalent": "பாடல்கள்",
+      "english_word": "songs",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "கற்றுக்கொண்டு,",
+      "pos": "verb",
+      "canonical": "கற்றுக்கொள்",
+      "definition_ta": "ஒரு விஷயத்தை அறிந்து அல்லது கற்றுக்கொண்டு.",
+      "modern_equivalent": "கற்றுக்கொள்",
+      "english_word": "learn",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "நிபுணரான",
+      "pos": "adjective",
+      "canonical": "நிபுணர்",
+      "definition_ta": "ஒரு துறையில் மிகுந்த திறமை அல்லது அனுபவம் கொண்டவர்.",
+      "modern_equivalent": "திறமையான",
+      "english_word": "skilled",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "தங்கள்",
+      "pos": "pronoun",
+      "canonical": "தங்கள்",
+      "definition_ta": "தங்கள் சொந்தமான அல்லது தங்களுக்குரிய என்று பொருள்படும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அவர்களுடைய",
+      "english_word": "Their",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "சகோதரரோடுங்கூட",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் மூலம் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரன்",
+      "english_word": "brother",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "அவர்கள்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "தேவன் மற்றும் அவருடைய வார்த்தையைச் சித்தமாகக் குறிக்கும் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "அவர்கள்",
+      "english_word": "They",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "இலக்கத்திற்கு",
+      "pos": "noun",
+      "canonical": "இலக்கு",
+      "definition_ta": "ஒரு குறிப்பிட்ட குறிக்கோள் அல்லது இலக்கை குறிக்கும் சொல்.",
+      "modern_equivalent": "இலக்கு",
+      "english_word": "tribute",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "இருநூற்றெண்பத்தெட்டுப்பேராயிருந்தார்கள்.",
+      "pos": "numeral",
+      "canonical": "இருநூற்றெண்பத்தெட்டு",
+      "definition_ta": "இருநூறு, எண்பது மற்றும் எட்டு ஆகிய எண்களின் கூட்டுத்தொகை.",
+      "modern_equivalent": "288",
+      "english_word": "two hundred and eighty-eight",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "அவர்களில்",
+      "pos": "pronoun",
+      "canonical": "அவர்கள்",
+      "definition_ta": "அவர்களில் ஒருவரை அல்லது அவர்களைக் குறிக்கும் பிரதிப்பெயர்",
+      "modern_equivalent": "அவர்களில்",
+      "english_word": "of them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "சிறியவனும்",
+      "pos": "noun",
+      "canonical": "சிறியவன்",
+      "definition_ta": "அளவு அல்லது முக்கியத்துவத்தில் குறைந்த நிலையில் உள்ள நபர்.",
+      "modern_equivalent": "சிறியவர்",
+      "english_word": "the least",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "பெரியவனும்,",
+      "pos": "noun",
+      "canonical": "பெரியவன்",
+      "definition_ta": "அளவு அல்லது முக்கியத்துவத்தில் உயர்ந்த நிலையில் உள்ள நபர்.",
+      "modern_equivalent": "பெரியவர்",
+      "english_word": "the greatest",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "ஆசானும்,",
+      "pos": "noun",
+      "canonical": "ஆசான்",
+      "definition_ta": "ஒரு கலை அல்லது பாடத்தை கற்பிக்கும் ஆசிரியர்.",
+      "modern_equivalent": "ஆசிரியர்",
+      "english_word": "teacher",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "மாணாக்கனும்,",
+      "pos": "noun",
+      "canonical": "மாணாக்கன்",
+      "definition_ta": "ஒரு குருவிடமிருந்து அல்லது ஆசிரியரிடமிருந்து கல்வி பயிலும் சீடர்.",
+      "modern_equivalent": "சீடர்",
+      "english_word": "disciple",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "சரிசமானமாய்",
+      "pos": "adverb",
+      "canonical": "சரிசமம்",
+      "definition_ta": "எந்தவிதமான பாகுபாடு இல்லாமலும் சமமாக.",
+      "modern_equivalent": "சமமாக",
+      "english_word": "equally",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "முறைவரிசைக்காகச்",
+      "pos": "noun",
+      "canonical": "முறைவரிசை",
+      "definition_ta": "ஒரு வரிசையில் ஒருவருக்கு ஒருவர் பின்னால் வரும் ஒழுங்கு.",
+      "modern_equivalent": "வரிசை",
+      "english_word": "order",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "சீட்டுப்போட்டுக்கொண்டார்கள்.",
+      "pos": "verb",
+      "canonical": "சீட்டுப்போடு",
+      "definition_ta": "ஒரு குறிப்பிட்ட நோக்கத்திற்காக சீட்டுகளைப் போட்டு அல்லது சீட்டுப்போட்டு ஒரு முடிவை எடுப்பது.",
+      "modern_equivalent": "சீட்டுப்போட்டார்கள்",
+      "english_word": "cast lots",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "முதலாவது",
+      "pos": "adjective",
+      "canonical": "முதலாவது",
+      "definition_ta": "எண்ணிக்கையில் முதலில் வருவது.",
+      "modern_equivalent": "முதல்",
+      "english_word": "first",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "சீட்டு",
+      "pos": "noun",
+      "canonical": "சீட்டு",
+      "definition_ta": "ஒரு செய்தியை அல்லது ஒரு முடிவை அறிவிக்கப் பயன்படுத்தப்படும் சிறிய காகிதம் அல்லது அடையாளக் குறிப்பு.",
+      "modern_equivalent": "அறிவிப்புச் சீட்டு",
+      "english_word": "lot",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஆசாப்",
+      "pos": "noun",
+      "canonical": "ஆசாப்",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரின் பெயர்.",
+      "modern_equivalent": "ஆசாப்",
+      "english_word": "Asaph",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "வம்சமான",
+      "pos": "adjective",
+      "canonical": "வம்சம்",
+      "definition_ta": "ஒரு குறிப்பிட்ட முன்னோரைச் சேர்ந்த வாரிசு அல்லது குலத்தைச் சார்ந்த.",
+      "modern_equivalent": "வம்சத்தைச் சேர்ந்த",
+      "english_word": "lineage",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "யோசேப்பின்",
+      "pos": "noun",
+      "canonical": "யோசேப்பு",
+      "definition_ta": "பழைய ஏற்பாட்டில் ஒரு இஸ்ரவேல் தலைவனின் பெயர்.",
+      "modern_equivalent": "யோசேப்பு",
+      "english_word": "Joseph",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "இரண்டாவது",
+      "pos": "numeral",
+      "canonical": "இரண்டாவது",
+      "definition_ta": "இரண்டு என்ற எண்ணின் வரிசையில் வரும் அடுத்த நிலை.",
+      "modern_equivalent": "இரண்டாம்",
+      "english_word": "second",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "கெதலியா,",
+      "pos": "noun",
+      "canonical": "கெதலியா",
+      "definition_ta": "யூதாவின் கடைசி ராஜாவாக இருந்த ஒரு வரலாற்றுப் பெயர்.",
+      "modern_equivalent": "கெதலியா",
+      "english_word": "Zedekiah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "சகோதரர்,",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரன்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "குமாரரென்னும்",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருடைய மகன் அல்லது பிள்ளைகள்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "மூன்றாவது",
+      "pos": "numeral",
+      "canonical": "மூன்றாவது",
+      "definition_ta": "எண்ணுவரிசையில் மூன்றாம் இடத்தில் உள்ளதை குறிக்கும் எண்.",
+      "modern_equivalent": "மூன்றாவது",
+      "english_word": "third",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "சக்கூர்,",
+      "pos": "noun",
+      "canonical": "சக்கூர்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "சக்கூர்",
+      "english_word": "Sakur",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "நான்காவது",
+      "pos": "numeral",
+      "canonical": "நான்காவது",
+      "definition_ta": "எண்ணிக்கையில் நான்காவது இடத்தில் உள்ளதைக் குறிக்கும் எண்.",
+      "modern_equivalent": "நான்காவது",
+      "english_word": "fourth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "இஸ்ரி,",
+      "pos": "noun",
+      "canonical": "இஸ்ரி",
+      "definition_ta": "இஸ்ரவேல் கோத்திரத்தில் உள்ள ஒரு கோத்திரத்தின் பெயர்.",
+      "modern_equivalent": "இஸ்ரி கோத்திரம்",
+      "english_word": "Issachar",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "ஐந்தாவது",
+      "pos": "numeral",
+      "canonical": "ஐந்தாம்",
+      "definition_ta": "ஐந்து என்ற எண்ணைக் குறிக்கும் வரிசை எண்.",
+      "modern_equivalent": "ஐந்தாவது",
+      "english_word": "fifth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "நெத்தனியா,",
+      "pos": "noun",
+      "canonical": "நெத்தனியா",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரின் பெயர்.",
+      "modern_equivalent": "நெத்தனியா",
+      "english_word": "Nethaniah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 12,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "ஆறாவது",
+      "pos": "numeral",
+      "canonical": "ஆறு",
+      "definition_ta": "ஆறு என்ற எண்ணைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "ஆறாவது",
+      "english_word": "sixth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "புக்கியா,",
+      "pos": "noun",
+      "canonical": "புக்கியா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "புக்கியா",
+      "english_word": "Bukiah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "ஏழாவது",
+      "pos": "numeral",
+      "canonical": "ஏழு",
+      "definition_ta": "ஏழு என்ற எண்ணைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "ஏழாவது",
+      "english_word": "seventh",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "எசரேலா,",
+      "pos": "noun",
+      "canonical": "எசரேலா",
+      "definition_ta": "இஸ்ரவேல் கோத்திரங்களில் ஒன்றான ஒரு குறிப்பிட்ட கோத்திரத்தின் பெயர்.",
+      "modern_equivalent": "எசரேலா கோத்திரம்",
+      "english_word": "Issachar",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "எட்டாவது",
+      "pos": "numeral",
+      "canonical": "எட்டாம்",
+      "definition_ta": "எட்டு என்ற எண்ணைக் குறிக்கும் வரிசை எண்.",
+      "modern_equivalent": "எட்டாவது",
+      "english_word": "eighth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "எஷாயா,",
+      "pos": "noun",
+      "canonical": "எஷாயா",
+      "definition_ta": "எடுத்துத்தூனின் குமாரர்களில் ஒருவரின் பெயர்.",
+      "modern_equivalent": "எஷாயா",
+      "english_word": "Asaiah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "ஒன்பதாவது",
+      "pos": "numeral",
+      "canonical": "ஒன்பதாம்",
+      "definition_ta": "ஒன்பது என்ற எண்ணைக் குறிக்கும் வரிசை எண்.",
+      "modern_equivalent": "ஒன்பதாவது",
+      "english_word": "ninth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "மத்தனீயா,",
+      "pos": "noun",
+      "canonical": "மத்தனீயா",
+      "definition_ta": "யூத வம்சாவளியில் ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "மத்தனீயா",
+      "english_word": "Matthaniah",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "பத்தாவது",
+      "pos": "numeral",
+      "canonical": "பத்தாவது",
+      "definition_ta": "பத்தாம் இடத்தில் உள்ள அல்லது பத்தாவது எண்ணிக்கையிலான.",
+      "modern_equivalent": "பத்தாவது",
+      "english_word": "tenth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "சிமேயா,",
+      "pos": "noun",
+      "canonical": "சிமேயா",
+      "definition_ta": "ஒரு மனிதனின் பெயர்.",
+      "modern_equivalent": "சிமேயா",
+      "english_word": "Simeon",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 17,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 17,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "பதினோராவது",
+      "pos": "numeral",
+      "canonical": "பதினோராவது",
+      "definition_ta": "பதினோராம் இடத்தில் உள்ள அல்லது பதினொன்றாவது எண்ணிக்கையிலான.",
+      "modern_equivalent": "பதினோறாவது",
+      "english_word": "eleventh",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "அசாரியேல்,",
+      "pos": "noun",
+      "canonical": "அசாரியேல்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "அசாரியேல்",
+      "english_word": "Azriel",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "குமாரர்",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 18,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "பன்னிரண்டாவது",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டாவது",
+      "definition_ta": "எண்ணிக்கையில் பன்னிரண்டாம் இடத்தில் உள்ள.",
+      "modern_equivalent": "12-வது",
+      "english_word": "twelfth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "அஷாபியா,",
+      "pos": "noun",
+      "canonical": "அஷாபியா",
+      "definition_ta": "யூதாவின் கோத்திரத்தில் ஒரு குடும்பத்தின் தலைவன் அல்லது ஒரு குறிப்பிட்ட நபரின் பெயர்.",
+      "modern_equivalent": "அஷாபியா",
+      "english_word": "Asaph",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 19,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 19,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "பதின்மூன்றாவது",
+      "pos": "adjective",
+      "canonical": "பதின்மூன்றாம்",
+      "definition_ta": "பத்தோடு மூன்று சேர்ந்த வரிசை எண் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "13-வது",
+      "english_word": "thirteenth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "சுபவேல்,",
+      "pos": "noun",
+      "canonical": "சுபவேல்",
+      "definition_ta": "ஒரு குறிப்பிட்ட கால இடைவெளியில் அல்லது ஒரு குறிப்பிட்ட நோக்கத்திற்காக ஒதுக்கப்பட்ட ஒரு குறிப்பிட்ட நாள்.",
+      "modern_equivalent": "சிறப்பு நாள்",
+      "english_word": "festival",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 20,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 20,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "பதினான்காவது",
+      "pos": "adjective",
+      "canonical": "பதினான்காம்",
+      "definition_ta": "பத்தோடு நான்கு சேர்ந்த வரிசை எண் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "14-வது",
+      "english_word": "fourteenth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "மத்தித்தியா,",
+      "pos": "noun",
+      "canonical": "மத்தித்தியா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "மத்தித்தியா",
+      "english_word": "Mathithiah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 21,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "பதினைந்தாவது",
+      "pos": "adjective",
+      "canonical": "பதினைந்து",
+      "definition_ta": "பதினைந்து என்ற எண்ணைக் குறிக்கும் வரிசை எண்.",
+      "modern_equivalent": "15-வது",
+      "english_word": "fifteenth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "எரேமோத்,",
+      "pos": "noun",
+      "canonical": "எரேமோத்",
+      "definition_ta": "ஒரு குறிப்பிட்ட ஊரின் அல்லது நிலப்பகுதியின் பெயர்.",
+      "modern_equivalent": "எரேமோத்",
+      "english_word": "Jeremoth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 22,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "பதினாறாவது",
+      "pos": "adjective",
+      "canonical": "பதினாறு",
+      "definition_ta": "பதினாறு என்ற எண்ணைக் குறிக்கும் வரிசை எண்.",
+      "modern_equivalent": "16-வது",
+      "english_word": "sixteenth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "அனனியா,",
+      "pos": "noun",
+      "canonical": "அனனியா",
+      "definition_ta": "அனனியா என்னும் ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "அனனியா",
+      "english_word": "Amminadab",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 23,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "பதினேழாவது",
+      "pos": "adjective",
+      "canonical": "பதினேழாம்",
+      "definition_ta": "பதினேழு என்ற எண்ணைக் குறிக்கும் வரிசை எண்.",
+      "modern_equivalent": "17-வது",
+      "english_word": "seventeenth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "யோஸ்பேக்காஷா,",
+      "pos": "noun",
+      "canonical": "யோசேப்பா",
+      "definition_ta": "ஆபிரகாம் மற்றும் ஈசாக்கின் வம்சத்தில் பிறந்த இஸ்ரவேலின் பன்னிரண்டு கோத்திரங்களில் ஒருவருடைய பெயர்.",
+      "modern_equivalent": "யோசேப்பு",
+      "english_word": "Joseph",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 24,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 24,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "பதினெட்டாவது",
+      "pos": "adjective",
+      "canonical": "பதினெட்டாம்",
+      "definition_ta": "பதினெட்டு என்ற எண்ணைக் குறிக்கும் வரிசை எண்.",
+      "modern_equivalent": "18-வது",
+      "english_word": "eighteenth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "ஆனானி,",
+      "pos": "noun",
+      "canonical": "ஆனானி",
+      "definition_ta": "எலியோனாயின் குமாரர்களில் ஒருவரின் பெயர்.",
+      "modern_equivalent": "ஆனானி",
+      "english_word": "Anani",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 25,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "பத்தொன்பதாவது",
+      "pos": "numeral",
+      "canonical": "பத்தொன்பதாவது",
+      "definition_ta": "ஒன்பது மற்றும் பத்து ஆகிய எண்களின் கூட்டுத்தொகையைக் குறிக்கும் எண்.",
+      "modern_equivalent": "19-வது",
+      "english_word": "nineteenth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "மலோத்தி,",
+      "pos": "noun",
+      "canonical": "மலோத்தி",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "மலோத்தி",
+      "english_word": "Malothi",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 26,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "இருபதாவது",
+      "pos": "numeral",
+      "canonical": "இருபதாவது",
+      "definition_ta": "இரு puluh (இருபது) என்ற எண்ணைக் குறிக்கும் எண்.",
+      "modern_equivalent": "20-வது",
+      "english_word": "twentieth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "எலியாத்தா,",
+      "pos": "noun",
+      "canonical": "எலியாத்தா",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "எலியாத்தா",
+      "english_word": "Eliathah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 27,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "இருபத்தோராவது",
+      "pos": "adjective",
+      "canonical": "இருபத்தோன்",
+      "definition_ta": "இருபத்தி ஒன்றாம் எண்ணைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "21-வது",
+      "english_word": "twenty-first",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "ஒத்திர்,",
+      "pos": "noun",
+      "canonical": "ஒத்திர்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "ஒத்திர்",
+      "english_word": "Othni",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 28,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "இருபத்திரண்டாவது",
+      "pos": "adjective",
+      "canonical": "இருபத்திரண்டு",
+      "definition_ta": "இருபத்தி இரண்டாம் எண்ணைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "22-வது",
+      "english_word": "twenty-second",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "கிதல்தி,",
+      "pos": "noun",
+      "canonical": "கிதல்தி",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "கிதல்தி",
+      "english_word": "Chithdai",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 29,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 30,
+      "word": "இருபத்துமூன்றாவது",
+      "pos": "numeral",
+      "canonical": "இருபத்துமூன்று",
+      "definition_ta": "இருபது மற்றும் மூன்று ஆகிய எண்களின் கூட்டுத்தொகை கொண்ட வரிசை எண்.",
+      "modern_equivalent": "23-வது",
+      "english_word": "twenty-third",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 30,
+      "word": "மகாசியோத்,",
+      "pos": "noun",
+      "canonical": "மகாசியோத்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "மகாசியோத்",
+      "english_word": "Machasiah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 30,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 30,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 30,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 30,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 30,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 30,
+      "word": "பேர்வழிக்கும்,",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "இருபத்துநான்காவது",
+      "pos": "numeral",
+      "canonical": "இருபத்துநான்கு",
+      "definition_ta": "இருபது மற்றும் நான்கு ஆகிய எண்களின் கூட்டுத்தொகை கொண்ட வரிசை எண்.",
+      "modern_equivalent": "24-வது",
+      "english_word": "twenty-fourth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "ரொமந்தியேசர்,",
+      "pos": "noun",
+      "canonical": "ரொமந்தியேசர்",
+      "definition_ta": "ஒரு நபரின் பெயர்.",
+      "modern_equivalent": "ரொமந்தியேசர்",
+      "english_word": "Romandieser",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "குமாரர்,",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த ஆண் பிள்ளை அல்லது மகன்.",
+      "modern_equivalent": "மகன்கள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "சகோதரரென்னும்",
+      "pos": "noun",
+      "canonical": "சகோதரன்",
+      "definition_ta": "ஒரே பெற்றோர் அல்லது ஒரே குடும்பத்தில் பிறந்த உடன் பிறந்தவர்.",
+      "modern_equivalent": "சகோதரர்கள்",
+      "english_word": "brothers",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "பன்னிரண்டு",
+      "pos": "numeral",
+      "canonical": "பன்னிரண்டு",
+      "definition_ta": "பன்னிரண்டு என்ற எண்ணைக் குறிக்கும் எண் சொல்லாகும்.",
+      "modern_equivalent": "12",
+      "english_word": "twelve",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "பேர்வழிக்கும்",
+      "pos": "noun",
+      "canonical": "பேர்வழி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிலப்பரப்பு அல்லது பாதையை குறிக்கும் சொல்.",
+      "modern_equivalent": "நிலப்பகுதி",
+      "english_word": "territory",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 31,
+      "word": "விழுந்தது.",
+      "pos": "verb",
+      "canonical": "விழு",
+      "definition_ta": "ஒரு பொருள் அல்லது நபர் கீழே விழுதல் அல்லது கீழே விழுந்து விழுதல்.",
+      "modern_equivalent": "விழுந்தது",
+      "english_word": "down",
+      "source": "db_0ms"
+    }
+  ]
+}

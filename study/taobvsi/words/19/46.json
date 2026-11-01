@@ -1,0 +1,1010 @@
+{
+  "book": 19,
+  "chapter": 46,
+  "total_verses": 11,
+  "total_words_expected": 100,
+  "total_words_parsed": 100,
+  "is_step1_completed": true,
+  "words": [
+    {
+      "verse": 1,
+      "word": "தேவன்",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து வழிநடத்தும் சர்வவல்லமையுள்ள கடவுள்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "நமக்கு",
+      "pos": "pronoun",
+      "canonical": "நாம்",
+      "definition_ta": "பேசும் நபர் மற்றும் அவரோடு இணைந்திருக்கும் குழுவினரை குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "நமக்கு",
+      "english_word": "us",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "அடைக்கலமும்",
+      "pos": "noun",
+      "canonical": "அடைக்கலம்",
+      "definition_ta": "பாதுகாப்பு அல்லது தஞ்சம் கிடைக்கும் இடம்.",
+      "modern_equivalent": "பாதுகாப்பு",
+      "english_word": "fortress",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "பெலனும்,",
+      "pos": "noun",
+      "canonical": "பெலன்",
+      "definition_ta": "ஒருவர் தன்னைத் தற்காத்துக் கொள்ள அல்லது பலமாக இருக்க உதவும் ஆற்றல் அல்லது பலம்.",
+      "modern_equivalent": "பலம்",
+      "english_word": "strength",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "ஆபத்துக்காலத்தில்",
+      "pos": "adverb",
+      "canonical": "ஆபத்துக்காலம்",
+      "definition_ta": "ஆபத்து அல்லது ஆபத்துகள் வரும் காலப்பகுதி.",
+      "modern_equivalent": "ஆபத்து நேரத்தில்",
+      "english_word": "in times of trouble",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "அனுகூலமான",
+      "pos": "adjective",
+      "canonical": "அனுகூலம்",
+      "definition_ta": "நன்மை அல்லது உதவி செய்யும் தன்மை கொண்ட.",
+      "modern_equivalent": "உதவிகரமான",
+      "english_word": "favorable",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "துணையுமானவர்.",
+      "pos": "noun",
+      "canonical": "துணை",
+      "definition_ta": "உதவி அல்லது ஆதரவு அளிக்கும் ஒரு நபர் அல்லது பொருள்.",
+      "modern_equivalent": "உதவியாளர்",
+      "english_word": "help",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "ஆகையால்",
+      "pos": "conjunction",
+      "canonical": "ஆகையால்",
+      "definition_ta": "ஒரு செயலின் விளைவாக அல்லது காரணத்தினால் ஏற்படுவதைக் குறிக்கும் இணைப்புச்சொல்.",
+      "modern_equivalent": "அதனால்",
+      "english_word": "therefore",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "பூமி",
+      "pos": "noun",
+      "canonical": "பூமி",
+      "definition_ta": "மனுஷர்கள் வாழும் நிலப்பரப்பு அல்லது உலகம்.",
+      "modern_equivalent": "உலகம்",
+      "english_word": "earth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "நிலைமாறினாலும்,",
+      "pos": "verb",
+      "canonical": "மாறி",
+      "definition_ta": "ஒரு பொருள் அல்லது நிலை அதன் இயல்பான இடத்திலிருந்து வேறு நிலைக்கு மாறுதல்.",
+      "modern_equivalent": "மாறிப்போனாலும்",
+      "english_word": "be moved",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "மலைகள்",
+      "pos": "noun",
+      "canonical": "மலை",
+      "definition_ta": "பூமியின் மேற்பரப்பில் உயர்ந்து காணப்படும் நிலப்பகுதி.",
+      "modern_equivalent": "மலைகள்",
+      "english_word": "mountains",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "நடுச்சமுத்திரத்தில்",
+      "pos": "noun",
+      "canonical": "நடுச்சமுத்திரம்",
+      "definition_ta": "இரு நிலப்பரப்புகளுக்கு இடையே உள்ள பெரிய கடல்.",
+      "modern_equivalent": "நடுக்கடல்",
+      "english_word": "midst of the sea",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "சாய்ந்துபோனாலும்,",
+      "pos": "verb",
+      "canonical": "சாய்",
+      "definition_ta": "ஒரு பொருள் நேராக நிற்காமல் ஒரு பக்கமாக சாய்ந்து விழுதல்.",
+      "modern_equivalent": "சாய்ந்து விழுந்தாலும்",
+      "english_word": "be cast",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "ஜலங்கள்",
+      "pos": "noun",
+      "canonical": "ஜலம்",
+      "definition_ta": "நீர் அல்லது நீர் சார்ந்த திரவம்.",
+      "modern_equivalent": "நீருகள்",
+      "english_word": "waters",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "கொந்தளித்துப்",
+      "pos": "verb",
+      "canonical": "கொந்தளி",
+      "definition_ta": "அலைகள் சீறிக்கொண்டு எழுந்து வருதல்.",
+      "modern_equivalent": "அலைகள் எழுதல்",
+      "english_word": "roar",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "பொங்கி,",
+      "pos": "verb",
+      "canonical": "பொங்கி",
+      "definition_ta": "பெரிய சத்தத்துடன் அல்லது பலத்த வேகத்துடன் எழுந்து வருதல்.",
+      "modern_equivalent": "உருளுதல்",
+      "english_word": "swell",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "பெருக்கினால்",
+      "pos": "noun",
+      "canonical": "பெருக்கம்",
+      "definition_ta": "அதிகமான அளவு அல்லது பெருமை.",
+      "modern_equivalent": "பெருமை",
+      "english_word": "power",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "பர்வதங்கள்",
+      "pos": "noun",
+      "canonical": "பர்வதம்",
+      "definition_ta": "மிகப்பெரிய மலைகள் அல்லது மலைத்தொடர்கள்.",
+      "modern_equivalent": "மலைகள்",
+      "english_word": "mountains",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "அதிர்ந்தாலும்,",
+      "pos": "verb",
+      "canonical": "அதிர்",
+      "definition_ta": "வேகமாக நடுங்குதல் அல்லது நடுக்கம் அடைதல்.",
+      "modern_equivalent": "நடுங்குதல்",
+      "english_word": "shake",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "நாம்",
+      "pos": "pronoun",
+      "canonical": "நாம்",
+      "definition_ta": "தங்களை அல்லது தங்களைச் சேர்ந்தவர்களைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "நாங்கள்",
+      "english_word": "we",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "பயப்படோம்.",
+      "pos": "verb",
+      "canonical": "பயப்படு",
+      "definition_ta": "அச்சம் அல்லது பயம் கொள்ளுதல்.",
+      "modern_equivalent": "அச்சம் கொள்ளுதல்",
+      "english_word": "fear",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "(சேலா)",
+      "pos": "noun",
+      "canonical": "சேலா",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரின் பெயர் அல்லது அடையாளப் பெயர்.",
+      "modern_equivalent": "சேலா",
+      "english_word": "Shelah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "நதியுண்டு,",
+      "pos": "noun",
+      "canonical": "நதி",
+      "definition_ta": "ஓடும் நீர் அல்லது ஆறு.",
+      "modern_equivalent": "ஆறு",
+      "english_word": "river",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "நீர்க்கால்கள்",
+      "pos": "noun",
+      "canonical": "நீர்க்கால்",
+      "definition_ta": "நீரோடை அல்லது நீர் பாயும் வழி.",
+      "modern_equivalent": "நீரோடை",
+      "english_word": "streams",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "தேவனுடைய",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து ஆளுகின்ற பரமபொருளைக் குறிக்கும் பெயர்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "நகரத்தையும்,",
+      "pos": "noun",
+      "canonical": "நகரம்",
+      "definition_ta": "மக்கள் கூட்டமாக வாழும் ஒரு பெரிய குடியிருப்பிடம் அல்லது நகரத்தைக் குறிக்கும் பெயர்ச்சொல்.",
+      "modern_equivalent": "நகரம்",
+      "english_word": "city",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "உன்னதமானவர்",
+      "pos": "noun",
+      "canonical": "உன்னதமானவர்",
+      "definition_ta": "மிகவும் உயர்ந்த அல்லது மேன்மையான நிலையில் உள்ளவர்.",
+      "modern_equivalent": "உன்னதமானவர்",
+      "english_word": "the Most High",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "வாசம்பண்ணும்",
+      "pos": "verb",
+      "canonical": "வாசம்",
+      "definition_ta": "ஒரு இடத்தில் தங்குதல் அல்லது வசித்தல்.",
+      "modern_equivalent": "வாழும்",
+      "english_word": "dwelling",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "பரிசுத்தஸ்தலத்தையும்",
+      "pos": "noun",
+      "canonical": "பரிசுத்தஸ்தலம்",
+      "definition_ta": "தேவன் தங்குவதற்கு அல்லது வழிபாட்டிற்காக பிரிக்கப்பட்ட பரிசுத்தமான இடம்.",
+      "modern_equivalent": "பரிசுத்த இடம்",
+      "english_word": "sanctuary",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "சந்தோஷிப்பிக்கும்.",
+      "pos": "verb",
+      "canonical": "சந்தோஷி",
+      "definition_ta": "மகிழ்ச்சியை அல்லது மகிழ்ச்சியூட்டும் செயலை அளித்தல்.",
+      "modern_equivalent": "மகிழ்ச்சி அளிக்கும்",
+      "english_word": "make glad",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "தேவன்",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து வழிநடத்தும் சர்வவல்லமையுள்ள கடவுள்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "நடுவில்",
+      "pos": "adverb",
+      "canonical": "நடுவில்",
+      "definition_ta": "ஒரு இடத்தின் மையப்பகுதி அல்லது நடுப்பகுதி.",
+      "modern_equivalent": "மையத்தில்",
+      "english_word": "in the midst of",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "இருக்கிறார்,",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு இடத்தில் நிலைபெற்று அல்லது தங்கியிருப்பது",
+      "modern_equivalent": "இருக்கிறார்",
+      "english_word": "is",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 5,
+      "word": "அசையாது;",
+      "pos": "verb",
+      "canonical": "அசை",
+      "definition_ta": "நகரமாட்டாது அல்லது நிலைபெற்று இருக்கும்.",
+      "modern_equivalent": "நகராது",
+      "english_word": "will not be moved",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "அதிகாலையிலே",
+      "pos": "adverb",
+      "canonical": "அதிகாலை",
+      "definition_ta": "இரவு முடிந்து விடியற்காலையில் அல்லது அதிகாலை நேரத்தில்.",
+      "modern_equivalent": "அதிகாலையில்",
+      "english_word": "In the morning",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "தேவன்",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து வழிநடத்தும் சர்வவல்லமையுள்ள கடவுள்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "அதற்குச்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "ஒரு பொருளை அல்லது ஒரு விஷயத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "சகாயம்",
+      "pos": "noun",
+      "canonical": "சகாயம்",
+      "definition_ta": "ஒருவருடன் இணைந்து செயல்படும் துணை அல்லது தோழன்.",
+      "modern_equivalent": "தோழன்",
+      "english_word": "companion",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "பண்ணுவார்.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்து அல்லது ஒரு நிலையை உருவாக்குதல்.",
+      "modern_equivalent": "செய்வார்",
+      "english_word": "will do",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ஜாதிகள்",
+      "pos": "noun",
+      "canonical": "ஜாதி",
+      "definition_ta": "ஒரு குறிப்பிட்ட பண்பு, கலாச்சாரம் அல்லது பாரம்பரியத்தைப் பகிர்ந்து கொள்ளும் மக்கள் குழு அல்லது இனத்தொடர்பு.",
+      "modern_equivalent": "இனங்கள், மக்கள்",
+      "english_word": "nations",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "கொந்தளித்தது,",
+      "pos": "verb",
+      "canonical": "கொந்தளி",
+      "definition_ta": "மிகவும் சத்தமிட்டு ஆரவாரம் செய்வது அல்லது கூச்சலிடுவது.",
+      "modern_equivalent": "ஆரவாரம் செய்தது",
+      "english_word": "roared",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "ராஜ்யங்கள்",
+      "pos": "noun",
+      "canonical": "ராஜ்யம்",
+      "definition_ta": "ஒரு நாட்டின் ஆட்சி அல்லது அரசாங்கம்.",
+      "modern_equivalent": "நாடுகள், ஆட்சி",
+      "english_word": "kingdoms",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "தத்தளித்தது;",
+      "pos": "verb",
+      "canonical": "தத்தளி",
+      "definition_ta": "அதிர்ச்சியால் அல்லது பயத்தால் நடுங்குவது அல்லது திகைத்துப் போவது.",
+      "modern_equivalent": "தடுமாறியது",
+      "english_word": "trembled",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "அவர்",
+      "pos": "pronoun",
+      "canonical": "அவர்",
+      "definition_ta": "தேவனாகிய கர்த்தரை இந்த வாக்கியத்தில் குறிக்கிறது.",
+      "modern_equivalent": "அவர்",
+      "english_word": "He",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "தமது",
+      "pos": "pronoun",
+      "canonical": "தமது",
+      "definition_ta": "அவருடைய அல்லது அவருடைய என்று பொருள்படும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவருடைய",
+      "english_word": "his",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "சத்தத்தை",
+      "pos": "noun",
+      "canonical": "சத்தம்",
+      "definition_ta": "கேட்கக்கூடிய ஒலி அல்லது ஒருவரின் குரல்.",
+      "modern_equivalent": "சத்தம்",
+      "english_word": "voice",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "முழங்கப்பண்ணினார்,",
+      "pos": "verb",
+      "canonical": "முழங்கு",
+      "definition_ta": "பெரிய சத்தத்துடன் ஒலிக்கும் கருவியை அடித்து சத்தம் எழுப்புவது.",
+      "modern_equivalent": "முழங்கினார்",
+      "english_word": "trumpeted",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "பூமி",
+      "pos": "noun",
+      "canonical": "பூமி",
+      "definition_ta": "மனுஷர்கள் வாழும் நிலப்பரப்பு அல்லது உலகம்.",
+      "modern_equivalent": "உலகம்",
+      "english_word": "earth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "உருகிப்போயிற்று.",
+      "pos": "verb",
+      "canonical": "உருகி",
+      "definition_ta": "வெப்பத்தினால் அல்லது அழுத்தத்தினால் திடமான பொருள் திரவமாக மாறுவது.",
+      "modern_equivalent": "உருகியது",
+      "english_word": "melted",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "சேனைகளின்",
+      "pos": "adjective",
+      "canonical": "சேனை",
+      "definition_ta": "போர்வீரர்களின் கூட்டத்தையோ அல்லது ஒரு நாட்டின் படையையோ குறிக்கும் பண்பு.",
+      "modern_equivalent": "படைகளின்",
+      "english_word": "hosts",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "கர்த்தர்",
+      "pos": "particle",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "சர்வ வல்லமையுள்ள இறைவனாகிய ஆண்டவரை குறிக்கும்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 7,
+      "word": "நம்மோடிருக்கிறார்;",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் தங்கியிருப்பது அல்லது நிலைபெறுவது.",
+      "modern_equivalent": "இருக்கிறார்",
+      "english_word": "is with",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "யாக்கோபின்",
+      "pos": "noun",
+      "canonical": "யாக்கோபு",
+      "definition_ta": "இஸ்ரவேல் புத்திரர்களில் ஒருவரும் இஸ்ரவேலின் தலைவருமான ஒரு நபர்.",
+      "modern_equivalent": "யாக்கோபு",
+      "english_word": "Jacob",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "தேவன்",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து வழிநடத்தும் சர்வவல்லமையுள்ள கடவுள்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "நமக்கு",
+      "pos": "pronoun",
+      "canonical": "நாம்",
+      "definition_ta": "பேசும் நபர் மற்றும் அவரோடு இணைந்திருக்கும் குழுவினரை குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "நமக்கு",
+      "english_word": "us",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "உயர்ந்த",
+      "pos": "adjective",
+      "canonical": "உயர்ந்த",
+      "definition_ta": "உயரத்தில் உள்ள அல்லது மற்றவற்றை விட மேலாக அமைந்துள்ள பண்பு.",
+      "modern_equivalent": "உயர்ந்த",
+      "english_word": "high",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "அடைக்கலமானவர்.",
+      "pos": "noun",
+      "canonical": "அடைக்கலம்",
+      "definition_ta": "பாதுகாப்பு அல்லது தஞ்சம் அளிக்கும் இடம்.",
+      "modern_equivalent": "பாதுகாப்பு",
+      "english_word": "refuge",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "(சேலா)",
+      "pos": "noun",
+      "canonical": "சேலா",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரின் பெயர் அல்லது அடையாளப் பெயர்.",
+      "modern_equivalent": "சேலா",
+      "english_word": "Shelah",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "பூமியிலே",
+      "pos": "noun",
+      "canonical": "பூமி",
+      "definition_ta": "மனுஷர்கள் வாழும் நிலப்பரப்பு அல்லது உலகம்.",
+      "modern_equivalent": "உலகம்",
+      "english_word": "earth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "பாழ்க்கடிப்புகளை",
+      "pos": "noun",
+      "canonical": "பாழ்க்கடிப்பு",
+      "definition_ta": "அழிந்துபோன அல்லது சிதைந்துபோன நிலப்பரப்பு அல்லது பாழடைந்த இடங்கள்.",
+      "modern_equivalent": "பாழடைந்த இடங்கள்",
+      "english_word": "ruins",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "நடப்பிக்கிற",
+      "pos": "verb",
+      "canonical": "நடப்பி",
+      "definition_ta": "ஒரு இடத்தின் மீது கால்களை வைத்து நடப்பது அல்லது ஒரு நிலத்தை ஆக்கிரமிப்பது.",
+      "modern_equivalent": "நடப்பி",
+      "english_word": "tread",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "கர்த்தருடைய",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவராகிய தேவன் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "செய்கைகளை",
+      "pos": "noun",
+      "canonical": "செய்கை",
+      "definition_ta": "ஒருவர் அல்லது ஒரு சக்தி செய்த ஒரு செயல் அல்லது பணி.",
+      "modern_equivalent": "செயல்கள்",
+      "english_word": "works",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "வந்துபாருங்கள்.",
+      "pos": "verb",
+      "canonical": "பார்",
+      "definition_ta": "கண்களால் ஒரு பொருளை அல்லது செயலை கவனித்தல்.",
+      "modern_equivalent": "பாருங்கள்",
+      "english_word": "see",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "அவர்",
+      "pos": "pronoun",
+      "canonical": "அவர்",
+      "definition_ta": "தேவனாகிய கர்த்தரை இந்த வாக்கியத்தில் குறிக்கிறது.",
+      "modern_equivalent": "அவர்",
+      "english_word": "He",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "பூமியின்",
+      "pos": "noun",
+      "canonical": "பூமி",
+      "definition_ta": "நாம் வாழும் நிலப்பரப்பு அல்லது உலகம்.",
+      "modern_equivalent": "பூமியின்",
+      "english_word": "earth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "கடைமுனைமட்டும்",
+      "pos": "noun",
+      "canonical": "கடைமுனை",
+      "definition_ta": "ஒரு நிலப்பரப்பின் இறுதிப் பகுதி அல்லது எல்லை.",
+      "modern_equivalent": "கடைசி எல்லை",
+      "english_word": "the farthest parts",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "யுத்தங்களை",
+      "pos": "noun",
+      "canonical": "யுத்தம்",
+      "definition_ta": "இரண்டு தரப்பினருக்கு இடையே நடைபெறும் போர் அல்லது சண்டை.",
+      "modern_equivalent": "போர்கள்",
+      "english_word": "battles",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஓயப்பண்ணுகிறார்;",
+      "pos": "verb",
+      "canonical": "ஓய",
+      "definition_ta": "ஒரு செயலை நிறுத்துதல் அல்லது முடிவுக்குக் கொண்டு வருதல்.",
+      "modern_equivalent": "நிறுத்துகிறார்",
+      "english_word": "put an end to",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "வில்லை",
+      "pos": "noun",
+      "canonical": "வில்",
+      "definition_ta": "ஒரு பொருளை எறிய அல்லது சுடப் பயன்படும் வளைந்த ஆயுதம்.",
+      "modern_equivalent": "வில்",
+      "english_word": "bow",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஒடித்து,",
+      "pos": "verb",
+      "canonical": "ஒடு",
+      "definition_ta": "ஒரு பொருளை உடைத்தல் அல்லது சிதைத்தல்.",
+      "modern_equivalent": "உடைக்கிறார்",
+      "english_word": "break",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "ஈட்டியை",
+      "pos": "noun",
+      "canonical": "ஈட்டி",
+      "definition_ta": "ஒரு பொருளைத் துளைக்க அல்லது தள்ளுவதற்குப் பயன்படும் கூர்மையான ஆயுதம்.",
+      "modern_equivalent": "ஈட்டி",
+      "english_word": "spear",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "முறிக்கிறார்;",
+      "pos": "verb",
+      "canonical": "முறி",
+      "definition_ta": "முழுமையாக உடைத்தல் அல்லது சிதைத்தல்.",
+      "modern_equivalent": "முறிக்கிறார்",
+      "english_word": "breaks",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "இரதங்களை",
+      "pos": "noun",
+      "canonical": "இரதம்",
+      "definition_ta": "இரண்டு சக்கரங்கள் கொண்ட ஒரு வகை போர் வண்டி.",
+      "modern_equivalent": "போர் வண்டிகள்",
+      "english_word": "chariots",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "நெருப்பினால்",
+      "pos": "particle",
+      "canonical": "நெருப்பு",
+      "definition_ta": "நெருப்பு என்னும் பொருளைக் கொண்டு அல்லது நெருப்பினால் என்று குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "நெருப்பினால்",
+      "english_word": "with fire",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "சுட்டெரிக்கிறார்.",
+      "pos": "verb",
+      "canonical": "சுட்டு",
+      "definition_ta": "நெருப்பினால் ஒரு பொருளை எரித்தல் அல்லது சிதைத்தல்.",
+      "modern_equivalent": "எரிக்கிறார்",
+      "english_word": "burn",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "நீங்கள்",
+      "pos": "pronoun",
+      "canonical": "நீங்கள்",
+      "definition_ta": "தேவன் ஆசீர்வதிக்கும் மனிதர்களைக் குறிக்கும் இரண்டாம் நபர் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "நீங்கள்",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "அமர்ந்திருந்து,",
+      "pos": "verb",
+      "canonical": "அமர்ந்து",
+      "definition_ta": "இருக்கையை ஒரு இடத்தில் நிலைநிறுத்தி உட்காருதல்",
+      "modern_equivalent": "உட்கார்ந்து",
+      "english_word": "sitting",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "நானே",
+      "pos": "pronoun",
+      "canonical": "நான்",
+      "definition_ta": "பேசும் நபர் தன்னைத்தானே குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "நான் தான்",
+      "english_word": "I am",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "தேவனென்று",
+      "pos": "pronoun",
+      "canonical": "தேவன்",
+      "definition_ta": "சர்வ வல்லமையுள்ள, படைத்தவர் அல்லது ஆராதனை செய்யப்பட வேண்டிய தெய்வீகம்.",
+      "modern_equivalent": "தேவன்",
+      "english_word": "God",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "அறிந்துகொள்ளுங்கள்;",
+      "pos": "verb",
+      "canonical": "அறி",
+      "definition_ta": "ஒரு விஷயத்தைப் புரிந்து கொள்ளுதல் அல்லது உணர்தல்.",
+      "modern_equivalent": "புரிந்து கொள்ளுங்கள்",
+      "english_word": "know",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "ஜாதிகளுக்குள்ளே",
+      "pos": "adverb",
+      "canonical": "ஜாதிகளுக்குள்ளே",
+      "definition_ta": "ஜாதிகளுடைய மத்தியில் அல்லது ஜாதிகளுக்குள்ளே உள்ள இடத்தில்.",
+      "modern_equivalent": "ஜாதிகளுக்குள்ளே",
+      "english_word": "among the nations",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "உயர்ந்திருப்பேன்,",
+      "pos": "adjective",
+      "canonical": "உயர்ந்த",
+      "definition_ta": "அதிகமான மேன்மை அல்லது உயர்வான நிலையை உடையது.",
+      "modern_equivalent": "உயர்ந்த",
+      "english_word": "exalted",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "பூமியிலே",
+      "pos": "noun",
+      "canonical": "பூமி",
+      "definition_ta": "மனுஷர்கள் வாழும் நிலப்பரப்பு அல்லது உலகம்.",
+      "modern_equivalent": "உலகம்",
+      "english_word": "earth",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "உயர்ந்திருப்பேன்.",
+      "pos": "adjective",
+      "canonical": "உயர்ந்த",
+      "definition_ta": "அதிகமான மேன்மை அல்லது உயர்வான நிலையை உடையது.",
+      "modern_equivalent": "உயர்ந்த",
+      "english_word": "exalted",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "சேனைகளின்",
+      "pos": "adjective",
+      "canonical": "சேனை",
+      "definition_ta": "போர்வீரர்களின் கூட்டத்தையோ அல்லது ஒரு நாட்டின் படையையோ குறிக்கும் பண்பு.",
+      "modern_equivalent": "படைகளின்",
+      "english_word": "hosts",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "கர்த்தர்",
+      "pos": "particle",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "சர்வ வல்லமையுள்ள இறைவனாகிய ஆண்டவரை குறிக்கும்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "LORD",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 11,
+      "word": "நம்மோடிருக்கிறார்,",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "ஒரு குறிப்பிட்ட இடத்தில் தங்கியிருப்பது அல்லது நிலைபெறுவது.",
+      "modern_equivalent": "இருக்கிறார்",
+      "english_word": "is with",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "யாக்கோபின்",
+      "pos": "noun",
+      "canonical": "யாக்கோபு",
+      "definition_ta": "இஸ்ரவேல் புத்திரர்களில் ஒருவரும் இஸ்ரவேலின் தலைவருமான ஒரு நபர்.",
+      "modern_equivalent": "யாக்கோபு",
+      "english_word": "Jacob",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "தேவன்",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து வழிநடத்தும் சர்வவல்லமையுள்ள கடவுள்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "நமக்கு",
+      "pos": "pronoun",
+      "canonical": "நாம்",
+      "definition_ta": "பேசும் நபர் மற்றும் அவரோடு இணைந்திருக்கும் குழுவினரை குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "நமக்கு",
+      "english_word": "us",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "உயர்ந்த",
+      "pos": "adjective",
+      "canonical": "உயர்ந்த",
+      "definition_ta": "உயரத்தில் உள்ள அல்லது மற்றவற்றை விட மேலாக அமைந்துள்ள பண்பு.",
+      "modern_equivalent": "உயர்ந்த",
+      "english_word": "high",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "அடைக்கலமானவர்.",
+      "pos": "noun",
+      "canonical": "அடைக்கலம்",
+      "definition_ta": "பாதுகாப்பு அல்லது தஞ்சம் அளிக்கும் இடம்.",
+      "modern_equivalent": "பாதுகாப்பு",
+      "english_word": "refuge",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "(சேலா)",
+      "pos": "noun",
+      "canonical": "சேலா",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரின் பெயர் அல்லது அடையாளப் பெயர்.",
+      "modern_equivalent": "சேலா",
+      "english_word": "Shelah",
+      "source": "db_0ms"
+    }
+  ]
+}

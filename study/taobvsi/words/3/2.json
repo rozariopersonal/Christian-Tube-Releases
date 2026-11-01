@@ -1,0 +1,2270 @@
+{
+  "book": 3,
+  "chapter": 2,
+  "total_verses": 16,
+  "total_words_expected": 226,
+  "total_words_parsed": 226,
+  "is_step1_completed": true,
+  "words": [
+    {
+      "verse": 1,
+      "word": "ஒருவன்",
+      "pos": "noun",
+      "canonical": "ஒருவன்",
+      "definition_ta": "ஒரு தனி மனிதன் அல்லது ஒரு நபர்.",
+      "modern_equivalent": "ஒரு நபர்",
+      "english_word": "a man",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 1,
+      "word": "போஜனபலியாகிய",
+      "pos": "adjective",
+      "canonical": "போஜனபலி",
+      "definition_ta": "உணவாக அர்ப்பணிக்கப்படும் பலி.",
+      "modern_equivalent": "உணவுக்காக அர்ப்பணிக்கப்பட்ட",
+      "english_word": "food offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "காணிக்கையைக்",
+      "pos": "noun",
+      "canonical": "காணிக்கை",
+      "definition_ta": "தேவனுடைய ஆலயத்திற்கோ அல்லது தேவனுடைய ஊழியத்திற்கோ கொடுக்கப்படும் காணிக்கை அல்லது காணிக்கை பொருள்.",
+      "modern_equivalent": "தானம், காணிக்கை",
+      "english_word": "offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "கர்த்தருக்குச்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "செலுத்தவேண்டுமானால்,",
+      "pos": "verb",
+      "canonical": "செலுத்து",
+      "definition_ta": "கடமைக்காக அல்லது தேவனுக்காக ஒரு பொருளை வழங்குதல்.",
+      "modern_equivalent": "செலுத்தினால்",
+      "english_word": "if he wants to offer",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "காணிக்கை",
+      "pos": "noun",
+      "canonical": "காணிக்கை",
+      "definition_ta": "தேவனுடைய ஆலயத்திற்காகவோ அல்லது ஒரு காரியத்திற்காகவோ கொடுக்கப்படும் பொருள்.",
+      "modern_equivalent": "தானம்",
+      "english_word": "offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "மெல்லிய",
+      "pos": "adjective",
+      "canonical": "மெல்லிய",
+      "definition_ta": "அளவு அல்லது தடிமன் குறைந்த பண்பு.",
+      "modern_equivalent": "மெல்லிய",
+      "english_word": "fine",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "மாவாயிருப்பதாக;",
+      "pos": "adjective",
+      "canonical": "மா",
+      "definition_ta": "ஒரு வகை தானியக்கனி அல்லது உணவுப் பொருள்.",
+      "modern_equivalent": "மாவாக",
+      "english_word": "be flour",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "அதின்மேல்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னர் குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அதின்மேல்",
+      "english_word": "on it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "எண்ணெய்",
+      "pos": "noun",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "தாவரங்கள் அல்லது விலங்குகளிலிருந்து எடுக்கப்படும் வழுவழுப்பான திரவம்.",
+      "modern_equivalent": "எண்ணெய்",
+      "english_word": "oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "வார்த்து,",
+      "pos": "verb",
+      "canonical": "வார்த்து",
+      "definition_ta": "ஒரு பொருளின் மீது திரவத்தை ஊற்றுதல் அல்லது பூசுதல்.",
+      "modern_equivalent": "ஊற்றினார்",
+      "english_word": "anointed",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "அதின்மேல்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னர் குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அதின்மேல்",
+      "english_word": "on it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 1,
+      "word": "தூபவர்க்கம்",
+      "pos": "noun",
+      "canonical": "தூபவர்க்கம்",
+      "definition_ta": "ஆராதனைக்காக எரிக்கப்படும் நறுமணப் பொருள்.",
+      "modern_equivalent": "தூப incense",
+      "english_word": "incense",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 1,
+      "word": "போட்டு,",
+      "pos": "verb",
+      "canonical": "போடு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்தில் நிலைநிறுத்துதல் அல்லது அமைத்தல்.",
+      "modern_equivalent": "அமைத்தார்",
+      "english_word": "pitched",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "அதை",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட தீமையான விருட்சத்தின் கனியை இது குறிக்கிறது.",
+      "modern_equivalent": "அதை",
+      "english_word": "It",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "ஆரோனின்",
+      "pos": "noun",
+      "canonical": "ஆரோன்",
+      "definition_ta": "மோசேவின் சகோதரனும் இஸ்ரவேல் ஜனங்களின் முதல் ஆசாரியருமான ஒரு நபர்.",
+      "modern_equivalent": "ஆரோனுடைய",
+      "english_word": "Aaron's",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "குமாரராகிய",
+      "pos": "adjective",
+      "canonical": "குமாரன்",
+      "definition_ta": "ஒருவருக்குப் பிறந்த மகன் அல்லது வாரிசைக் குறிக்கும் பெயரடை.",
+      "modern_equivalent": "மகனாகிய",
+      "english_word": "son",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "ஆசாரியர்களிடத்தில்",
+      "pos": "particle",
+      "canonical": "அடி",
+      "definition_ta": "ஒரு குறிப்பிட்ட நபரிடமோ அல்லது ஒரு குழுவிடமோ சேருகின்ற இடைச்சொல்.",
+      "modern_equivalent": "அடி",
+      "english_word": "to",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "கொண்டுவருவானாக;",
+      "pos": "verb",
+      "canonical": "கொண்டுவா",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு எடுத்துச் செல்வது.",
+      "modern_equivalent": "கொண்டுவர",
+      "english_word": "bring",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "அப்பொழுது",
+      "pos": "adverb",
+      "canonical": "அப்பொழுது",
+      "definition_ta": "ஒரு குறிப்பிட்ட நிகழ்வு அல்லது காலத்தின் தொடக்கத்தில் நடக்கும் ஒரு நேரத்தைக் குறிக்கிறது.",
+      "modern_equivalent": "அப்போது",
+      "english_word": "Then",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "ஆசாரியன்",
+      "pos": "noun",
+      "canonical": "ஆசாரியன்",
+      "definition_ta": "தேவனுடைய ஆலயத்தில் ஆராதனை செய்யும் கடமையை மேற்கொள்பவன்.",
+      "modern_equivalent": "ஆசாரியன்",
+      "english_word": "priest",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "அந்த",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட ஒரு தேசத்தைக் குறிக்கும் சுட்டுப்பெயர்.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "மாவிலும்",
+      "pos": "noun",
+      "canonical": "மாவு",
+      "definition_ta": "தானியத்தை அரைத்து அரைத்த பொடி.",
+      "modern_equivalent": "மாவு",
+      "english_word": "flour",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "எண்ணெயிலும்",
+      "pos": "noun",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "அமுக்கத்திலிருந்து எடுக்கப்படும் ஒரு வகை எண்ணெய்.",
+      "modern_equivalent": "எண்ணெய்",
+      "english_word": "oil",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "கைப்பிடி",
+      "pos": "noun",
+      "canonical": "கைப்பிடி",
+      "definition_ta": "ஒரு கரம் கொண்டு எடுக்கக்கூடிய அளவு அல்லது அளவு.",
+      "modern_equivalent": "ஒரு கை அளவு",
+      "english_word": "handful",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "நிறைய",
+      "pos": "adjective",
+      "canonical": "நிறைய",
+      "definition_ta": "அதிகமான அளவு அல்லது மிகுதியான அளவு.",
+      "modern_equivalent": "அதிகமான",
+      "english_word": "full",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "தூபவர்க்கம்",
+      "pos": "noun",
+      "canonical": "தூபவர்க்கம்",
+      "definition_ta": "ஆராதனைக்காக எரிக்கப்படும் நறுமணப் பொருள்.",
+      "modern_equivalent": "தூப incense",
+      "english_word": "incense",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "எல்லாவற்றோடும்",
+      "pos": "particle",
+      "canonical": "ஓடு",
+      "definition_ta": "கூடுமான அல்லது உடன் என்பதைக் குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "உடன்",
+      "english_word": "with",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "எடுத்து,",
+      "pos": "verb",
+      "canonical": "எடு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து பிரித்தெடுத்தல் அல்லது கையில் எடுத்தல்.",
+      "modern_equivalent": "எடுத்தார்",
+      "english_word": "took",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "அதைப்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "தேவன் ஆசீர்வதித்து பரிசுத்தமாக்கிய ஏழாம் நாளைக் குறிக்கிறது.",
+      "modern_equivalent": "அதை",
+      "english_word": "it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "பலிபீடத்தின்மேல்",
+      "pos": "noun",
+      "canonical": "பலிபீடம்",
+      "definition_ta": "பலியிடுவதற்காக பிரத்யேகமாக அமைக்கப்படும் மேடை அல்லது அமைப்பு.",
+      "modern_equivalent": "பலிபீடத்தின் மேல்",
+      "english_word": "on the altar",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "ஞாபகக்குறியாகத்",
+      "pos": "adverb",
+      "canonical": "ஞாபகம்",
+      "definition_ta": "நினைவூட்டல் அல்லது நினைவுபடுத்துவதற்காகச் செய்யும் செயல்.",
+      "modern_equivalent": "நினைவூட்டலாக",
+      "english_word": "as a memorial",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "தகனிக்கக்கடவன்;",
+      "pos": "verb",
+      "canonical": "தகனிக்க",
+      "definition_ta": "நெருப்பில் எரிக்க வேண்டும் அல்லது எரிக்கப்பட வேண்டும் என்று கட்டளையிடுதல்.",
+      "modern_equivalent": "எரிக்க வேண்டும்",
+      "english_word": "shall burn",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 2,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 2,
+      "word": "கர்த்தருக்குச்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "சுகந்த",
+      "pos": "adjective",
+      "canonical": "சுகந்த",
+      "definition_ta": "நல்ல அல்லது இனிமையான வாசனை கொண்ட; நறுமணமுள்ள.",
+      "modern_equivalent": "நல்ல",
+      "english_word": "pleasant",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "வாசனையான",
+      "pos": "adjective",
+      "canonical": "வாசம்",
+      "definition_ta": "ஒரு பொருளில் இருந்து வெளிப்படும் நறுமணம் அல்லது வாசனை.",
+      "modern_equivalent": "நறுமணம்",
+      "english_word": "sweet-smelling",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 2,
+      "word": "தகனபலி.",
+      "pos": "noun",
+      "canonical": "தகனபலி",
+      "definition_ta": "தேவனுக்காக நெருப்பில் எரித்துச் செலுத்தப்படும் காணிக்கை.",
+      "modern_equivalent": "எரிப்பு காணிக்கை",
+      "english_word": "burnt offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "அந்தப்",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட அந்தப் பேழையைக் குறிக்கும் சுட்டுச்சொல்.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 3,
+      "word": "போஜனபலியில்",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் ஒரு வகை தியாக பலி.",
+      "modern_equivalent": "சமய பலி",
+      "english_word": "grain offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "மீதியாயிருப்பது",
+      "pos": "verb",
+      "canonical": "மீதி",
+      "definition_ta": "பயன்படுத்தப்படாமல் எஞ்சியிருக்கும் பொருள்.",
+      "modern_equivalent": "எஞ்சியிருப்பது",
+      "english_word": "remain",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "ஆரோனையும்",
+      "pos": "noun",
+      "canonical": "ஆரோன்",
+      "definition_ta": "மோசேவின் சகோதரனும் இஸ்ரவேல் மக்களின் முதல் ஆசாரியனும்.",
+      "modern_equivalent": "ஆரோன்",
+      "english_word": "Aaron",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "குமாரரையும்",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "குமாரன்: ஒருவருடைய மகன் அல்லது ஆண் வாரிசு.",
+      "modern_equivalent": "ஆண் பிள்ளைகள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "சேரும்;",
+      "pos": "verb",
+      "canonical": "சேர்",
+      "definition_ta": "ஒருவருடன் இணைந்து அல்லது ஒருவருடன் உடலுறவு கொள்ளுதல்.",
+      "modern_equivalent": "சேரும்",
+      "english_word": "have intercourse",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "கர்த்தருக்கு",
+      "pos": "pronoun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவராக அல்லது தேவனாக வணங்கப்படும் பரமப்பிரான்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "இடும்",
+      "pos": "verb",
+      "canonical": "இடு",
+      "definition_ta": "ஒரு சட்டத்தையோ அல்லது விதியையோ அதிகாரப்பூர்வமாக அறிவிப்பதைக் குறிக்கும்.",
+      "modern_equivalent": "அறிவிக்கும்",
+      "english_word": "proclaim",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "தகனபலிகளில்",
+      "pos": "noun",
+      "canonical": "தகனபலி",
+      "definition_ta": "ஆலயத்தில் பலிபீடத்தின் மேல் எரிக்கப்படும் தியாக பலி.",
+      "modern_equivalent": "எரிப்பு பலி",
+      "english_word": "burnt offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 3,
+      "word": "இது",
+      "pos": "pronoun",
+      "canonical": "இது",
+      "definition_ta": "நெருக்கமான அல்லது குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "இது",
+      "english_word": "this",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "மகா",
+      "pos": "adjective",
+      "canonical": "மகா",
+      "definition_ta": "மிகப்பெரிய அல்லது அளவிட முடியாத",
+      "modern_equivalent": "பெரிய",
+      "english_word": "great",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 3,
+      "word": "பரிசுத்தமானது.",
+      "pos": "adjective",
+      "canonical": "பரிசுத்தம்",
+      "definition_ta": "பாவமில்லாத அல்லது தேவனுக்கு அர்ப்பணிக்கப்பட்ட தூய்மையான நிலை.",
+      "modern_equivalent": "தூய்மையான",
+      "english_word": "holy",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "நீ",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "தேவன் ஆதாமுக்கு உரையாடும்போது அவனைக் குறிக்கப் பயன்படுத்திய இரண்டாம் நபர் ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "நீ",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "படைப்பது",
+      "pos": "verb",
+      "canonical": "படை",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிப்பது",
+      "english_word": "prepared",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "அடுப்பில்",
+      "pos": "noun",
+      "canonical": "அடுப்பு",
+      "definition_ta": "சமைப்பதற்காக நெருப்பு எரியும் தளம் அல்லது கருவி.",
+      "modern_equivalent": "சமையக்கல",
+      "english_word": "stove",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "பாகம்பண்ணப்பட்ட",
+      "pos": "adjective",
+      "canonical": "பாகம்பண்ணு",
+      "definition_ta": "ஒரு பொருளைச் சிறு சிறு துண்டுகளாக உடைத்தல் அல்லது சிதைத்தல்.",
+      "modern_equivalent": "உடைக்கப்பட்ட",
+      "english_word": "broken",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "போஜனபலியானால்,",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்காக அல்லது ஒரு சடங்கிற்காக சமர்ப்பிக்கப்படும் உணவுப் பொருள்.",
+      "modern_equivalent": "உணவபலி",
+      "english_word": "food offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 4,
+      "word": "எண்ணெயிலே",
+      "pos": "particle",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "எண்ணெய் என்ற பொருளில் வரும் இடைச்சொல்.",
+      "modern_equivalent": "எண்ணெயுடன்",
+      "english_word": "with oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "பிசைந்த",
+      "pos": "verb",
+      "canonical": "பிசி",
+      "definition_ta": "கையில் அல்லது இயந்திரத்தால் அழுத்தி அரைத்தல்.",
+      "modern_equivalent": "அரைக்கப்பட்ட",
+      "english_word": "kneaded",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "மெல்லிய",
+      "pos": "adjective",
+      "canonical": "மெல்லிய",
+      "definition_ta": "அளவு அல்லது தடிமன் குறைந்த பண்பு.",
+      "modern_equivalent": "மெல்லிய",
+      "english_word": "fine",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "மாவினால்",
+      "pos": "noun",
+      "canonical": "மா",
+      "definition_ta": "ஒரு வகை தானியப்பொருள் அல்லது மாவு.",
+      "modern_equivalent": "மாவு",
+      "english_word": "flour",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "செய்த",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "தேவன் உலகைப் படைக்கும் பணியைச் செய்ததைக் குறிக்கிறது.",
+      "modern_equivalent": "செய்த",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "புளிப்பில்லா",
+      "pos": "adjective",
+      "canonical": "புளிப்பு",
+      "definition_ta": "புளிப்பு இல்லாத அல்லது கெட்டுப்போகாத நிலை.",
+      "modern_equivalent": "புளிப்பில்லாத",
+      "english_word": "unleavened",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "அதிரசங்களாயாவது,",
+      "pos": "noun",
+      "canonical": "அதிரசம்",
+      "definition_ta": "சர்க்கரை மற்றும் மாவில் செய்யப்பட்டு பொரிக்கப்படும் ஒரு வகை இனிப்பு உணவு.",
+      "modern_equivalent": "அதிரசம்",
+      "english_word": "sweet cakes",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "எண்ணெய்",
+      "pos": "noun",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "தாவரங்கள் அல்லது விலங்குகளிலிருந்து எடுக்கப்படும் வழுவழுப்பான திரவம்.",
+      "modern_equivalent": "எண்ணெய்",
+      "english_word": "oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "பூசப்பட்ட",
+      "pos": "verb",
+      "canonical": "பூசு",
+      "definition_ta": "ஒரு பொருளின் மேல் மற்றொரு பொருளைத் தடவுதல்.",
+      "modern_equivalent": "பூசப்பட்ட",
+      "english_word": "spread",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "புளிப்பில்லா",
+      "pos": "adjective",
+      "canonical": "புளிப்பு",
+      "definition_ta": "புளிப்பு இல்லாத அல்லது கெட்டுப்போகாத நிலை.",
+      "modern_equivalent": "புளிப்பில்லாத",
+      "english_word": "unleavened",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 4,
+      "word": "அடைகளாயாவது",
+      "pos": "noun",
+      "canonical": "அடை",
+      "definition_ta": "அரிசி மாவினால் செய்யப்பட்டு தட்டையான வடிவில் உள்ள உணவு.",
+      "modern_equivalent": "அப்பளம் அல்லது தோசை",
+      "english_word": "cakes",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 4,
+      "word": "இருப்பதாக.",
+      "pos": "verb",
+      "canonical": "இரு",
+      "definition_ta": "இருக்க வேண்டும் அல்லது இருப்பதாய் என்று பொருள்படும் வினையெச்சம்.",
+      "modern_equivalent": "இருக்கட்டும்",
+      "english_word": "be",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "நீ",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "தேவன் ஆதாமுக்கு உரையாடும்போது அவனைக் குறிக்கப் பயன்படுத்திய இரண்டாம் நபர் ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "நீ",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "படைப்பது",
+      "pos": "verb",
+      "canonical": "படை",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிப்பது",
+      "english_word": "prepared",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "தட்டையான",
+      "pos": "adjective",
+      "canonical": "தட்டையான",
+      "definition_ta": "மேற்பரப்பு சமமாக அல்லது தட்டையாக உள்ள.",
+      "modern_equivalent": "தட்டையான",
+      "english_word": "flat",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "சட்டியில்",
+      "pos": "noun",
+      "canonical": "சட்டி",
+      "definition_ta": "உணவு சமைக்க அல்லது வைக்கப் பயன்படும் ஒரு வகை பாத்திரம்.",
+      "modern_equivalent": "பாத்திரம்",
+      "english_word": "pot",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 5,
+      "word": "பாகம்பண்ணப்பட்ட",
+      "pos": "adjective",
+      "canonical": "பாகம்பண்ணு",
+      "definition_ta": "ஒரு பொருளைச் சிறு சிறு துண்டுகளாக உடைத்தல் அல்லது சிதைத்தல்.",
+      "modern_equivalent": "உடைக்கப்பட்ட",
+      "english_word": "broken",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "போஜனபலியானால்,",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்காக அல்லது ஒரு சடங்கிற்காக சமர்ப்பிக்கப்படும் உணவுப் பொருள்.",
+      "modern_equivalent": "உணவபலி",
+      "english_word": "food offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 5,
+      "word": "எண்ணெயிலே",
+      "pos": "particle",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "எண்ணெய் என்ற பொருளில் வரும் இடைச்சொல்.",
+      "modern_equivalent": "எண்ணெயுடன்",
+      "english_word": "with oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "பிசைந்த",
+      "pos": "verb",
+      "canonical": "பிசி",
+      "definition_ta": "கையில் அல்லது இயந்திரத்தால் அழுத்தி அரைத்தல்.",
+      "modern_equivalent": "அரைக்கப்பட்ட",
+      "english_word": "kneaded",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "புளிப்பில்லா",
+      "pos": "adjective",
+      "canonical": "புளிப்பு",
+      "definition_ta": "புளிப்பு இல்லாத அல்லது கெட்டுப்போகாத நிலை.",
+      "modern_equivalent": "புளிப்பில்லாத",
+      "english_word": "unleavened",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "மெல்லிய",
+      "pos": "adjective",
+      "canonical": "மெல்லிய",
+      "definition_ta": "அளவு அல்லது தடிமன் குறைந்த பண்பு.",
+      "modern_equivalent": "மெல்லிய",
+      "english_word": "fine",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "மாவினால்",
+      "pos": "noun",
+      "canonical": "மா",
+      "definition_ta": "ஒரு வகை தானியப்பொருள் அல்லது மாவு.",
+      "modern_equivalent": "மாவு",
+      "english_word": "flour",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 5,
+      "word": "செய்யப்பட்டதாயிருப்பதாக.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலை அல்லது ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிக்கப்பட வேண்டும்",
+      "english_word": "be made",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "அதைத்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "தோட்டத்தில் உள்ள அந்த விருட்சத்தின் கனியை மட்டும் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அதை",
+      "english_word": "it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "துண்டுதுண்டாகப்",
+      "pos": "adverb",
+      "canonical": "துண்டுதுண்டாக",
+      "definition_ta": "ஒரு பொருளைப் பல சிறிய பகுதிகளாகப் பிரிக்கும் வினையடை.",
+      "modern_equivalent": "துண்டுகளாக",
+      "english_word": "into pieces",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "பிட்டு,",
+      "pos": "verb",
+      "canonical": "பிடு",
+      "definition_ta": "ஒரு பொருளைக் கைகளால் பிடித்துப் பிரிக்கும் அல்லது கிழிக்கும் செயல்.",
+      "modern_equivalent": "பிடு",
+      "english_word": "tear",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 6,
+      "word": "அதின்மேல்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னர் குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அதின்மேல்",
+      "english_word": "on it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "எண்ணெய்",
+      "pos": "noun",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "தாவரங்கள் அல்லது விலங்குகளிலிருந்து எடுக்கப்படும் வழுவழுப்பான திரவம்.",
+      "modern_equivalent": "எண்ணெய்",
+      "english_word": "oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "வார்ப்பாயாக;",
+      "pos": "verb",
+      "canonical": "வாரு",
+      "definition_ta": "தண்ணீரை ஊற்றுதல் அல்லது வார்ப்பது.",
+      "modern_equivalent": "ஊற்று",
+      "english_word": "pour",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "இது",
+      "pos": "pronoun",
+      "canonical": "இது",
+      "definition_ta": "நெருக்கமான அல்லது குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "இது",
+      "english_word": "this",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 6,
+      "word": "போஜனபலி.",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு அல்லது ஒரு சடங்கில் உண்ணுவதற்காகியதாக அர்ப்பணிக்கப்படும் பலி.",
+      "modern_equivalent": "உண்ணுவதற்கான பலி",
+      "english_word": "food offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "நீ",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "தேவன் ஆதாமுக்கு உரையாடும்போது அவனைக் குறிக்கப் பயன்படுத்திய இரண்டாம் நபர் ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "நீ",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "படைப்பது",
+      "pos": "verb",
+      "canonical": "படை",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிப்பது",
+      "english_word": "prepared",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "பொரிக்குஞ்சட்டியில்",
+      "pos": "noun",
+      "canonical": "பொரிக்குஞ்சட்டி",
+      "definition_ta": "பொரிப்பதற்குப் பயன்படும் ஒரு வகை சட்டி அல்லது பாத்திரம்.",
+      "modern_equivalent": "பொரிக்கும் பாத்திரம்",
+      "english_word": "frying pan",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 7,
+      "word": "பாகம்பண்ணப்பட்ட",
+      "pos": "adjective",
+      "canonical": "பாகம்பண்ணு",
+      "definition_ta": "ஒரு பொருளைச் சிறு சிறு துண்டுகளாக உடைத்தல் அல்லது சிதைத்தல்.",
+      "modern_equivalent": "உடைக்கப்பட்ட",
+      "english_word": "broken",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "போஜனபலியானால்,",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்காக அல்லது ஒரு சடங்கிற்காக சமர்ப்பிக்கப்படும் உணவுப் பொருள்.",
+      "modern_equivalent": "உணவபலி",
+      "english_word": "food offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 7,
+      "word": "எண்ணெயிலே",
+      "pos": "particle",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "எண்ணெய் என்ற பொருளில் வரும் இடைச்சொல்.",
+      "modern_equivalent": "எண்ணெயுடன்",
+      "english_word": "with oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "பிசைந்த",
+      "pos": "verb",
+      "canonical": "பிசி",
+      "definition_ta": "கையில் அல்லது இயந்திரத்தால் அழுத்தி அரைத்தல்.",
+      "modern_equivalent": "அரைக்கப்பட்ட",
+      "english_word": "kneaded",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "மெல்லிய",
+      "pos": "adjective",
+      "canonical": "மெல்லிய",
+      "definition_ta": "அளவு அல்லது தடிமன் குறைந்த பண்பு.",
+      "modern_equivalent": "மெல்லிய",
+      "english_word": "fine",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "மாவினால்",
+      "pos": "noun",
+      "canonical": "மா",
+      "definition_ta": "ஒரு வகை தானியப்பொருள் அல்லது மாவு.",
+      "modern_equivalent": "மாவு",
+      "english_word": "flour",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 7,
+      "word": "செய்யப்படுவதாக.",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிக்கப்படும்",
+      "english_word": "be made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "இப்படிச்",
+      "pos": "adverb",
+      "canonical": "இப்படி",
+      "definition_ta": "ஒரு செயல் அல்லது சூழ்நிலையை விவரிக்கும் விதத்தில் நடந்த நிகழ்வைக் குறிக்கிறது.",
+      "modern_equivalent": "இப்படி",
+      "english_word": "thus",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "செய்யப்பட்ட",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிக்கப்பட்ட",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "போஜனபலியைக்",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் ஒரு வகை தியாக பலி.",
+      "modern_equivalent": "உணவு பலி",
+      "english_word": "food offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "கர்த்தருக்குச்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "செலுத்துவாயாக;",
+      "pos": "verb",
+      "canonical": "செலுத்து",
+      "definition_ta": "ஒரு பொருளை அல்லது பலியை அர்ப்பணித்தல் அல்லது கொடுத்தல்.",
+      "modern_equivalent": "கொடு",
+      "english_word": "offer",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "அது",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட ஆகாயவிரிவைக் குறிக்கும் பிரதிப் பெயர்.",
+      "modern_equivalent": "அது",
+      "english_word": "it",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 8,
+      "word": "ஆசாரியனிடத்தில்",
+      "pos": "noun",
+      "canonical": "ஆசாரியன்",
+      "definition_ta": "தேவனுடைய ஆலயத்தில் தேவனுடைய கிரியைகளைச் செய்யும் ஒரு ஊழியக்காரன்.",
+      "modern_equivalent": "பூசாரியன்",
+      "english_word": "priest",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "கொண்டுவரப்படும்போது,",
+      "pos": "verb",
+      "canonical": "கொண்டுவா",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு எடுத்துச் செல்லுதல்.",
+      "modern_equivalent": "எடுத்துக்கொண்டு வரும்போது",
+      "english_word": "when it is brought",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 8,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "அதைப்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "தேவன் ஆசீர்வதித்து பரிசுத்தமாக்கிய ஏழாம் நாளைக் குறிக்கிறது.",
+      "modern_equivalent": "அதை",
+      "english_word": "it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "பலிபீடத்தண்டையில்",
+      "pos": "noun",
+      "canonical": "பலிபீடத்தண்டை",
+      "definition_ta": "பலியிடும்போது பயன்படுத்தப்படும் ஒரு உலோகத்தண்டை.",
+      "modern_equivalent": "பலிபீடத்தண்டை",
+      "english_word": "the altar's horn",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 8,
+      "word": "கொண்டுவந்து,",
+      "pos": "verb",
+      "canonical": "வா",
+      "definition_ta": "ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு அழைத்து வருதல்.",
+      "modern_equivalent": "அழைத்துக்கொண்டு வந்தார்",
+      "english_word": "brought",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "அந்தப்",
+      "pos": "adjective",
+      "canonical": "அந்த",
+      "definition_ta": "குறிப்பிட்ட அந்தப் பேழையைக் குறிக்கும் சுட்டுச்சொல்.",
+      "modern_equivalent": "அந்த",
+      "english_word": "that",
+      "source": "db_disambiguated"
+    },
+    {
+      "verse": 9,
+      "word": "போஜனபலியிலிருந்து",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "உணவுக்காக அர்ப்பணிக்கப்படும் பலி.",
+      "modern_equivalent": "உணவுக்காகக் கொடுக்கப்படும் பலி",
+      "english_word": "food offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 9,
+      "word": "ஆசாரியன்",
+      "pos": "noun",
+      "canonical": "ஆசாரியன்",
+      "definition_ta": "தேவனுடைய ஆலயத்தில் ஆராதனை செய்யும் கடமையை மேற்கொள்பவன்.",
+      "modern_equivalent": "ஆசாரியன்",
+      "english_word": "priest",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஞாபகக்குறியாக",
+      "pos": "adverb",
+      "canonical": "ஞாபகம்",
+      "definition_ta": "ஒரு விஷயத்தை நினைவில் வைத்திருத்தல் அல்லது நினைவுபடுத்துதல்.",
+      "modern_equivalent": "நினைவூட்டலாக",
+      "english_word": "as a memorial",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "பங்கை",
+      "pos": "noun",
+      "canonical": "பங்கு",
+      "definition_ta": "ஒருவருக்கு உரியதாக ஒதுக்கப்பட்ட ஒரு பகுதி அல்லது உரிமை.",
+      "modern_equivalent": "பங்கு",
+      "english_word": "portion",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "எடுத்துப்",
+      "pos": "verb",
+      "canonical": "எடு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து வேறொரு இடத்திற்கு நகர்த்துதல் அல்லது கைப்பற்றுதல்.",
+      "modern_equivalent": "எடுத்து",
+      "english_word": "take",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "பலிபீடத்தின்மேல்",
+      "pos": "noun",
+      "canonical": "பலிபீடம்",
+      "definition_ta": "பலியிடுவதற்காக பிரத்யேகமாக அமைக்கப்படும் மேடை அல்லது அமைப்பு.",
+      "modern_equivalent": "பலிபீடத்தின் மேல்",
+      "english_word": "on the altar",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "தகனிக்கக்கடவன்;",
+      "pos": "verb",
+      "canonical": "தகனிக்க",
+      "definition_ta": "நெருப்பில் எரிக்க வேண்டும் அல்லது எரிக்கப்பட வேண்டும் என்று கட்டளையிடுதல்.",
+      "modern_equivalent": "எரிக்க வேண்டும்",
+      "english_word": "shall burn",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "இது",
+      "pos": "pronoun",
+      "canonical": "இது",
+      "definition_ta": "நெருக்கமான அல்லது குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "இது",
+      "english_word": "this",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "கர்த்தருக்குச்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "சுகந்த",
+      "pos": "adjective",
+      "canonical": "சுகந்த",
+      "definition_ta": "நல்ல அல்லது இனிமையான வாசனை கொண்ட; நறுமணமுள்ள.",
+      "modern_equivalent": "நல்ல",
+      "english_word": "pleasant",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "வாசனையான",
+      "pos": "adjective",
+      "canonical": "வாசம்",
+      "definition_ta": "ஒரு பொருளில் இருந்து வெளிப்படும் நறுமணம் அல்லது வாசனை.",
+      "modern_equivalent": "நறுமணம்",
+      "english_word": "sweet-smelling",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 9,
+      "word": "தகனபலி.",
+      "pos": "noun",
+      "canonical": "தகனபலி",
+      "definition_ta": "தேவனுக்காக நெருப்பில் எரித்துச் செலுத்தப்படும் காணிக்கை.",
+      "modern_equivalent": "எரிப்பு காணிக்கை",
+      "english_word": "burnt offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "இந்தப்",
+      "pos": "adjective",
+      "canonical": "இந்த",
+      "definition_ta": "தற்போது பேசிக்கொண்டிருக்கும் அல்லது அருகிலுள்ள நிலத்தைக் குறிக்கும் சுட்டுச்சொல்.",
+      "modern_equivalent": "இந்த",
+      "english_word": "this",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "போஜனபலியில்",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் ஒரு வகை தியாக பலி.",
+      "modern_equivalent": "சமய பலி",
+      "english_word": "grain offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "மீதியானது",
+      "pos": "noun",
+      "canonical": "மீதி",
+      "definition_ta": "எஞ்சியிருப்பது அல்லது எஞ்சிய பொருள்.",
+      "modern_equivalent": "எஞ்சியもの",
+      "english_word": "remainder",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "ஆரோனையும்",
+      "pos": "noun",
+      "canonical": "ஆரோன்",
+      "definition_ta": "மோசேவின் சகோதரனும் இஸ்ரவேல் மக்களின் முதல் ஆசாரியனும்.",
+      "modern_equivalent": "ஆரோன்",
+      "english_word": "Aaron",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "அவன்",
+      "pos": "pronoun",
+      "canonical": "அவன்",
+      "definition_ta": "ஒரு ஆண் நபரை அல்லது ஒரு தெய்வத்தைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவன்",
+      "english_word": "he",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "குமாரரையும்",
+      "pos": "noun",
+      "canonical": "குமாரன்",
+      "definition_ta": "குமாரன்: ஒருவருடைய மகன் அல்லது ஆண் வாரிசு.",
+      "modern_equivalent": "ஆண் பிள்ளைகள்",
+      "english_word": "sons",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "சேரும்;",
+      "pos": "verb",
+      "canonical": "சேர்",
+      "definition_ta": "ஒருவருடன் இணைந்து அல்லது ஒருவருடன் உடலுறவு கொள்ளுதல்.",
+      "modern_equivalent": "சேரும்",
+      "english_word": "have intercourse",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "கர்த்தருக்கு",
+      "pos": "pronoun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவராக அல்லது தேவனாக வணங்கப்படும் பரமப்பிரான்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "இடும்",
+      "pos": "verb",
+      "canonical": "இடு",
+      "definition_ta": "ஒரு சட்டத்தையோ அல்லது விதியையோ அதிகாரப்பூர்வமாக அறிவிப்பதைக் குறிக்கும்.",
+      "modern_equivalent": "அறிவிக்கும்",
+      "english_word": "proclaim",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "தகனங்களில்",
+      "pos": "noun",
+      "canonical": "தகனம்",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் ஒரு வகை பலி அல்லது எரிபொருள்.",
+      "modern_equivalent": "பலி, எரிபொருள்",
+      "english_word": "burnt offerings",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 10,
+      "word": "இது",
+      "pos": "pronoun",
+      "canonical": "இது",
+      "definition_ta": "நெருக்கமான அல்லது குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "இது",
+      "english_word": "this",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "மகா",
+      "pos": "adjective",
+      "canonical": "மகா",
+      "definition_ta": "மிகப்பெரிய அல்லது அளவிட முடியாத",
+      "modern_equivalent": "பெரிய",
+      "english_word": "great",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 10,
+      "word": "பரிசுத்தமானது.",
+      "pos": "adjective",
+      "canonical": "பரிசுத்தம்",
+      "definition_ta": "பாவமில்லாத அல்லது தேவனுக்கு அர்ப்பணிக்கப்பட்ட தூய்மையான நிலை.",
+      "modern_equivalent": "தூய்மையான",
+      "english_word": "holy",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "நீங்கள்",
+      "pos": "pronoun",
+      "canonical": "நீங்கள்",
+      "definition_ta": "தேவன் ஆசீர்வதிக்கும் மனிதர்களைக் குறிக்கும் இரண்டாம் நபர் பன்மை பிரதிபெயர்.",
+      "modern_equivalent": "நீங்கள்",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "கர்த்தருக்குச்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "செலுத்தும்",
+      "pos": "verb",
+      "canonical": "செலுத்து",
+      "definition_ta": "ஒருவருக்கு அல்லது ஒருவருக்குக்காக ஒரு பொருளை வழங்குதல்.",
+      "modern_equivalent": "அர்ப்பணி",
+      "english_word": "offered",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "எந்த",
+      "pos": "adjective",
+      "canonical": "எந்த",
+      "definition_ta": "எந்தவொரு அல்லது எந்த ஒரு குறிப்பிட்ட பொருளைக் குறிக்கும் சொல்.",
+      "modern_equivalent": "எந்த",
+      "english_word": "any",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "போஜனபலியும்",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் உணவு சார்ந்த பலி.",
+      "modern_equivalent": "உணவ்பலி",
+      "english_word": "food offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "புளித்தமாவினால்",
+      "pos": "particle",
+      "canonical": "புளித்தமாவு",
+      "definition_ta": "புளிந்து போன மாவு அல்லது மாவு.",
+      "modern_equivalent": "புளித்த மாவு",
+      "english_word": "leavened",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "செய்யப்படாதிருப்பதாக;",
+      "pos": "verb",
+      "canonical": "செய்",
+      "definition_ta": "ஒரு செயலைச் செய்து நிறைவேற்றுதல்.",
+      "modern_equivalent": "செய்யப்பட",
+      "english_word": "be made",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "புளித்தமாவுள்ளதொன்றையும்",
+      "pos": "noun",
+      "canonical": "புளித்தமாவுள்ளதொன்று",
+      "definition_ta": "புளித்த மாவு கலந்த உணவு அல்லது பொருள்.",
+      "modern_equivalent": "புளித்த மாவுள்ள பொருள்",
+      "english_word": "anything leavened",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "தேனுள்ளதொன்றையும்",
+      "pos": "noun",
+      "canonical": "தேனுள்ளதொன்று",
+      "definition_ta": "தேன் கலந்த உணவு அல்லது பொருள்.",
+      "modern_equivalent": "தேனுள்ள பொருள்",
+      "english_word": "anything with honey",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 11,
+      "word": "கர்த்தருக்குத்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவராக அல்லது இறைவனாக வணங்கப்படும் தேவன்.",
+      "modern_equivalent": "ஆண்டவர்",
+      "english_word": "Lord",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "தகனபலியாகத்",
+      "pos": "adjective",
+      "canonical": "தகனபலி",
+      "definition_ta": "நெருப்பில் எரிக்கப்படும் ஒரு வகை காணிக்கை அல்லது பலி.",
+      "modern_equivalent": "தகனபலியாக",
+      "english_word": "burnt offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 11,
+      "word": "தகனிக்கவேண்டாம்.",
+      "pos": "verb",
+      "canonical": "தகனிக்க",
+      "definition_ta": "நெருப்பில் எரிக்க அல்லது பலியாக ஒப்புக்கொடுக்க.",
+      "modern_equivalent": "தகனிக்க வேண்டாம்",
+      "english_word": "be burned",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 12,
+      "word": "முதற்கனிகளைக்",
+      "pos": "noun",
+      "canonical": "முதற்கனி",
+      "definition_ta": "ஒரு பயிரின் அல்லது மரத்தின் முதல் அறுவடை அல்லது முதல் fruto.",
+      "modern_equivalent": "முதல் கனி",
+      "english_word": "firstfruits",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 12,
+      "word": "காணிக்கையாகக்கொண்டுவந்து,",
+      "pos": "verb",
+      "canonical": "காணிக்கை",
+      "definition_ta": "தேவனுடைய ஆலயத்திற்காகவோ அல்லது தேவனுடைய ஊழியத்திற்காகவோ கொடுக்கப்படும் காணிக்கை.",
+      "modern_equivalent": "காணிக்கையாகக் கொண்டுவந்து",
+      "english_word": "bring as an offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 12,
+      "word": "அவைகளைக்",
+      "pos": "pronoun",
+      "canonical": "அவை",
+      "definition_ta": "அவை என்பது முன்னதாகக் குறிப்பிடப்பட்ட பொருட்களைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவற்றை",
+      "english_word": "them",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "கர்த்தருக்குச்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "செலுத்தலாம்;",
+      "pos": "verb",
+      "canonical": "செலுத்து",
+      "definition_ta": "ஒரு பொருளை அல்லது தொகையை உரியவருக்குக் கொடுப்பது அல்லது செலுத்துவது.",
+      "modern_equivalent": "செலுத்தலாம்",
+      "english_word": "present",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 12,
+      "word": "ஆனாலும்,",
+      "pos": "adverb",
+      "canonical": "ஆனாலும்",
+      "definition_ta": "முந்தைய செய்தியைத் தொடர்ந்து ஒரு முரண்பாடான அல்லது கூடுதல் செய்தியை இணைக்கப் பயன்படும் சொல்.",
+      "modern_equivalent": "இருந்தாலும்",
+      "english_word": "Nevertheless",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "பலிபீடத்தின்மேல்",
+      "pos": "noun",
+      "canonical": "பலிபீடம்",
+      "definition_ta": "பலியிடுவதற்காக பிரத்யேகமாக அமைக்கப்படும் மேடை அல்லது அமைப்பு.",
+      "modern_equivalent": "பலிபீடத்தின் மேல்",
+      "english_word": "on the altar",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "அவைகள்",
+      "pos": "pronoun",
+      "canonical": "அவை",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட வானத்தில் உள்ள சுடர்களைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அவை",
+      "english_word": "they",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "சுகந்த",
+      "pos": "adjective",
+      "canonical": "சுகந்த",
+      "definition_ta": "நல்ல அல்லது இனிமையான வாசனை கொண்ட; நறுமணமுள்ள.",
+      "modern_equivalent": "நல்ல",
+      "english_word": "pleasant",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "வாசனையாகத்",
+      "pos": "adverb",
+      "canonical": "வாசனையாக",
+      "definition_ta": "ஒரு பொருளின் நறுமணத்தையோ அல்லது மணத்தையோ குறிக்கும் வினையடை.",
+      "modern_equivalent": "வாசனை தரும் விதமாக",
+      "english_word": "as a sweet-smelling",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 12,
+      "word": "தகனிக்கப்படலாகாது.",
+      "pos": "verb",
+      "canonical": "தகனிக்க",
+      "definition_ta": "நெருப்பில் எரிக்கப்படுவதைக் குறிக்கும் வினை.",
+      "modern_equivalent": "எரிக்கப்படக்கூடாது",
+      "english_word": "be burned",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "நீ",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "தேவன் ஆதாமுக்கு உரையாடும்போது அவனைக் குறிக்கப் பயன்படுத்திய இரண்டாம் நபர் ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "நீ",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "படைக்கிற",
+      "pos": "verb",
+      "canonical": "படை",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது ஒரு செயலைச் செய்தல்.",
+      "modern_equivalent": "உருவாக்கும்",
+      "english_word": "made",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "எந்த",
+      "pos": "adjective",
+      "canonical": "எந்த",
+      "definition_ta": "எந்தவொரு அல்லது எந்த ஒரு குறிப்பிட்ட பொருளைக் குறிக்கும் சொல்.",
+      "modern_equivalent": "எந்த",
+      "english_word": "any",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "போஜனபலியும்",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் உணவு சார்ந்த பலி.",
+      "modern_equivalent": "உணவ்பலி",
+      "english_word": "food offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "உப்பினால்",
+      "pos": "particle",
+      "canonical": "உப்பு",
+      "definition_ta": "உப்பு கொண்டு அல்லது உப்பினால்",
+      "modern_equivalent": "உப்பால்",
+      "english_word": "with salt",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "சாரமாக்கப்படுவதாக;",
+      "pos": "verb",
+      "canonical": "சாரமாக்கு",
+      "definition_ta": "ஒரு பொருளை மற்றொரு பொருளுடன் கலந்து அல்லது சேர்த்து வைப்பது",
+      "modern_equivalent": "சேர்க்கப்பட",
+      "english_word": "seasoned",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "உன்",
+      "pos": "pronoun",
+      "canonical": "உன்",
+      "definition_ta": "உன்னுடைய அல்லது உன்னுடைய சொந்தமான என்பதைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "உன்னுடைய",
+      "english_word": "your",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "தேவனுடைய",
+      "pos": "noun",
+      "canonical": "தேவன்",
+      "definition_ta": "இந்த உலகைப் படைத்து ஆளுகின்ற பரமபொருளைக் குறிக்கும் பெயர்.",
+      "modern_equivalent": "கடவுள்",
+      "english_word": "God",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "உடன்படிக்கையின்",
+      "pos": "noun",
+      "canonical": "உடன்படிக்கை",
+      "definition_ta": "இரு தரப்பினரிடையே ஏற்படும் ஒரு ஒப்பந்தம் அல்லது ஒரு உடன்படிக்கை.",
+      "modern_equivalent": "ஒப்பந்தம்",
+      "english_word": "covenant",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "உப்பை",
+      "pos": "noun",
+      "canonical": "உப்பு",
+      "definition_ta": "மண்ணிலிருந்து எடுக்கப்படும் ஒரு வகை உப்பு அல்லது உப்பு பொருள்",
+      "modern_equivalent": "உப்பு",
+      "english_word": "salt",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "உன்",
+      "pos": "pronoun",
+      "canonical": "உன்",
+      "definition_ta": "உன்னுடைய அல்லது உன்னுடைய சொந்தமான என்பதைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "உன்னுடைய",
+      "english_word": "your",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "போஜனபலியிலே",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் உணவு சார்ந்த பலி",
+      "modern_equivalent": "உணவ்பலி",
+      "english_word": "food sacrifice",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "குறையவிடாமல்,",
+      "pos": "verb",
+      "canonical": "குறை",
+      "definition_ta": "ஒரு பொருளின் அளவை அல்லது அளவை குறைப்பது",
+      "modern_equivalent": "குறைக்காமல்",
+      "english_word": "let it not be lacking",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "நீ",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "தேவன் ஆதாமுக்கு உரையாடும்போது அவனைக் குறிக்கப் பயன்படுத்திய இரண்டாம் நபர் ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "நீ",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "படைப்பது",
+      "pos": "verb",
+      "canonical": "படை",
+      "definition_ta": "ஒரு பொருளை உருவாக்குதல் அல்லது தயாரித்தல்.",
+      "modern_equivalent": "தயாரிப்பது",
+      "english_word": "prepared",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "எல்லாவற்றோடும்",
+      "pos": "particle",
+      "canonical": "ஓடு",
+      "definition_ta": "கூடுமான அல்லது உடன் என்பதைக் குறிக்கும் இடைச்சொல்.",
+      "modern_equivalent": "உடன்",
+      "english_word": "with",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 13,
+      "word": "உப்பையும்",
+      "pos": "noun",
+      "canonical": "உப்பு",
+      "definition_ta": "மண்ணிலிருந்து எடுக்கப்படும் ஒரு வகை உப்பு அல்லது உப்பு பொருள்",
+      "modern_equivalent": "உப்பு",
+      "english_word": "salt",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 13,
+      "word": "படைப்பாயாக.",
+      "pos": "adverb",
+      "canonical": "படை",
+      "definition_ta": "ஒரு காரியத்தைச் செய்ய அல்லது ஒரு பொருளை வழங்கக் கட்டளையிடும் சொல்.",
+      "modern_equivalent": "படைக்க",
+      "english_word": "provide",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "முதற்பலன்களை",
+      "pos": "noun",
+      "canonical": "முதற்பலன்",
+      "definition_ta": "ஒரு விளைச்சலில் முதலில் அறுவடை செய்யப்படும் பகுதி.",
+      "modern_equivalent": "முதல் பலன்",
+      "english_word": "firstfruits",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "போஜனபலியாக",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் உணவு சார்ந்த பலி.",
+      "modern_equivalent": "உணவ்பலி",
+      "english_word": "food offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "நீ",
+      "pos": "pronoun",
+      "canonical": "நீ",
+      "definition_ta": "தேவன் ஆதாமுக்கு உரையாடும்போது அவனைக் குறிக்கப் பயன்படுத்திய இரண்டாம் நபர் ஒருமைப் பிரதிபெயர்.",
+      "modern_equivalent": "நீ",
+      "english_word": "you",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "கர்த்தருக்குச்",
+      "pos": "noun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவர் அல்லது இறைவனின் அதிகாரப்பூர்வமான பெயர்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "செலுத்தவந்தால்,",
+      "pos": "verb",
+      "canonical": "செலுத்து",
+      "definition_ta": "ஒரு பொருளை அல்லது பலியை அர்ப்பணித்தல் அல்லது செலுத்துதல்.",
+      "modern_equivalent": "செலுத்தினால்",
+      "english_word": "bring",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "நிறைந்த",
+      "pos": "adjective",
+      "canonical": "நிறைந்த",
+      "definition_ta": "முழுமையாக வளர்ந்த அல்லது நிறைவான நிலை.",
+      "modern_equivalent": "முழுமையான",
+      "english_word": "full",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "பச்சையான",
+      "pos": "adjective",
+      "canonical": "பச்சையான",
+      "definition_ta": "முதிர்ச்சியடையாத அல்லது பசுமையான நிலை.",
+      "modern_equivalent": "பசுமையான",
+      "english_word": "green",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "கதிர்களை",
+      "pos": "noun",
+      "canonical": "கதிர்",
+      "definition_ta": "தானியங்கள் முளைத்து வரும்穂 அல்லது கதிர்.",
+      "modern_equivalent": "கதிர்கள்",
+      "english_word": "ears",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "நெருப்பிலே",
+      "pos": "adverb",
+      "canonical": "நெருப்பு",
+      "definition_ta": "நெருப்பு உள்ளே அல்லது நெருப்பில் உள்ள நிலையில்.",
+      "modern_equivalent": "நெருப்பில்",
+      "english_word": "in the fire",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "வாட்டி",
+      "pos": "verb",
+      "canonical": "வாட்டு",
+      "definition_ta": "நெருப்பில் வைத்து சூடுபடுத்துதல் அல்லது சுடுதல்.",
+      "modern_equivalent": "வாட்டி",
+      "english_word": "roast",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "உதிர்த்து,",
+      "pos": "verb",
+      "canonical": "உதிர்த்து",
+      "definition_ta": "ஒரு பொருளைத் தட்டி அல்லது உருட்டி கீழே விழச் செய்தல்.",
+      "modern_equivalent": "உதிர்த்து",
+      "english_word": "throw",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "அதை",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னதாகக் குறிப்பிடப்பட்ட தீமையான விருட்சத்தின் கனியை இது குறிக்கிறது.",
+      "modern_equivalent": "அதை",
+      "english_word": "It",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "உன்",
+      "pos": "pronoun",
+      "canonical": "உன்",
+      "definition_ta": "உன்னுடைய அல்லது உன்னுடைய சொந்தமான என்பதைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "உன்னுடைய",
+      "english_word": "your",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 14,
+      "word": "முதற்பலனின்",
+      "pos": "noun",
+      "canonical": "முதற்பலன்",
+      "definition_ta": "முதல் முறையாக அறுவடை செய்ததில் இருந்து பெறப்படும் முதல் பலன்.",
+      "modern_equivalent": "முதல் பலன்",
+      "english_word": "firstfruits",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "போஜனபலியாகக்",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு சமர்ப்பிக்கப்படும் உணவு சார்ந்த பலி.",
+      "modern_equivalent": "உணவ்பலி",
+      "english_word": "food offering",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 14,
+      "word": "கொண்டுவரக்கடவாய்.",
+      "pos": "verb",
+      "canonical": "கொண்டுவா",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து மற்றொரு இடத்திற்கு எடுத்துச் செல்லுதல்.",
+      "modern_equivalent": "கொண்டுவர வேண்டும்",
+      "english_word": "bring",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 15,
+      "word": "அதின்மேல்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னர் குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அதின்மேல்",
+      "english_word": "on it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "எண்ணெய்",
+      "pos": "noun",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "தாவரங்கள் அல்லது விலங்குகளிலிருந்து எடுக்கப்படும் வழுவழுப்பான திரவம்.",
+      "modern_equivalent": "எண்ணெய்",
+      "english_word": "oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "வார்த்து,",
+      "pos": "verb",
+      "canonical": "வார்த்து",
+      "definition_ta": "ஒரு பொருளின் மீது திரவத்தை ஊற்றுதல் அல்லது பூசுதல்.",
+      "modern_equivalent": "ஊற்றினார்",
+      "english_word": "anointed",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "அதின்மேல்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "முன்னர் குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "அதின்மேல்",
+      "english_word": "on it",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "தூபவர்க்கத்தைப்",
+      "pos": "noun",
+      "canonical": "தூபவர்க்கம்",
+      "definition_ta": "ஆராதனைக்காக எரிக்கப்படும் வாசனை மிகுந்த பொருள்.",
+      "modern_equivalent": "வாசனைப் பொருள்",
+      "english_word": "incense",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 15,
+      "word": "போடுவாயாக;",
+      "pos": "verb",
+      "canonical": "போடு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்தின் மீது வைக்க அல்லது வைக்கச் சொல்லுதல்.",
+      "modern_equivalent": "வை",
+      "english_word": "put",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 15,
+      "word": "இது",
+      "pos": "pronoun",
+      "canonical": "இது",
+      "definition_ta": "நெருக்கமான அல்லது குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "இது",
+      "english_word": "this",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "ஒரு",
+      "pos": "numeral",
+      "canonical": "ஒன்று",
+      "definition_ta": "தேவன் உருவாக்கிய தோட்டத்தின் எண்ணிக்கையைக் குறிக்கிறது.",
+      "modern_equivalent": "ஒரு",
+      "english_word": "a",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 15,
+      "word": "போஜனபலி.",
+      "pos": "noun",
+      "canonical": "போஜனபலி",
+      "definition_ta": "தேவனுக்கு அல்லது ஒரு சடங்கில் உண்ணுவதற்காகியதாக அர்ப்பணிக்கப்படும் பலி.",
+      "modern_equivalent": "உண்ணுவதற்கான பலி",
+      "english_word": "food offering",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "பின்பு",
+      "pos": "adverb",
+      "canonical": "பின்பு",
+      "definition_ta": "ஒரு செயலுக்கு அடுத்து அல்லது அதன் பிறகு நிகழும் காலத்தைக் குறிக்கும் சொல்.",
+      "modern_equivalent": "பிறகு",
+      "english_word": "After",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "ஆசாரியன்,",
+      "pos": "noun",
+      "canonical": "ஆசாரியன்",
+      "definition_ta": "தேவனுடைய ஆலயத்தில் ஆராதனை செய்யும் கடமையை மேற்கொள்பவன்.",
+      "modern_equivalent": "ஆசாரியன்",
+      "english_word": "priest",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "உதிர்த்த",
+      "pos": "adjective",
+      "canonical": "உதிர்த்த",
+      "definition_ta": "உதிர்த்த அல்லது தட்டப்பட்ட என்ற பொருளில், ஒரு பொருளைத் தட்டிப் பிரித்ததைக் குறிக்கும்.",
+      "modern_equivalent": "தட்டப்பட்ட",
+      "english_word": "beaten",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "தானியத்திலும்",
+      "pos": "noun",
+      "canonical": "தானியம்",
+      "definition_ta": "விதை அல்லது பயிர்களைக் குறிக்கும் உணவுப் பொருள்.",
+      "modern_equivalent": "தானியம்",
+      "english_word": "grain",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "எண்ணெயிலும்",
+      "pos": "noun",
+      "canonical": "எண்ணெய்",
+      "definition_ta": "அமுக்கத்திலிருந்து எடுக்கப்படும் ஒரு வகை எண்ணெய்.",
+      "modern_equivalent": "எண்ணெய்",
+      "english_word": "oil",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "எடுத்து,",
+      "pos": "verb",
+      "canonical": "எடு",
+      "definition_ta": "ஒரு பொருளை ஒரு இடத்திலிருந்து பிரித்தெடுத்தல் அல்லது கையில் எடுத்தல்.",
+      "modern_equivalent": "எடுத்தார்",
+      "english_word": "took",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "ஞாபக்குறியான",
+      "pos": "adjective",
+      "canonical": "ஞாபக்குறியான",
+      "definition_ta": "நினைவூட்டும் அல்லது நினைவுபடுத்தும் என்ற பொருளில், ஒரு செயலை நினைவில் கொள்ள உதவும்.",
+      "modern_equivalent": "நினைவூட்டும்",
+      "english_word": "memorial",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "பங்கை",
+      "pos": "noun",
+      "canonical": "பங்கு",
+      "definition_ta": "ஒருவருக்கு உரியதாக ஒதுக்கப்பட்ட ஒரு பகுதி அல்லது உரிமை.",
+      "modern_equivalent": "பங்கு",
+      "english_word": "portion",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "அதின்",
+      "pos": "pronoun",
+      "canonical": "அது",
+      "definition_ta": "அங்கே உள்ள அந்த விருட்சத்தைக் குறிக்கும் பிரதிப்பெயரைக் குறிக்கிறது.",
+      "modern_equivalent": "அதனுடைய",
+      "english_word": "its",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "தூபவர்க்கம்",
+      "pos": "noun",
+      "canonical": "தூபவர்க்கம்",
+      "definition_ta": "ஆராதனைக்காக எரிக்கப்படும் நறுமணப் பொருள்.",
+      "modern_equivalent": "தூப incense",
+      "english_word": "incense",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "எல்லாவற்றோடுங்கூடத்",
+      "pos": "particle",
+      "canonical": "எல்லாவற்றோடு",
+      "definition_ta": "அனைத்து பொருட்களோடும் அல்லது அனைத்தோடும் சேர்த்து என்ற பொருளில்.",
+      "modern_equivalent": "எல்லாவற்றோடும்",
+      "english_word": "with all",
+      "source": "llm_single_pass"
+    },
+    {
+      "verse": 16,
+      "word": "தகனிக்கக்கடவன்;",
+      "pos": "verb",
+      "canonical": "தகனிக்க",
+      "definition_ta": "நெருப்பில் எரிக்க வேண்டும் அல்லது எரிக்கப்பட வேண்டும் என்று கட்டளையிடுதல்.",
+      "modern_equivalent": "எரிக்க வேண்டும்",
+      "english_word": "shall burn",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "இது",
+      "pos": "pronoun",
+      "canonical": "இது",
+      "definition_ta": "நெருக்கமான அல்லது குறிப்பிட்ட ஒரு பொருளைக் குறிக்கும் பிரதிப்பெயர்.",
+      "modern_equivalent": "இது",
+      "english_word": "this",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "கர்த்தருக்கு",
+      "pos": "pronoun",
+      "canonical": "கர்த்தர்",
+      "definition_ta": "ஆண்டவராக அல்லது தேவனாக வணங்கப்படும் பரமப்பிரான்.",
+      "modern_equivalent": "ஆண்டவருக்கு",
+      "english_word": "to the LORD",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "இடும்",
+      "pos": "verb",
+      "canonical": "இடு",
+      "definition_ta": "ஒரு சட்டத்தையோ அல்லது விதியையோ அதிகாரப்பூர்வமாக அறிவிப்பதைக் குறிக்கும்.",
+      "modern_equivalent": "அறிவிக்கும்",
+      "english_word": "proclaim",
+      "source": "db_0ms"
+    },
+    {
+      "verse": 16,
+      "word": "தகனபலி.",
+      "pos": "noun",
+      "canonical": "தகனபலி",
+      "definition_ta": "தேவனுக்காக நெருப்பில் எரித்துச் செலுத்தப்படும் காணிக்கை.",
+      "modern_equivalent": "எரிப்பு காணிக்கை",
+      "english_word": "burnt offering",
+      "source": "db_0ms"
+    }
+  ]
+}
