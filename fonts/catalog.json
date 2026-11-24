@@ -1,0 +1,2034 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-24T04:54:12Z",
+  "totalFonts": 96,
+  "languages": [
+    {
+      "code": "en",
+      "aliases": [
+        "eng"
+      ],
+      "label": "English & Latin",
+      "nativeLabel": "English",
+      "sampleText": "In the beginning was the Word"
+    },
+    {
+      "code": "ta",
+      "aliases": [
+        "tam"
+      ],
+      "label": "Tamil",
+      "nativeLabel": "தமிழ்",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது"
+    },
+    {
+      "code": "hi",
+      "aliases": [
+        "hin",
+        "mr",
+        "ne"
+      ],
+      "label": "Hindi & Devanagari",
+      "nativeLabel": "हिन्दी",
+      "sampleText": "आदि में वचन था"
+    },
+    {
+      "code": "te",
+      "aliases": [
+        "tel"
+      ],
+      "label": "Telugu",
+      "nativeLabel": "తెలుగు",
+      "sampleText": "ఆదియందు వాక్యముండెను"
+    },
+    {
+      "code": "ml",
+      "aliases": [
+        "mal"
+      ],
+      "label": "Malayalam",
+      "nativeLabel": "മലയാളം",
+      "sampleText": "ആദിയിൽ വചനം ഉണ്ടായിരുന്നു"
+    },
+    {
+      "code": "kn",
+      "aliases": [
+        "kan"
+      ],
+      "label": "Kannada",
+      "nativeLabel": "ಕನ್ನಡ",
+      "sampleText": "ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು"
+    },
+    {
+      "code": "bn",
+      "aliases": [
+        "ben"
+      ],
+      "label": "Bengali",
+      "nativeLabel": "বাংলা",
+      "sampleText": "আদিতে বাক্য ছিলেন"
+    },
+    {
+      "code": "gu",
+      "aliases": [
+        "guj"
+      ],
+      "label": "Gujarati",
+      "nativeLabel": "ગુજરાતી",
+      "sampleText": "આદિમાં શબ્દ હતો"
+    },
+    {
+      "code": "pa",
+      "aliases": [
+        "pan"
+      ],
+      "label": "Punjabi",
+      "nativeLabel": "ਪੰਜਾਬੀ",
+      "sampleText": "ਆਦਿ ਵਿੱਚ ਸ਼ਬਦ ਸੀ"
+    },
+    {
+      "code": "or",
+      "aliases": [
+        "ori"
+      ],
+      "label": "Odia",
+      "nativeLabel": "ଓଡ଼ିଆ",
+      "sampleText": "ଆଦিতে ବାକ୍ୟ ଥିଲେ"
+    },
+    {
+      "code": "si",
+      "aliases": [
+        "sin"
+      ],
+      "label": "Sinhala",
+      "nativeLabel": "සිංහල",
+      "sampleText": "පටන්ගැන්මේදී වචනය විය"
+    },
+    {
+      "code": "ar",
+      "aliases": [
+        "ara"
+      ],
+      "label": "Arabic",
+      "nativeLabel": "العربية",
+      "sampleText": "في البدء كان الكلمة"
+    },
+    {
+      "code": "he",
+      "aliases": [
+        "heb"
+      ],
+      "label": "Hebrew",
+      "nativeLabel": "עברית",
+      "sampleText": "בראשית היה הדבר"
+    },
+    {
+      "code": "el",
+      "aliases": [
+        "ell",
+        "gre"
+      ],
+      "label": "Greek",
+      "nativeLabel": "Ελληνικά",
+      "sampleText": "Ἐν ἀρχῇ ἦν ὁ Λόγος"
+    },
+    {
+      "code": "ru",
+      "aliases": [
+        "rus",
+        "uk",
+        "bg"
+      ],
+      "label": "Cyrillic",
+      "nativeLabel": "Кириллица",
+      "sampleText": "В начале было Слово"
+    },
+    {
+      "code": "th",
+      "aliases": [
+        "tha"
+      ],
+      "label": "Thai",
+      "nativeLabel": "ไทย",
+      "sampleText": "ในปฐมกาลพระวาทะทรงดำรงอยู่"
+    },
+    {
+      "code": "my",
+      "aliases": [
+        "mya"
+      ],
+      "label": "Myanmar",
+      "nativeLabel": "မြန်မာ",
+      "sampleText": "အစအဦး၌ နှုတ်ကပတ်တော်ရှိ၏"
+    },
+    {
+      "code": "vi",
+      "aliases": [
+        "vie"
+      ],
+      "label": "Vietnamese",
+      "nativeLabel": "Tiếng Việt",
+      "sampleText": "Ban đầu có Ngôi Lời"
+    }
+  ],
+  "fonts": [
+    {
+      "id": "literata",
+      "legacyIds": [
+        "Literata"
+      ],
+      "family": "Literata",
+      "label": "Literata",
+      "shortLabel": "Literata",
+      "subtitle": "Editorial Book Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Word",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Literata-Regular.ttf",
+        "italic": "Literata-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "lora",
+      "legacyIds": [
+        "Lora"
+      ],
+      "family": "Lora",
+      "label": "Lora",
+      "shortLabel": "Lora",
+      "subtitle": "Warm Editorial Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Faith",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Lora-Regular.ttf",
+        "italic": "Lora-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "merriweather",
+      "legacyIds": [
+        "Merriweather"
+      ],
+      "family": "Merriweather",
+      "label": "Merriweather",
+      "shortLabel": "Merriweather",
+      "subtitle": "Bold Reading Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Love",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Merriweather-Regular.ttf",
+        "italic": "Merriweather-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "playfair-display",
+      "legacyIds": [
+        "Playfair",
+        "playfair"
+      ],
+      "family": "Playfair Display",
+      "label": "Playfair Display",
+      "shortLabel": "Playfair",
+      "subtitle": "Classic Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Grace",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Playfair_Display-Regular.ttf",
+        "italic": "Playfair_Display-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "cormorant-garamond",
+      "legacyIds": [
+        "Cormorant",
+        "cormorant"
+      ],
+      "family": "Cormorant Garamond",
+      "label": "Cormorant Garamond",
+      "shortLabel": "Cormorant",
+      "subtitle": "Regal Literature",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Hope",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Cormorant_Garamond-Regular.ttf",
+        "italic": "Cormorant_Garamond-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "eb-garamond",
+      "legacyIds": [],
+      "family": "EB Garamond",
+      "label": "EB Garamond",
+      "shortLabel": "EB Garamond",
+      "subtitle": "Classical Renaissance",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Truth",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "EB_Garamond-Regular.ttf",
+        "italic": "EB_Garamond-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "crimson-pro",
+      "legacyIds": [],
+      "family": "Crimson Pro",
+      "label": "Crimson Pro",
+      "shortLabel": "Crimson Pro",
+      "subtitle": "Book Publishing Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Light",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Crimson_Pro-Regular.ttf",
+        "italic": "Crimson_Pro-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "libre-baskerville",
+      "legacyIds": [],
+      "family": "Libre Baskerville",
+      "label": "Libre Baskerville",
+      "shortLabel": "Baskerville",
+      "subtitle": "Crisp Body Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Mercy",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Libre_Baskerville-Regular.ttf",
+        "italic": "Libre_Baskerville-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "source-serif-4",
+      "legacyIds": [],
+      "family": "Source Serif 4",
+      "label": "Source Serif 4",
+      "shortLabel": "Source Serif",
+      "subtitle": "Adobe Reading Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Spirit",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Source_Serif_4-Regular.ttf",
+        "italic": "Source_Serif_4-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "spectral",
+      "legacyIds": [],
+      "family": "Spectral",
+      "label": "Spectral",
+      "shortLabel": "Spectral",
+      "subtitle": "Screen-First Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Glory",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Spectral-Regular.ttf",
+        "bold": "Spectral-Bold.ttf",
+        "italic": "Spectral-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "newsreader",
+      "legacyIds": [],
+      "family": "Newsreader",
+      "label": "Newsreader",
+      "shortLabel": "Newsreader",
+      "subtitle": "Longform Editorial",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Peace",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Newsreader-Regular.ttf",
+        "italic": "Newsreader-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "bitter",
+      "legacyIds": [],
+      "family": "Bitter",
+      "label": "Bitter",
+      "shortLabel": "Bitter",
+      "subtitle": "Slab Reading Serif",
+      "language": "en",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Amen",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Bitter-Regular.ttf",
+        "italic": "Bitter-Italic.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "inter",
+      "legacyIds": [],
+      "family": "Inter",
+      "label": "Inter",
+      "shortLabel": "Inter",
+      "subtitle": "Clean UI Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Life",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Inter-Regular.ttf",
+        "italic": "Inter-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "plus-jakarta-sans",
+      "legacyIds": [],
+      "family": "Plus Jakarta Sans",
+      "label": "Plus Jakarta Sans",
+      "shortLabel": "Jakarta",
+      "subtitle": "Modern Geometric Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Joy",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Plus_Jakarta_Sans-Regular.ttf",
+        "italic": "Plus_Jakarta_Sans-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "outfit",
+      "legacyIds": [
+        "Outfit"
+      ],
+      "family": "Outfit",
+      "label": "Outfit",
+      "shortLabel": "Outfit",
+      "subtitle": "Modern Clean Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Life",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Outfit-Regular.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "dm-sans",
+      "legacyIds": [],
+      "family": "DM Sans",
+      "label": "DM Sans",
+      "shortLabel": "DM Sans",
+      "subtitle": "Low-Contrast Geometric",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Love",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "DM_Sans-Regular.ttf",
+        "italic": "DM_Sans-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "work-sans",
+      "legacyIds": [],
+      "family": "Work Sans",
+      "label": "Work Sans",
+      "shortLabel": "Work Sans",
+      "subtitle": "Friendly Grotesk",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Work",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Work_Sans-Regular.ttf",
+        "italic": "Work_Sans-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "nunito",
+      "legacyIds": [],
+      "family": "Nunito",
+      "label": "Nunito",
+      "shortLabel": "Nunito",
+      "subtitle": "Rounded Friendly Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Kind",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Nunito-Regular.ttf",
+        "italic": "Nunito-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "lato",
+      "legacyIds": [],
+      "family": "Lato",
+      "label": "Lato",
+      "shortLabel": "Lato",
+      "subtitle": "Warm Humanist Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Open",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Lato-Regular.ttf",
+        "bold": "Lato-Bold.ttf",
+        "italic": "Lato-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "open-sans",
+      "legacyIds": [],
+      "family": "Open Sans",
+      "label": "Open Sans",
+      "shortLabel": "Open Sans",
+      "subtitle": "Neutral Legible Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Clear",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Open_Sans-Regular.ttf",
+        "italic": "Open_Sans-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "roboto",
+      "legacyIds": [],
+      "family": "Roboto",
+      "label": "Roboto",
+      "shortLabel": "Roboto",
+      "subtitle": "Android Classic Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Pure",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Roboto-Regular.ttf",
+        "italic": "Roboto-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "poppins",
+      "legacyIds": [
+        "Poppins"
+      ],
+      "family": "Poppins",
+      "label": "Poppins",
+      "shortLabel": "Poppins",
+      "subtitle": "Clean Geometric Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Pure",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Poppins-Regular.ttf",
+        "bold": "Poppins-Bold.ttf",
+        "italic": "Poppins-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "montserrat",
+      "legacyIds": [
+        "Montserrat"
+      ],
+      "family": "Montserrat",
+      "label": "Montserrat",
+      "shortLabel": "Montserrat",
+      "subtitle": "Urban Geometric Sans",
+      "language": "en",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Joy",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Montserrat-Regular.ttf",
+        "italic": "Montserrat-Italic.ttf"
+      },
+      "cssFallback": "system-ui, sans-serif"
+    },
+    {
+      "id": "cinzel",
+      "legacyIds": [
+        "Cinzel"
+      ],
+      "family": "Cinzel",
+      "label": "Cinzel",
+      "shortLabel": "Cinzel",
+      "subtitle": "Monumental Roman",
+      "language": "en",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Peace",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Cinzel-Regular.ttf"
+      },
+      "cssFallback": "Georgia, serif"
+    },
+    {
+      "id": "great-vibes",
+      "legacyIds": [
+        "GreatVibes"
+      ],
+      "family": "Great Vibes",
+      "label": "Great Vibes",
+      "shortLabel": "Great Vibes",
+      "subtitle": "Graceful Script",
+      "language": "en",
+      "category": "handwriting",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Light",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Great_Vibes-Regular.ttf"
+      },
+      "cssFallback": "cursive"
+    },
+    {
+      "id": "dancing-script",
+      "legacyIds": [],
+      "family": "Dancing Script",
+      "label": "Dancing Script",
+      "shortLabel": "Dancing",
+      "subtitle": "Lively Casual Script",
+      "language": "en",
+      "category": "handwriting",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Praise",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Dancing_Script-Regular.ttf"
+      },
+      "cssFallback": "cursive"
+    },
+    {
+      "id": "caveat",
+      "legacyIds": [],
+      "family": "Caveat",
+      "label": "Caveat",
+      "shortLabel": "Caveat",
+      "subtitle": "Handwritten Notes",
+      "language": "en",
+      "category": "handwriting",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Notes",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "Caveat-Regular.ttf"
+      },
+      "cssFallback": "cursive"
+    },
+    {
+      "id": "jetbrains-mono",
+      "legacyIds": [],
+      "family": "JetBrains Mono",
+      "label": "JetBrains Mono",
+      "shortLabel": "JetBrains",
+      "subtitle": "Readable Monospace",
+      "language": "en",
+      "category": "mono",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Code",
+      "sampleText": "In the beginning was the Word",
+      "files": {
+        "regular": "JetBrains_Mono-Regular.ttf",
+        "italic": "JetBrains_Mono-Italic.ttf"
+      },
+      "cssFallback": "monospace"
+    },
+    {
+      "id": "noto-serif-tamil",
+      "legacyIds": [
+        "NotoSerifTamil",
+        "noto-tamil"
+      ],
+      "family": "Noto Serif Tamil",
+      "label": "Noto Serif Tamil (நோட்டோ செரிஃப்)",
+      "shortLabel": "Noto Serif Tamil",
+      "subtitle": "Classic Tamil Literature",
+      "language": "ta",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "வேதம்",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Noto_Serif_Tamil-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-tamil",
+      "legacyIds": [],
+      "family": "Noto Sans Tamil",
+      "label": "Noto Sans Tamil (நோட்டோ சான்ஸ்)",
+      "shortLabel": "Noto Sans Tamil",
+      "subtitle": "Clean Modern Tamil",
+      "language": "ta",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "அன்பு",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Noto_Sans_Tamil-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "tiro-tamil",
+      "legacyIds": [],
+      "family": "Tiro Tamil",
+      "label": "Tiro Tamil (டிரோ தமிழ்)",
+      "shortLabel": "Tiro Tamil",
+      "subtitle": "Traditional Book Serif",
+      "language": "ta",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "கிருபை",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Tiro_Tamil-Regular.ttf",
+        "italic": "Tiro_Tamil-Italic.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "mukta-malar",
+      "legacyIds": [
+        "MuktaMalar"
+      ],
+      "family": "Mukta Malar",
+      "label": "Mukta Malar (முக்தா மலர்)",
+      "shortLabel": "Mukta Malar",
+      "subtitle": "Contemporary Tamil",
+      "language": "ta",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "அன்பு",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Mukta_Malar-Regular.ttf",
+        "bold": "Mukta_Malar-Bold.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "catamaran",
+      "legacyIds": [
+        "Catamaran"
+      ],
+      "family": "Catamaran",
+      "label": "Catamaran (கட்டமரன்)",
+      "shortLabel": "Catamaran",
+      "subtitle": "Clean & Modern Tamil",
+      "language": "ta",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "சமாதானம்",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Catamaran-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "hind-madurai",
+      "legacyIds": [],
+      "family": "Hind Madurai",
+      "label": "Hind Madurai (ஹிந்த் மதுரை)",
+      "shortLabel": "Hind Madurai",
+      "subtitle": "Warm Humanist Tamil",
+      "language": "ta",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "வாழ்க்கை",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Hind_Madurai-Regular.ttf",
+        "bold": "Hind_Madurai-Bold.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "anek-tamil",
+      "legacyIds": [],
+      "family": "Anek Tamil",
+      "label": "Anek Tamil (அனேக் தமிழ்)",
+      "shortLabel": "Anek Tamil",
+      "subtitle": "Versatile Variable Tamil",
+      "language": "ta",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "நம்பிக்கை",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Anek_Tamil-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "kavivanar",
+      "legacyIds": [
+        "Kavivanar"
+      ],
+      "family": "Kavivanar",
+      "label": "Kavivanar (கவிவாணர்)",
+      "shortLabel": "Kavivanar",
+      "subtitle": "Curved Devotional",
+      "language": "ta",
+      "category": "handwriting",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "விசுவாசம்",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Kavivanar-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "arima",
+      "legacyIds": [
+        "ArimaMadurai"
+      ],
+      "family": "Arima",
+      "label": "Arima (அரிமா மதுரை)",
+      "shortLabel": "Arima",
+      "subtitle": "Graceful Calligraphy",
+      "language": "ta",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "கிருபை",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Arima-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "coiny",
+      "legacyIds": [
+        "Coiny"
+      ],
+      "family": "Coiny",
+      "label": "Coiny (கோய்னி)",
+      "shortLabel": "Coiny",
+      "subtitle": "Bold Rounded Tamil",
+      "language": "ta",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ஜீவன்",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Coiny-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "meera-inimai",
+      "legacyIds": [],
+      "family": "Meera Inimai",
+      "label": "Meera Inimai (மீரா இனிமை)",
+      "shortLabel": "Meera Inimai",
+      "subtitle": "Gentle Display Tamil",
+      "language": "ta",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ஒளி",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Meera_Inimai-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "baloo-thambi-2",
+      "legacyIds": [],
+      "family": "Baloo Thambi 2",
+      "label": "Baloo Thambi 2 (பாலு தம்பி)",
+      "shortLabel": "Baloo Thambi",
+      "subtitle": "Friendly Rounded Tamil",
+      "language": "ta",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "மகிழ்ச்சி",
+      "sampleText": "ஆதியிலே வார்த்தை இருந்தது",
+      "files": {
+        "regular": "Baloo_Thambi_2-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-devanagari",
+      "legacyIds": [
+        "NotoSerifDevanagari"
+      ],
+      "family": "Noto Serif Devanagari",
+      "label": "Noto Serif Devanagari (नोटो सेरिफ़)",
+      "shortLabel": "Noto Serif Hi",
+      "subtitle": "Sacred Devanagari Serif",
+      "language": "hi",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "शान्ति",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Noto_Serif_Devanagari-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-devanagari",
+      "legacyIds": [],
+      "family": "Noto Sans Devanagari",
+      "label": "Noto Sans Devanagari (नोटो सैंस)",
+      "shortLabel": "Noto Sans Hi",
+      "subtitle": "Clean Devanagari Sans",
+      "language": "hi",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "प्रेम",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Noto_Sans_Devanagari-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "tiro-devanagari-hindi",
+      "legacyIds": [],
+      "family": "Tiro Devanagari Hindi",
+      "label": "Tiro Devanagari Hindi (टिरो हिन्दी)",
+      "shortLabel": "Tiro Hindi",
+      "subtitle": "Traditional Publishing Serif",
+      "language": "hi",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "वचन",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Tiro_Devanagari_Hindi-Regular.ttf",
+        "italic": "Tiro_Devanagari_Hindi-Italic.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "eczar",
+      "legacyIds": [],
+      "family": "Eczar",
+      "label": "Eczar (एक्ज़ार)",
+      "shortLabel": "Eczar",
+      "subtitle": "Expressive Editorial Serif",
+      "language": "hi",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "आनन्द",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Eczar-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "anek-devanagari",
+      "legacyIds": [
+        "AnekDevanagari"
+      ],
+      "family": "Anek Devanagari",
+      "label": "Anek Devanagari (अनेक)",
+      "shortLabel": "Anek Hindi",
+      "subtitle": "Contemporary Hindi",
+      "language": "hi",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "आशा",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Anek_Devanagari-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "hind",
+      "legacyIds": [],
+      "family": "Hind",
+      "label": "Hind (हिन्द)",
+      "shortLabel": "Hind",
+      "subtitle": "Clear UI & Reading Sans",
+      "language": "hi",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "सत्य",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Hind-Regular.ttf",
+        "bold": "Hind-Bold.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "mukta",
+      "legacyIds": [],
+      "family": "Mukta",
+      "label": "Mukta (मुक्ता)",
+      "shortLabel": "Mukta",
+      "subtitle": "Modern Versatile Sans",
+      "language": "hi",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "कृपा",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Mukta-Regular.ttf",
+        "bold": "Mukta-Bold.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "rozha-one",
+      "legacyIds": [
+        "RozhaOne"
+      ],
+      "family": "Rozha One",
+      "label": "Rozha One (रोज़ा वन)",
+      "shortLabel": "Rozha One",
+      "subtitle": "Dramatic Serif",
+      "language": "hi",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "प्रेम",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Rozha_One-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "yatra-one",
+      "legacyIds": [
+        "YatraOne"
+      ],
+      "family": "Yatra One",
+      "label": "Yatra One (यात्रा वन)",
+      "shortLabel": "Yatra One",
+      "subtitle": "Devotional Display",
+      "language": "hi",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "विश्वास",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Yatra_One-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "kalam",
+      "legacyIds": [
+        "Kalam"
+      ],
+      "family": "Kalam",
+      "label": "Kalam (कलम)",
+      "shortLabel": "Kalam",
+      "subtitle": "Warm Handwritten",
+      "language": "hi",
+      "category": "handwriting",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "अनुग्रह",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Kalam-Regular.ttf",
+        "bold": "Kalam-Bold.ttf"
+      },
+      "cssFallback": "cursive"
+    },
+    {
+      "id": "amita",
+      "legacyIds": [],
+      "family": "Amita",
+      "label": "Amita (अमिता)",
+      "shortLabel": "Amita",
+      "subtitle": "Calligraphic Script",
+      "language": "hi",
+      "category": "handwriting",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ज्योति",
+      "sampleText": "आदि में वचन था",
+      "files": {
+        "regular": "Amita-Regular.ttf",
+        "bold": "Amita-Bold.ttf"
+      },
+      "cssFallback": "cursive"
+    },
+    {
+      "id": "noto-serif-telugu",
+      "legacyIds": [
+        "NotoSerifTelugu"
+      ],
+      "family": "Noto Serif Telugu",
+      "label": "Noto Serif Telugu (నోటో సెరిఫ్)",
+      "shortLabel": "Noto Serif Te",
+      "subtitle": "Sacred Literature Serif",
+      "language": "te",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "శాంతి",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Noto_Serif_Telugu-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-telugu",
+      "legacyIds": [],
+      "family": "Noto Sans Telugu",
+      "label": "Noto Sans Telugu (నోటో సాన్స్)",
+      "shortLabel": "Noto Sans Te",
+      "subtitle": "Clean Modern Telugu",
+      "language": "te",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ప్రేమ",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Noto_Sans_Telugu-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "tiro-telugu",
+      "legacyIds": [],
+      "family": "Tiro Telugu",
+      "label": "Tiro Telugu (టిరో తెలుగు)",
+      "shortLabel": "Tiro Telugu",
+      "subtitle": "Traditional Book Serif",
+      "language": "te",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "కృప",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Tiro_Telugu-Regular.ttf",
+        "italic": "Tiro_Telugu-Italic.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "mandali",
+      "legacyIds": [
+        "Mandali"
+      ],
+      "family": "Mandali",
+      "label": "Mandali (మండలి)",
+      "shortLabel": "Mandali",
+      "subtitle": "Clear Modern Telugu",
+      "language": "te",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ప్రేమ",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Mandali-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "suranna",
+      "legacyIds": [
+        "Suranna"
+      ],
+      "family": "Suranna",
+      "label": "Suranna (సూరన్న)",
+      "shortLabel": "Suranna",
+      "subtitle": "Classic Editorial",
+      "language": "te",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "జీవము",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Suranna-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "ramabhadra",
+      "legacyIds": [
+        "Ramabhadra"
+      ],
+      "family": "Ramabhadra",
+      "label": "Ramabhadra (రామభద్ర)",
+      "shortLabel": "Ramabhadra",
+      "subtitle": "Bold Royal",
+      "language": "te",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "విశ్వాసం",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Ramabhadra-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "anek-telugu",
+      "legacyIds": [
+        "AnekTelugu"
+      ],
+      "family": "Anek Telugu",
+      "label": "Anek Telugu (అనేక్)",
+      "shortLabel": "Anek Telugu",
+      "subtitle": "Modern Display",
+      "language": "te",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "వెలుగు",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Anek_Telugu-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "gidugu",
+      "legacyIds": [
+        "Gidugu"
+      ],
+      "family": "Gidugu",
+      "label": "Gidugu (గిడుగు)",
+      "shortLabel": "Gidugu",
+      "subtitle": "Artistic Fluid",
+      "language": "te",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "కృప",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Gidugu-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "hind-guntur",
+      "legacyIds": [],
+      "family": "Hind Guntur",
+      "label": "Hind Guntur (హింద్ గుంటూరు)",
+      "shortLabel": "Hind Guntur",
+      "subtitle": "Humanist Reading Sans",
+      "language": "te",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ఆనందం",
+      "sampleText": "ఆదియందు వాక్యముండెను",
+      "files": {
+        "regular": "Hind_Guntur-Regular.ttf",
+        "bold": "Hind_Guntur-Bold.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-malayalam",
+      "legacyIds": [
+        "NotoSerifMalayalam"
+      ],
+      "family": "Noto Serif Malayalam",
+      "label": "Noto Serif Malayalam (നോട്ടോ സെരിഫ്)",
+      "shortLabel": "Noto Serif Ml",
+      "subtitle": "Classic Sacred Text",
+      "language": "ml",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "സമാധാനം",
+      "sampleText": "ആദിയിൽ വചനം ഉണ്ടായിരുന്നു",
+      "files": {
+        "regular": "Noto_Serif_Malayalam-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-malayalam",
+      "legacyIds": [],
+      "family": "Noto Sans Malayalam",
+      "label": "Noto Sans Malayalam (നോട്ടോ സാൻസ്)",
+      "shortLabel": "Noto Sans Ml",
+      "subtitle": "Clean Modern Malayalam",
+      "language": "ml",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "സ്നേഹം",
+      "sampleText": "ആദിയിൽ വചനം ഉണ്ടായിരുന്നു",
+      "files": {
+        "regular": "Noto_Sans_Malayalam-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "gayathri",
+      "legacyIds": [
+        "Gayathri"
+      ],
+      "family": "Gayathri",
+      "label": "Gayathri (ഗായത്രി)",
+      "shortLabel": "Gayathri",
+      "subtitle": "Contemporary Malayalam",
+      "language": "ml",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "സ്നേഹം",
+      "sampleText": "ആദിയിൽ വചനം ഉണ്ടായിരുന്നു",
+      "files": {
+        "regular": "Gayathri-Regular.ttf",
+        "bold": "Gayathri-Bold.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "manjari",
+      "legacyIds": [
+        "Manjari"
+      ],
+      "family": "Manjari",
+      "label": "Manjari (മഞ്ജരി)",
+      "shortLabel": "Manjari",
+      "subtitle": "Modern Clean",
+      "language": "ml",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "വിശ്വാസം",
+      "sampleText": "ആദിയിൽ വചനം ഉണ്ടായിരുന്നു",
+      "files": {
+        "regular": "Manjari-Regular.ttf",
+        "bold": "Manjari-Bold.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "anek-malayalam",
+      "legacyIds": [
+        "AnekMalayalam"
+      ],
+      "family": "Anek Malayalam",
+      "label": "Anek Malayalam (അനേക്)",
+      "shortLabel": "Anek Ml",
+      "subtitle": "Bold Display",
+      "language": "ml",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ജീവൻ",
+      "sampleText": "ആദിയിൽ വചനം ഉണ്ടായിരുന്നു",
+      "files": {
+        "regular": "Anek_Malayalam-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "chilanka",
+      "legacyIds": [
+        "Chilanka"
+      ],
+      "family": "Chilanka",
+      "label": "Chilanka (ചിലങ്ക)",
+      "shortLabel": "Chilanka",
+      "subtitle": "Handwritten Script",
+      "language": "ml",
+      "category": "handwriting",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "കൃപ",
+      "sampleText": "ആദിയിൽ വചനം ഉണ്ടായിരുന്നു",
+      "files": {
+        "regular": "Chilanka-Regular.ttf"
+      },
+      "cssFallback": "cursive"
+    },
+    {
+      "id": "baloo-chettan-2",
+      "legacyIds": [],
+      "family": "Baloo Chettan 2",
+      "label": "Baloo Chettan 2 (ബാലു ചേട്ടൻ)",
+      "shortLabel": "Baloo Ml",
+      "subtitle": "Friendly Rounded",
+      "language": "ml",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "പ്രകാശം",
+      "sampleText": "ആദിയിൽ വചനം ഉണ്ടായിരുന്നു",
+      "files": {
+        "regular": "Baloo_Chettan_2-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-kannada",
+      "legacyIds": [
+        "NotoSerifKannada"
+      ],
+      "family": "Noto Serif Kannada",
+      "label": "Noto Serif Kannada (ನೋಟೋ ಸೆರಿಫ್)",
+      "shortLabel": "Noto Serif Kn",
+      "subtitle": "Sacred Classic Serif",
+      "language": "kn",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ಶಾಂತಿ",
+      "sampleText": "ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು",
+      "files": {
+        "regular": "Noto_Serif_Kannada-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-kannada",
+      "legacyIds": [],
+      "family": "Noto Sans Kannada",
+      "label": "Noto Sans Kannada (ನೋಟೋ ಸಾನ್ಸ್)",
+      "shortLabel": "Noto Sans Kn",
+      "subtitle": "Clean Modern Kannada",
+      "language": "kn",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ಪ್ರೀತಿ",
+      "sampleText": "ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು",
+      "files": {
+        "regular": "Noto_Sans_Kannada-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "tiro-kannada",
+      "legacyIds": [],
+      "family": "Tiro Kannada",
+      "label": "Tiro Kannada (ಟಿರೋ ಕನ್ನಡ)",
+      "shortLabel": "Tiro Kannada",
+      "subtitle": "Traditional Book Serif",
+      "language": "kn",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ಕೃಪೆ",
+      "sampleText": "ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು",
+      "files": {
+        "regular": "Tiro_Kannada-Regular.ttf",
+        "italic": "Tiro_Kannada-Italic.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "baloo-tamma-2",
+      "legacyIds": [
+        "BalooTamma2"
+      ],
+      "family": "Baloo Tamma 2",
+      "label": "Baloo Tamma 2 (ಬಾಲೂ ತಮ್ಮ ೨)",
+      "shortLabel": "Baloo Tamma",
+      "subtitle": "Warm Rounded",
+      "language": "kn",
+      "category": "display",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ಪ್ರೀತಿ",
+      "sampleText": "ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು",
+      "files": {
+        "regular": "Baloo_Tamma_2-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "anek-kannada",
+      "legacyIds": [
+        "AnekKannada"
+      ],
+      "family": "Anek Kannada",
+      "label": "Anek Kannada (ಅನೇಕ)",
+      "shortLabel": "Anek Kannada",
+      "subtitle": "Bold Display",
+      "language": "kn",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ಕೃಪೆ",
+      "sampleText": "ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು",
+      "files": {
+        "regular": "Anek_Kannada-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "hubballi",
+      "legacyIds": [
+        "Hubballi"
+      ],
+      "family": "Hubballi",
+      "label": "Hubballi (ಹುಬ್ಬಳ್ಳಿ)",
+      "shortLabel": "Hubballi",
+      "subtitle": "Smooth Modern",
+      "language": "kn",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ವಿಶ್ವಾಸ",
+      "sampleText": "ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು",
+      "files": {
+        "regular": "Hubballi-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-bengali",
+      "legacyIds": [],
+      "family": "Noto Serif Bengali",
+      "label": "Noto Serif Bengali (বাংলা)",
+      "shortLabel": "Noto Serif Bn",
+      "subtitle": "Sacred Bengali Serif",
+      "language": "bn",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "শান্তি",
+      "sampleText": "আদিতে বাক্য ছিলেন",
+      "files": {
+        "regular": "Noto_Serif_Bengali-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-bengali",
+      "legacyIds": [],
+      "family": "Noto Sans Bengali",
+      "label": "Noto Sans Bengali (বাংলা)",
+      "shortLabel": "Noto Sans Bn",
+      "subtitle": "Clean Bengali Sans",
+      "language": "bn",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "প্রেম",
+      "sampleText": "আদিতে বাক্য ছিলেন",
+      "files": {
+        "regular": "Noto_Sans_Bengali-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "hind-siliguri",
+      "legacyIds": [],
+      "family": "Hind Siliguri",
+      "label": "Hind Siliguri (হিন্দ)",
+      "shortLabel": "Hind Siliguri",
+      "subtitle": "Warm Reading Sans",
+      "language": "bn",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "আশা",
+      "sampleText": "আদিতে বাক্য ছিলেন",
+      "files": {
+        "regular": "Hind_Siliguri-Regular.ttf",
+        "bold": "Hind_Siliguri-Bold.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-gujarati",
+      "legacyIds": [],
+      "family": "Noto Serif Gujarati",
+      "label": "Noto Serif Gujarati (ગુજરાતી)",
+      "shortLabel": "Noto Serif Gu",
+      "subtitle": "Sacred Gujarati Serif",
+      "language": "gu",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "શાંતિ",
+      "sampleText": "આદિમાં શબ્દ હતો",
+      "files": {
+        "regular": "Noto_Serif_Gujarati-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-gujarati",
+      "legacyIds": [],
+      "family": "Noto Sans Gujarati",
+      "label": "Noto Sans Gujarati (ગુજરાતી)",
+      "shortLabel": "Noto Sans Gu",
+      "subtitle": "Clean Gujarati Sans",
+      "language": "gu",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "પ્રેમ",
+      "sampleText": "આદિમાં શબ્દ હતો",
+      "files": {
+        "regular": "Noto_Sans_Gujarati-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-gurmukhi",
+      "legacyIds": [],
+      "family": "Noto Serif Gurmukhi",
+      "label": "Noto Serif Gurmukhi (ਪੰਜਾਬੀ)",
+      "shortLabel": "Noto Serif Pa",
+      "subtitle": "Sacred Punjabi Serif",
+      "language": "pa",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ਸ਼ਾਂਤੀ",
+      "sampleText": "ਆਦਿ ਵਿੱਚ ਸ਼ਬਦ ਸੀ",
+      "files": {
+        "regular": "Noto_Serif_Gurmukhi-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-gurmukhi",
+      "legacyIds": [],
+      "family": "Noto Sans Gurmukhi",
+      "label": "Noto Sans Gurmukhi (ਪੰਜਾਬੀ)",
+      "shortLabel": "Noto Sans Pa",
+      "subtitle": "Clean Punjabi Sans",
+      "language": "pa",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ਪਿਆਰ",
+      "sampleText": "ਆਦਿ ਵਿੱਚ ਸ਼ਬਦ ਸੀ",
+      "files": {
+        "regular": "Noto_Sans_Gurmukhi-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-sans-oriya",
+      "legacyIds": [],
+      "family": "Noto Sans Oriya",
+      "label": "Noto Sans Oriya (ଓଡ଼ିଆ)",
+      "shortLabel": "Noto Sans Or",
+      "subtitle": "Clean Odia Sans",
+      "language": "or",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ଶାନ୍ତି",
+      "sampleText": "ଆଦিতে ବାକ୍ୟ ଥିଲେ",
+      "files": {
+        "regular": "Noto_Sans_Oriya-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-sinhala",
+      "legacyIds": [],
+      "family": "Noto Serif Sinhala",
+      "label": "Noto Serif Sinhala (සිංහල)",
+      "shortLabel": "Noto Serif Si",
+      "subtitle": "Sacred Sinhala Serif",
+      "language": "si",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "සාමය",
+      "sampleText": "පටන්ගැන්මේදී වචනය විය",
+      "files": {
+        "regular": "Noto_Serif_Sinhala-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-sans-sinhala",
+      "legacyIds": [],
+      "family": "Noto Sans Sinhala",
+      "label": "Noto Sans Sinhala (සිංහල)",
+      "shortLabel": "Noto Sans Si",
+      "subtitle": "Clean Sinhala Sans",
+      "language": "si",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ප්‍රේමය",
+      "sampleText": "පටන්ගැන්මේදී වචනය විය",
+      "files": {
+        "regular": "Noto_Sans_Sinhala-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "amiri",
+      "legacyIds": [],
+      "family": "Amiri",
+      "label": "Amiri (أميري)",
+      "shortLabel": "Amiri",
+      "subtitle": "Classical Naskh Serif",
+      "language": "ar",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "سلام",
+      "sampleText": "في البدء كان الكلمة",
+      "files": {
+        "regular": "Amiri-Regular.ttf",
+        "bold": "Amiri-Bold.ttf",
+        "italic": "Amiri-Italic.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "noto-naskh-arabic",
+      "legacyIds": [],
+      "family": "Noto Naskh Arabic",
+      "label": "Noto Naskh Arabic",
+      "shortLabel": "Noto Naskh",
+      "subtitle": "Readable Arabic Serif",
+      "language": "ar",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "الكلمة",
+      "sampleText": "في البدء كان الكلمة",
+      "files": {
+        "regular": "Noto_Naskh_Arabic-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "cairo",
+      "legacyIds": [],
+      "family": "Cairo",
+      "label": "Cairo (القاهرة)",
+      "shortLabel": "Cairo",
+      "subtitle": "Contemporary Arabic Sans",
+      "language": "ar",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "نور",
+      "sampleText": "في البدء كان الكلمة",
+      "files": {
+        "regular": "Cairo-Regular.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-hebrew",
+      "legacyIds": [],
+      "family": "Noto Serif Hebrew",
+      "label": "Noto Serif Hebrew (עברית)",
+      "shortLabel": "Noto Serif He",
+      "subtitle": "Sacred Hebrew Serif",
+      "language": "he",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "שלום",
+      "sampleText": "בראשית היה הדבר",
+      "files": {
+        "regular": "Noto_Serif_Hebrew-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "frank-ruhl-libre",
+      "legacyIds": [],
+      "family": "Frank Ruhl Libre",
+      "label": "Frank Ruhl Libre",
+      "shortLabel": "Frank Ruhl",
+      "subtitle": "Classic Book Hebrew",
+      "language": "he",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "אמת",
+      "sampleText": "בראשית היה הדבר",
+      "files": {
+        "regular": "Frank_Ruhl_Libre-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "gentium-plus",
+      "legacyIds": [],
+      "family": "Gentium Plus",
+      "label": "Gentium Plus (Ελληνικά)",
+      "shortLabel": "Gentium Plus",
+      "subtitle": "Biblical Greek & Latin",
+      "language": "el",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Λόγος",
+      "sampleText": "Ἐν ἀρχῇ ἦν ὁ Λόγος",
+      "files": {
+        "regular": "Gentium_Plus-Regular.ttf",
+        "bold": "Gentium_Plus-Bold.ttf",
+        "italic": "Gentium_Plus-Italic.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "cardo",
+      "legacyIds": [],
+      "family": "Cardo",
+      "label": "Cardo",
+      "shortLabel": "Cardo",
+      "subtitle": "Scholarly Biblical Serif",
+      "language": "el",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Χάρις",
+      "sampleText": "Ἐν ἀρχῇ ἦν ὁ Λόγος",
+      "files": {
+        "regular": "Cardo-Regular.ttf",
+        "bold": "Cardo-Bold.ttf",
+        "italic": "Cardo-Italic.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "pt-serif",
+      "legacyIds": [],
+      "family": "PT Serif",
+      "label": "PT Serif (Кириллица)",
+      "shortLabel": "PT Serif",
+      "subtitle": "Classic Cyrillic & Latin",
+      "language": "ru",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Слово",
+      "sampleText": "В начале было Слово",
+      "files": {
+        "regular": "PT_Serif-Regular.ttf",
+        "bold": "PT_Serif-Bold.ttf",
+        "italic": "PT_Serif-Italic.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "pt-sans",
+      "legacyIds": [],
+      "family": "PT Sans",
+      "label": "PT Sans (Кириллица)",
+      "shortLabel": "PT Sans",
+      "subtitle": "Clean Cyrillic Sans",
+      "language": "ru",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Мир",
+      "sampleText": "В начале было Слово",
+      "files": {
+        "regular": "PT_Sans-Regular.ttf",
+        "bold": "PT_Sans-Bold.ttf",
+        "italic": "PT_Sans-Italic.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-thai",
+      "legacyIds": [],
+      "family": "Noto Serif Thai",
+      "label": "Noto Serif Thai (ไทย)",
+      "shortLabel": "Noto Serif Th",
+      "subtitle": "Traditional Thai Serif",
+      "language": "th",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "ความรัก",
+      "sampleText": "ในปฐมกาลพระวาทะทรงดำรงอยู่",
+      "files": {
+        "regular": "Noto_Serif_Thai-Regular.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "sarabun",
+      "legacyIds": [],
+      "family": "Sarabun",
+      "label": "Sarabun (สารบรรณ)",
+      "shortLabel": "Sarabun",
+      "subtitle": "Clean Reading Thai",
+      "language": "th",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "สันติสุข",
+      "sampleText": "ในปฐมกาลพระวาทะทรงดำรงอยู่",
+      "files": {
+        "regular": "Sarabun-Regular.ttf",
+        "bold": "Sarabun-Bold.ttf",
+        "italic": "Sarabun-Italic.ttf"
+      },
+      "cssFallback": "sans-serif"
+    },
+    {
+      "id": "noto-serif-myanmar",
+      "legacyIds": [],
+      "family": "Noto Serif Myanmar",
+      "label": "Noto Serif Myanmar (မြန်မာ)",
+      "shortLabel": "Noto Serif My",
+      "subtitle": "Classic Myanmar Serif",
+      "language": "my",
+      "category": "serif",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "မေတ္တာ",
+      "sampleText": "အစအဦး၌ နှုတ်ကပတ်တော်ရှိ၏",
+      "files": {
+        "regular": "Noto_Serif_Myanmar-Regular.ttf",
+        "bold": "Noto_Serif_Myanmar-Bold.ttf"
+      },
+      "cssFallback": "serif"
+    },
+    {
+      "id": "be-vietnam-pro",
+      "legacyIds": [],
+      "family": "Be Vietnam Pro",
+      "label": "Be Vietnam Pro (Tiếng Việt)",
+      "shortLabel": "Be Vietnam",
+      "subtitle": "Clean Vietnamese Sans",
+      "language": "vi",
+      "category": "sans",
+      "license": "OFL-1.1",
+      "source": "ondemand",
+      "sampleGlyph": "Bình an",
+      "sampleText": "Ban đầu có Ngôi Lời",
+      "files": {
+        "regular": "Be_Vietnam_Pro-Regular.ttf",
+        "bold": "Be_Vietnam_Pro-Bold.ttf",
+        "italic": "Be_Vietnam_Pro-Italic.ttf"
+      },
+      "cssFallback": "sans-serif"
+    }
+  ]
+}
